@@ -1,0 +1,130 @@
+# ATC File for Kangnung airport
+
+# Camp Id (listed in the stations+ILS.dat)
+869
+
+# Number of active runways
+2
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+0
+
+# IFR Minimum visibility (in m)
+500
+
+# IFR Minimum cloud altitude (in ft AMSL)
+251
+
+# VFR Minimum visibility (in m)
+1200
+
+# VFR Minimum cloud altitude (in ft AMSL)
+951
+
+#####################
+# RUNWAY "0" QFU 08 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+076
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+1.5 0 1000 0
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+1
+
+# Base Pt
+1.5 2 1000 1
+
+# Entry Pt
+-11.81 2.08 3500 1
+
+# Holding Pt
+-9.19 7.71 5000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+#####################
+# RUNWAY "0" QFU 26 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+256
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 2000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+9 0 2800 1
+
+# Entry Pt
+11.81 -2.08 3500 1
+
+# Holding Pt
+9.19 -7.71 5000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1

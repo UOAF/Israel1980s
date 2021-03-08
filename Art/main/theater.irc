@@ -1,0 +1,105 @@
+// 4.34 update, January 2018, by Kolbe
+//
+// This file contains the theater specific country and team names and also
+// the scenario strings, such as  scenario name, description.
+// This file offers some newly added features:
+// - You can specify 4 lines in the description field in the campaign
+//   select window which gives you the opprortunity for more detailed
+//   descriptions. 
+// - In the bottom line of the description field you can enter the
+//   campaign duration (Max. Campaign days:) and the stalemate conditions
+//   (Stalemate (days of no activity):) like they are set in the trigger files. 
+//   Bordom hours have to be converted to days.
+// - A campaign designer can now specify an overall difficulty rating, such as 
+//   Easy, Medium, Hard. 
+
+///////////////////////////////////////////////////////////////
+// START CONTENT 
+///////////////////////////////////////////////////////////////
+
+// -----Country names-----
+[ADDTEXT] TXT_COUNTRY_0 "Hezbollah"
+[ADDTEXT] TXT_COUNTRY_1 "NATO"
+[ADDTEXT] TXT_COUNTRY_2 "Israel"
+[ADDTEXT] TXT_COUNTRY_3 "PA"
+[ADDTEXT] TXT_COUNTRY_4 "Jordan"
+[ADDTEXT] TXT_COUNTRY_5 "Syria"
+[ADDTEXT] TXT_COUNTRY_6 "Egypt"
+[ADDTEXT] TXT_COUNTRY_7 "Saudi Arabia"
+
+// -----Team names-----
+[ADDTEXT] TXT_TEAM_0 "Hezbollah"
+[ADDTEXT] TXT_TEAM_1 "NATO"
+[ADDTEXT] TXT_TEAM_2 "Israel"
+[ADDTEXT] TXT_TEAM_3 "PA"
+[ADDTEXT] TXT_TEAM_4 "Jordan"
+[ADDTEXT] TXT_TEAM_5 "Syria"
+[ADDTEXT] TXT_TEAM_6 "Egypt"
+[ADDTEXT] TXT_TEAM_7 "Saudi Arabia"
+
+// -----Scenario 1-----
+[ADDTEXT] TXT_SCENARIO_1 "SERPENTS STING"																	 
+[ADDTEXT] TXT_SC_1_LINE_1 "1988: Israel pre-emptively invades Egypt to eliminate a hostile regime building a powerful military supplemented with advanced Western equipment."
+[ADDTEXT] TXT_SC_1_LINE_2 ""
+[ADDTEXT] TXT_SC_1_LINE_3 ""
+[ADDTEXT] TXT_SC_1_LINE_4 ""
+[ADDTEXT] TXT_SC_1_CAMP_END "14"
+[ADDTEXT] TXT_SC_1_CAMP_STALE "4"
+[ADDTEXT] TXT_SC_1_CAMP_DIFF "Medium"
+[ADDTEXT] NOT_USED "Keep this line!"
+
+// -----Scenario 2-----
+[ADDTEXT] TXT_SCENARIO_2 "SOLID TRUSS"
+[ADDTEXT] TXT_SC_2_LINE_1 "Following a coup, a Muslim Brotherhood regime in Egypt begins mobilising its military into the demilitarized Sinai peninsula, threatening to invade southern Israel."
+[ADDTEXT] TXT_SC_2_LINE_2 ""
+[ADDTEXT] TXT_SC_2_LINE_3 ""
+[ADDTEXT] TXT_SC_2_LINE_4 ""
+[ADDTEXT] TXT_SC_2_CAMP_END "25"
+[ADDTEXT] TXT_SC_2_CAMP_STALE "5"
+[ADDTEXT] TXT_SC_2_CAMP_DIFF "Medium"
+[ADDTEXT] NOT_USED "Keep this line!"
+
+// -----Scenario 3-----
+[ADDTEXT] TXT_SCENARIO_3 "STANDING WAVE"
+[ADDTEXT] TXT_SC_3_LINE_1 "After years of civil war, a weakened Syrian army deploys in Lebanon in order to cut off supply to opposition forces - alarmingly close to Israeli borders."
+[ADDTEXT] TXT_SC_3_LINE_2 ""
+[ADDTEXT] TXT_SC_3_LINE_3 ""
+[ADDTEXT] TXT_SC_3_LINE_4 ""
+[ADDTEXT] TXT_SC_3_CAMP_END "14"
+[ADDTEXT] TXT_SC_3_CAMP_STALE "4"
+[ADDTEXT] TXT_SC_3_CAMP_DIFF "Medium"
+[ADDTEXT] NOT_USED "Keep this line!"
+
+// -----Scenario 4-----
+[ADDTEXT] TXT_SCENARIO_4 "PEACE FOR GALILEE"
+[ADDTEXT] TXT_SC_4_LINE_1 "1982: Israel executes a surpise attack into Lebanon to destroy the PLO and expel Syrian military forces from the region."
+[ADDTEXT] TXT_SC_4_LINE_2 ""
+[ADDTEXT] TXT_SC_4_LINE_3 ""
+[ADDTEXT] TXT_SC_4_LINE_4 ""
+[ADDTEXT] TXT_SC_4_CAMP_END "25"
+[ADDTEXT] TXT_SC_4_CAMP_STALE "5"
+[ADDTEXT] TXT_SC_4_CAMP_DIFF "Hard"
+[ADDTEXT] NOT_USED "Keep this line!"
+
+
+// -----Scenario 5-----
+[ADDTEXT] TXT_SCENARIO_5 "OLD SCHOOL"
+[ADDTEXT] TXT_SC_5_LINE_1 "Akrotiri's 5555th are B-2 and F-22 Stealth Squadrons that are available for escort and bombing support. HQ will keep them on standby for your disposal."
+[ADDTEXT] TXT_SC_5_LINE_2 ""
+[ADDTEXT] TXT_SC_5_LINE_3 ""
+[ADDTEXT] TXT_SC_5_LINE_4 ""
+[ADDTEXT] TXT_SC_5_CAMP_END "25"
+[ADDTEXT] TXT_SC_5_CAMP_STALE "5"
+[ADDTEXT] TXT_SC_5_CAMP_DIFF "Medium"
+[ADDTEXT] NOT_USED "Keep this line!"
+
+// -----Scenario 6-----
+[ADDTEXT] TXT_SCENARIO_6 "RED LINE"
+[ADDTEXT] TXT_SC_6_LINE_1 "Israel is at war with both syria and Egypt. US sent three carriers to assist. Then Jordan and Palestinians attack."
+[ADDTEXT] TXT_SC_6_LINE_2 ""
+[ADDTEXT] TXT_SC_6_LINE_3 ""
+[ADDTEXT] TXT_SC_6_LINE_4 ""
+[ADDTEXT] TXT_SC_6_CAMP_END "14"
+[ADDTEXT] TXT_SC_6_CAMP_STALE "4"
+[ADDTEXT] TXT_SC_6_CAMP_DIFF "Medium"
+[ADDTEXT] NOT_USED "Keep this line!"

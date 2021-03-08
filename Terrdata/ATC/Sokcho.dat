@@ -1,0 +1,130 @@
+# ATC File for Sokcho airport
+
+# Camp Id (listed in the stations+ILS.dat)
+1212
+
+# Number of active runways
+2
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+1
+
+# IFR Minimum visibility (in m)
+400
+
+# IFR Minimum cloud altitude (in ft AMSL)
+250
+
+# VFR Minimum visibility (in m)
+700
+
+# VFR Minimum cloud altitude (in ft AMSL)
+580
+
+#####################
+# RUNWAY "0" QFU 26 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+260
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+8.5 0 2400 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+11.5 0 3500 1
+
+# Entry Pt
+13.3 1.1 4000 1
+
+# Holding Pt
+10.2 8.3 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+#####################
+# RUNWAY "0" QFU 08 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+080
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+3 0 1000 0
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+1
+
+# Base Pt
+2.0 -1.6 2000 1
+
+# Entry Pt
+0 0 2000 1
+
+# Holding Pt
+-14 0 4000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1

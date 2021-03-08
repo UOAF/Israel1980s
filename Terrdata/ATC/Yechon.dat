@@ -1,0 +1,130 @@
+# ATC File for Yechon airport
+
+# Camp Id (listed in the stations+ILS.dat)
+872
+
+# Number of active runways
+2
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+0
+
+# IFR Minimum visibility (in m)
+500
+
+# IFR Minimum cloud altitude (in ft AMSL)
+600
+
+# VFR Minimum visibility (in m)
+1200
+
+# VFR Minimum cloud altitude (in ft AMSL)
+1400
+
+#####################
+# RUNWAY "0" QFU 10 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+096
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+2 0 1000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+1
+
+# Base Pt
+7.4 -1.25 3000 1
+
+# Entry Pt
+11.9 -3.1 5000 1
+
+# Holding Pt
+11.3 -8.1 8000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+#####################
+# RUNWAY "0" QFU 28 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+276
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+6 0 2500 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+12 0 5000 1
+
+# Entry Pt
+16.3 4.8 7000 1
+
+# Holding Pt
+10.6 13.1 10000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1

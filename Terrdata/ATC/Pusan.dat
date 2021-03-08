@@ -1,0 +1,130 @@
+# ATC File for Pusan airbase
+
+# Camp Id (listed in the stations+ILS.dat)
+3095
+
+# Number of active runways
+2
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+0
+
+# IFR Minimum visibility (in m)
+500
+
+# IFR Minimum cloud altitude (in ft AMSL)
+700
+
+# VFR Minimum visibility (in m)
+1500
+
+# VFR Minimum cloud altitude (in ft AMSL)
+1500
+
+#####################
+# RUNWAY "0" QFU 14 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+140
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+2.3 1.9 1300 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+5.4 4.6 3000 1
+
+# Entry Pt
+5.2 9 4000 1
+
+# Holding Pt
+0 11 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+#####################
+# RUNWAY "0" QFU 32 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+320
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+7 0 2600 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+10.7 -2.9 3200 1
+
+# Entry Pt
+6.9 -8.6 4500 1
+
+# Holding Pt
+0 -11 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1

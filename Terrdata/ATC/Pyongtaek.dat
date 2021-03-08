@@ -1,0 +1,130 @@
+# ATC File for Pyongtaek airbase
+
+# Camp Id (listed in the stations+ILS.dat)
+877
+
+# Number of active runways
+2
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+0
+
+# IFR Minimum visibility (in m)
+280
+
+# IFR Minimum cloud altitude (in ft AMSL)
+219
+
+# VFR Minimum visibility (in m)
+1500
+
+# VFR Minimum cloud altitude (in ft AMSL)
+1000
+
+#####################
+# RUNWAY "0" QFU 34 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+340
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 2000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+9 0 2300 1
+
+# Entry Pt
+12 0 2500 1
+
+# Holding Pt
+14 0 3000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+#####################
+# RUNWAY "0" QFU 16 #
+#####################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+160
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+2 0 1000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+3.2 1.1 1000 1
+
+# Entry Pt
+-2 5.7 2100 1
+
+# Holding Pt
+-4.9 13.4 3000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1

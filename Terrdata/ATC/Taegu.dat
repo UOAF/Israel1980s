@@ -1,0 +1,242 @@
+# ATC File for Taegu
+
+# CampID (listed in stations+ils.dat)
+778
+
+# Number of active runways
+4
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+1
+
+# IFR Minimum visibility (in m)
+500
+
+# IFR Minimum cloud altitude (in ft AMSL)
+553
+
+# VFR Minimum visibility (in m)
+1600
+
+# VFR Minimum cloud altitude (in ft AMSL)
+1153
+
+###########################
+# RUNWAY: 0 HDG:312 QFU:31L
+###########################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+312
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 2000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+9 0 3000 1
+
+# Entry Pt
+10.63 -2.85 4000 1
+
+# Holding Pt
+10.4 -9.37 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+###########################
+# RUNWAY: 0 HDG:132 QFU:13R
+###########################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+132
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+6 0 1800 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+9.99 -0.52 3350 1
+
+# Entry Pt
+13.74 -2.67 4000 1
+
+# Holding Pt
+21.17 -8.99 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+###########################
+# RUNWAY: 1 HDG:312 QFU:31R
+###########################
+
+# Database Runway "Number" (Runway Id)
+1
+
+# Runway axis (Heading)
+312
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 2000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+9 0 3000 1
+
+# Entry Pt
+10.63 -2.85 4000 1
+
+# Holding Pt
+10.4 -9.37 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+###########################
+# RUNWAY: 1 HDG:132 QFU:13L
+###########################
+
+# Database Runway "Number" (Runway Id)
+1
+
+# Runway axis (Heading)
+132
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+6 0 1800 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+9.99 -0.52 3350 1
+
+# Entry Pt
+13.74 -2.67 4000 1
+
+# Holding Pt
+21.17 -8.99 6000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+#***INFO 353 31L 13R 31R 13L
+
+### File created 22-05-20 19:37:45 with ATC Tool version 0.3

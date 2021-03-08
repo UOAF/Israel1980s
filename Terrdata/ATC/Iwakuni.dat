@@ -1,0 +1,134 @@
+# ATC File for Iwakuni
+
+# CampID (listed in stations+ils.dat)
+1986
+
+# Number of active runways
+2
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+0
+
+# IFR Minimum visibility (in m)
+500
+
+# IFR Minimum cloud altitude (in ft AMSL)
+160
+
+# VFR Minimum visibility (in m)
+1500
+
+# VFR Minimum cloud altitude (in ft AMSL)
+800
+
+###########################
+# RUNWAY: 0 HDG:015 QFU:02
+###########################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+15
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 1210 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+11 0 2850 1
+
+# Entry Pt
+8 0 1700 1
+
+# Holding Pt
+14 0 3500 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+###########################
+# RUNWAY: 0 HDG:195 QFU:20
+###########################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+195
+
+# Has "Base" approach
+0
+
+# Has "Long Final" approach
+1
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+4 0 1500 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+0 0 0 0
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+9 0 3850 1
+
+# Holding Pt
+12 0 4000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+#***INFO 10 02 20
+
+### File created 5/23/2020 9:04:54 AM - ATC Tool version 0.3

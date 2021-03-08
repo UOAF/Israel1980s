@@ -1,0 +1,242 @@
+# ATC File for Kwangju
+
+# CampID (listed in stations+ils.dat)
+767
+
+# Number of active runways
+4
+
+# Force closer VFR ("0" is Normal pattern / "1" is Short pattern => Base is mandatory)
+0
+
+# IFR Minimum visibility (in m)
+450
+
+# IFR Minimum cloud altitude (in ft AMSL)
+410
+
+# VFR Minimum visibility (in m)
+1600
+
+# VFR Minimum cloud altitude (in ft AMSL)
+920
+
+###########################
+# RUNWAY: 0 HDG:037 QFU:04L
+###########################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+37
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 2000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+11.88 1.67 3000 1
+
+# Entry Pt
+11.41 3.71 3000 1
+
+# Holding Pt
+9.19 7.71 4000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+###########################
+# RUNWAY: 0 HDG:217 QFU:22R
+###########################
+
+# Database Runway "Number" (Runway Id)
+0
+
+# Runway axis (Heading)
+217
+
+# Has "Base" approach
+0
+
+# Has "Long Final" approach
+1
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+8.99 0.31 2350 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+0 0 0 0
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+11.28 4.1 7000 1
+
+# Holding Pt
+16.8 6.45 7000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+###########################
+# RUNWAY: 1 HDG:037 QFU:04R
+###########################
+
+# Database Runway "Number" (Runway Id)
+1
+
+# Runway axis (Heading)
+37
+
+# Has "Base" approach
+1
+
+# Has "Long Final" approach
+0
+
+# Overhead side ("-1" is Left / "1" is Right)
+1
+
+# Final Pt
+6 0 2000 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+11.88 1.67 3000 1
+
+# Entry Pt
+11.41 3.71 3000 1
+
+# Holding Pt
+9.19 7.71 4000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+1
+
+###########################
+# RUNWAY: 1 HDG:217 QFU:22L
+###########################
+
+# Database Runway "Number" (Runway Id)
+1
+
+# Runway axis (Heading)
+217
+
+# Has "Base" approach
+0
+
+# Has "Long Final" approach
+1
+
+# Overhead side ("-1" is Left / "1" is Right)
+-1
+
+# Final Pt
+8.99 0.31 2350 1
+
+############
+#   BASE   #
+############
+
+# Say Base ("0" is Say nothing / "1" is Right / "2" is Left)
+0
+
+# Base Pt
+0 0 0 0
+
+# Entry Pt
+0 0 0 0
+
+# Holding Pt
+0 0 0 0
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+############
+#   LONG   #
+############
+
+# Entry Pt
+11.28 4.1 7000 1
+
+# Holding Pt
+16.8 6.45 7000 1
+
+# Loiter turn ("-1" is Left / "1" is Right)
+-1
+
+#***INFO 110 04L 22R 04R 22L
+
+### File created 6/23/2020 6:25:50 AM - ATC Tool version 0.4

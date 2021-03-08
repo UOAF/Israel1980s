@@ -1,0 +1,65 @@
+#------------------
+# Israel 1980s TDF file
+#------------------
+
+# shown in the pick list
+name Israel 1980s
+
+# Title shown on theater page
+desc Israeli Theater of Operations 4.35 - Optimized for 1980s-style operations
+
+# bitmap to display on theater page
+bitmap Add-On Israel1980s\Terrdata\theaterdefinition\Israel1980s.TGA
+
+# in general, you can miss out most of these, and it
+# will use the default, unless another theater changes it
+# so probably best to put in explicitly.
+ 
+# Where the campaign directory is
+campaigndir Add-On Israel1980s\campaign
+
+# where the terrain data is
+terraindir Add-On Israel\Terrdata\Israel
+
+# which tileset to use - overrides the global setting in the cfg file
+tileset POLAK
+
+
+# where art is loaded from
+artdir Add-On Israel1980s
+
+# movies
+#moviedir 
+ 
+# uisounds 
+#uisounddir Sounds
+
+# default objects
+objectdir Add-On Israel1980s\Terrdata\objects
+
+# misc textures
+misctexdir Terrdata\misctex
+
+# 3d object files
+3ddatadir Add-On Israel\Terrdata\objects
+
+# sounds dir
+sounddir Add-On Israel\Sounds
+
+# simdata dir
+simdatadir Add-On Israel1980s\Sim
+
+# minimum tacan channel
+mintacan 1
+
+# use double resolution 2D UI map
+doubleres2dmap 1
+
+# splash screens
+# splashdir Add-On Israel\art\splash
+
+#subtitles
+subtitlesdir Add-On Israel\Sounds
+
+# Theater specific tacref dir
+tacrefdir Add-On Israel\Terrdata
