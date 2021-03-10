@@ -923,7 +923,7 @@ avionicsHudDGFTDefaultMode 2
 avionicsDGFTMasterModeLabelOnHud 1
 avionicsDGFTAttitudeAwareness 0
 avionicsMLUM2TAOnHUD 0
-avionicsHudAATargetAspectAngle 1
+avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 1
 avionicsNewAMRAAMdlz 0
 avionicsBullseyeOnHud 1
@@ -943,7 +943,7 @@ avionicsActivateMFDBoot 2 #Uri-ba 07/03/2015
 avionicsMMCUpgrade 0
 avionicsEGIUpgrade 0
 avionicsDigitalFLCS 0
-avionicsRWRType 0
+avionicsRWRType 4
 avionicsGunEEGSMode 0
 avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
@@ -955,7 +955,7 @@ avionicsCursorEnableAsToggle 0
 avionicsMaverickHandoffCapeable 0
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 1
 #-----------------------------------------------------

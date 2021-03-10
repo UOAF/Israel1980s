@@ -1526,7 +1526,7 @@ avionicsCursorEnableAsToggle 0
 avionicsMaverickHandoffCapeable 0
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------

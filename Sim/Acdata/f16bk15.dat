@@ -1501,7 +1501,7 @@ avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 0
 avionicsHudNavDeclutterEnabled 0
 avionicsHudNavSpdAltTapesLag 0
-avionicsZenithNadirOnHud 0
+avionicsZenithNadirOnHud 1
 avionicsGhostHorizonAwareness 0
 avionicsEPAFRadarCues 0
 avionicsRadarJamChevrons 0
@@ -1526,7 +1526,7 @@ avionicsCursorEnableAsToggle 1
 avionicsMaverickHandoffCapeable 0
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------

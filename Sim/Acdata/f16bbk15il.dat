@@ -1482,22 +1482,22 @@ animRefuelRate 50.0
 #-----------------------------------------------------
 avionicsCanUseSpice 0
 avionicsJDAMAvionicsType 0
-avionicsDiffICPStyle 0
+avionicsDiffICPStyle 1
 avionicsMLUPFL 0
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
 avionicsEHSI 0
 avionicsHudLadderTapeType 2
 avionicsHudVAHTapeType 2
-avionicsHudDGFTDefaultMode 4
+avionicsHudDGFTDefaultMode 2
 avionicsDGFTMasterModeLabelOnHud 1
 avionicsDGFTAttitudeAwareness 0
-avionicsMLUM2TAOnHUD 1
-avionicsHudAATargetAspectAngle 1
+avionicsMLUM2TAOnHUD 0
+avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 1
 avionicsNewAMRAAMdlz 1
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
@@ -1514,7 +1514,7 @@ avionicsActivateMFDBoot 2
 avionicsMMCUpgrade 0
 avionicsEGIUpgrade 0
 avionicsDigitalFLCS 0
-avionicsRWRType 0
+avionicsRWRType 4
 avionicsGunEEGSMode 0
 avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
@@ -1525,14 +1525,14 @@ avionicsHudOldBAIType 1
 avionicsCursorEnableAsToggle 0
 avionicsMaverickHandoffCapeable 0
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
-avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsASIU 1
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 31
+avionicsIFFTransponderSettings 7
 avionicsIFFInterrogatorSettings 0
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------
