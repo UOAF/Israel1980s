@@ -28,6 +28,9 @@ tileset POLAK
 # where art is loaded from
 artdir Add-On Israel1980s
 
+# ckptart dir
+cockpitdir Add-On Israel1980s\Art\CkptArt
+
 # movies
 #moviedir 
  
