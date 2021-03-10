@@ -1,0 +1,50 @@
+Date: 31/12/2014
+
+Overview about the different 3dbuttons.dat files and by which AC type they are used.
+
+=== MLU Type (BE specific) ===
+F-16AM-BE
+F-16AM-J-O
+
+
+=== MLU Type (NL specific) ===
+F-16AM-NL
+
+
+=== Block 40-Type ===
+F-16C-40
+F-16C-42
+F-16D-40
+
+
+=== Block 50-Type ===
+F-16A-15
+F-16A-15-IAF
+F-16AM-DK
+F-16AM-NO
+F-16B-15
+F-16B-15-IAF
+F-16C-25
+F-16C-30
+F-16C-30-IAF
+F-16C-32
+F-16C-32-EAF
+F-16C-40 EAF
+F-16C-40 IAF
+F-16C-50
+F-16C-52+
+F-16C-52+CFT
+F-16C-52-EAF
+F-16C-AGRS
+F-16C-TB
+F-16D-30-IAF
+F-16D-40-IAF
+F-16D-52
+F-16I-52
+F-16I-52-CFT
+KF-16C-32
+KF-16C-52
+
+
+Note:
+The EAF / IAF Block 40s use the Block 50 type by purpose because they don't have the WAR HUD.

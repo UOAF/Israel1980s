@@ -1,0 +1,66 @@
+// 3-d cockpit description
+// basic version - equivalent to the built in version
+//
+// Mapi 01/2005   activated simple F14(A) to F-14D new texture(DDS)
+// ** Added RTT value by Daws 21/08/2006 **
+
+boresighty 0.75;
+rttTarget 512 512; 
+
+// fromat BBS2 UL - UR - LL !!! Right ;-) (by Daws)
+hud     20.063 -2.750 -0.618     20.063  2.750 -0.618    20.063 -2.750 4.902 5 5 260 260 c;
+rwr     18.780 -4.368  5.147     18.779 -2.486  5.147    18.676 -4.368 7.018 5 420 85 500 c;
+ded     18.37 7.25 13.3    18.37 11.45 13.3    18.37 7.25 14.1  5 300 195 350 c;  // 4.2 0.8
+mfdleft 18.205 -2.2 10.6   18.205 1.8 10.6     18.135 -2.2 15.3 265 5 415 155 c;
+mfdright 18.37 3.2 9.4    18.37  6.7 9.4     18.32 3.2 13.3 265 265 415 415 c; // closeup
+
+
+// various colours
+padlockbg ff7c4706; //padlock background
+padlockliftline ff5ee75e; //padlock liftline, green
+padlockvpside ff00ffff; //padlock viewport box 3 sides, yellow
+padlockvptop ffffffff; //padlock viewport top, white
+padlocktick ff0000ff; //padlock zero level tickmark, red
+needlecolor0 ff777777; // primary needle color, gray
+needlecolor1 ff1111aa; // secondary needle color, redish
+dedcolor FF00FF9C; //  DED color
+
+// the LOD models to use.
+cockpitmodel 1405; // the main 3d cockpit model
+cockpitwingsmodel 1359; // the 3d cockpit wings model
+cockpithudmodel 4;
+
+// oil gauge
+
+// nozzle gauge
+
+// rpm gauge
+DIAL
+	numendpoints = 4;
+	points = 1.571 0.0 3.142 2.307;
+	values =  0.0 60.0 100.0 110.0;
+	radius0 = 0.85;
+	color0 = ffdddddd;
+	callbackslot = 40;
+	destloc =18.3 -9.076 12.186   18.3 -7.776 12.186   18.3 -9.076 13.467;
+#end
+
+// ftit gauge
+
+// altimeter gauge
+DIAL
+	numendpoints = 2;
+	points =  1.57  1.571
+	values =  0.0   1000.0;
+	radius0 = 0.85;
+	color0 = ffffffff;
+	callbackslot = 44;
+	destloc = 18.3 -5.4 11.6	18.3 -3.3 11.6 	18.3 -5.5 14.1;  // 1.8 (2.3 2.4  dowm +5)
+#end
+
+
+zbuffering 1
+
+viewlimit_pan_left 160.0;
+viewlimit_pan_right 160.0;
+viewlimit_pitch_down 50.0;

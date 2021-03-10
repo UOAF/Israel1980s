@@ -1,0 +1,73 @@
+// 3-d cockpit description
+// F-15E Davide "Daws" Sangiorgi v1.1 RTT OPEN FALCON
+
+// Boresight cross height
+boresighty 0.75;
+
+// Shared render to texture target size, width height depth, depth needs to be 32 for texture alpha to work default is primary 
+rttTarget 600 600;
+
+// format is 3-d coords: up left - up right - low left
+// Rtt: LEFT, TOP, Right, Bottom, BlendMode, Alpha
+// BlendModes are a = alpha blending, c = color blending, g = texture gouraud, t = texture, default = g
+
+hud	20.063	-2.550	-0.618	20.063	2.550	-0.618	20.063	-2.550	4.902	0	0	280	280	c;
+pfl	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	281	0	481	70	c;
+ded	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	281	71	481	141	c;
+rwr	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000	482	0	600	118	c;
+mfdleft	0.000	0.000	0.000	0.000	0.000	0.000	0.000	0.000   0.000	375	375	600	600	c;
+mfdright	0.000	0.000	0.000 	0.000	0.000	0.000 	0.000	0.000	0.000	375	145	600	370	c;
+hms	20.063	-4.000	-4.000	20.063	4.000	-4.000	20.063	-4.000	4.000	0	314	286	600	c;
+
+
+// font settings for displays
+hudfont 4;
+hudwarnfont 6;
+mfdfont 7;
+dedfont 10;
+pflfont 10;
+rwrfont 11;
+hmsfont 13;
+
+
+// floodlightcolormod r g b where r g b are float between 0.0 to 1.0
+floodlightcolormod 0.88 0.68 0.08; // orange
+
+// various colours
+padlockbg ff7c4706; //padlock background
+padlockliftline ff5ee75e; //padlock liftline, green
+padlockvpside ff00ffff; //padlock viewport box 3 sides, yellow
+padlockvptop ffffffff; //padlock viewport top, white
+padlocktick ff0000ff; //padlock zero level tickmark, red
+needlecolor0 ffdddddd; // primary needle color, gray
+needlecolor1 ffdddddd; // secondary needle color, redish
+dedcolor ff0000ff; //  DED color
+
+// the LOD models to use.
+cockpitmodel 733; // functions
+cockpitmodel2 734; // static
+cockpitmodel3 735; // nightlight
+cockpithudmodel 736; // hud rtt
+cockpitcanopymodel 737; // canopy
+cockpitwingsmodel 1417; // the 3d cockpit wings model
+
+
+//			angle to position, rpm value, multiplier
+rpm_needle 		360.0 		100
+
+zbuffering 1
+
+viewlimit_pan_left 165.0;
+viewlimit_pan_right 165.0;
+viewlimit_pitch_down 70.0;
+
+movementlimit_left       1.5;
+movementlimit_right      1.5;
+movementlimit_up         0.1;
+movementlimit_down       2.5;
+movementlimit_fore       0.5;
+movementlimit_aft        0.5;
+6dof_ready 1;
+rtt_canopy 1;
+hudview_tint_color       50000000;
+hud_projector_glow_color 00006000;

@@ -1,0 +1,113 @@
+Pit: Aeyes 3D F-15C, Creator: Daws, Version: 1.0
+
+<command name>           <x>     <y> 	<z>	<size>	<snd>	<msbtn>
+
+//icp
+SimICPAG                -2.402 -0.259  -1.464 30 129   1
+SimICPCom1              -1.535 -1.604  -2.890 18 127   1		
+SimICPCom2              -1.455 -1.604  -2.740 18 127   1
+SimICPLIST              -1.390 -1.604  -2.590 18 127   1		
+SimICPTILS              -1.455 -1.604  -2.890 18 127   1		
+SimICPALOW              -1.390 -1.604  -2.740 18 127   1			
+SimICPTHREE             -1.320 -1.604  -2.590 18 127   1			
+SimICPStpt              -1.385 -1.604  -2.890 18 127   1		
+SimICPCrus              -1.315 -1.604  -2.740 18 127   1		
+SimICPSIX               -1.245 -1.604  -2.590 18 127   1		
+SimICPMark              -1.300 -1.604  -2.890 18 127   1			
+SimICPEIGHT             -1.245 -1.604  -2.740 18 127   1		
+SimICPNINE              -1.175 -1.604  -2.590 18 127   1		
+SimICPZERO              -1.170 -1.604  -2.740 18 127   1		
+SimICPCLEAR             -1.230 -1.604  -2.890 20 127   1			
+SimICPEnter             -1.110 -1.604  -2.590 20 127   1		
+SimICPNext              -1.768 -1.604  -3.140 20 127   1		
+SimICPPrevious          -1.930 -1.604  -3.440 20 127   1		
+SimICPDEDUP             -1.470 -1.604  -2.600 20 127   1	
+SimICPDEDDOWN           -1.560 -1.604  -2.760 20 127   1		
+SimICPDEDSEQ            -1.650 -1.604  -2.950 20 127   1			
+SimICPResetDED          -1.100 -1.604  -2.740 20 127   1
+SimDriftCOOn            -2.3    0.054  -1.089 20 115   1
+SimDriftCOOff           -2.3    0.054  -1.089 20 115   2
+SimHUDBrightnessUp	-2.34   0.24   -1.246 20 125   1
+SimHUDBrightnessDown	-2.34   0.24   -1.246 20 125   2
+ExtinguishMasterCaution	-2.209  0.257  -0.639 40 127   1
+SimStepComm1VolumeUp    -2.227 -0.166  -0.800 20 125   1
+SimStepComm1VolumeDown	-2.227 -0.166  -0.800 20 125   2
+SimCycleRadioChannel    -2.256  0.277  -0.913 20 126   1
+SimDecRadioChannel      -2.256  0.277  -0.913 20 126   2
+
+//mfds
+SimCBEOSB_BRTUP_L	-2.480  0.987  -1.146 30 125   1 
+SimCBEOSB_BRTDOWN_L	-2.480  0.987  -1.146 30 125   2
+SimCBEOSB_BRTUP_R	-2.28   0.866  -1.983 10 125   1
+SimCBEOSB_BRTDOWN_R	-2.271  0.867  -2.02  10 125   1
+SimCBEOSB_1R            -2.435  1.168  -1.335 20 126   1
+SimCBEOSB_2R            -2.435  1.091  -1.335 20 126   1
+SimCBEOSB_3R            -2.435  1.015  -1.335 20 126   1
+SimCBEOSB_4R            -2.435  0.936  -1.335 20 126   1
+SimCBEOSB_5R            -2.435  0.857  -1.335 20 126   1
+SimCBEOSB_6R            -2.407  0.738  -1.457 20 126   1
+SimCBEOSB_7R            -2.384  0.738  -1.537 20 126   1
+SimCBEOSB_8R            -2.376  0.738  -1.618 20 126   1
+SimCBEOSB_9R            -2.346  0.738  -1.697 20 126   1
+SimCBEOSB_10R           -2.325  0.738  -1.774 20 126   1
+SimCBEOSB_11R           -2.298  0.856  -1.902 20 126   1
+SimCBEOSB_12R           -2.298  0.936  -1.902 20 126   1
+SimCBEOSB_13R           -2.298  1.016  -1.902 20 126   1
+SimCBEOSB_14R           -2.298  1.093  -1.902 20 126   1
+SimCBEOSB_15R           -2.298  1.171  -1.902 20 126   1
+SimCBEOSB_16R           -2.325  1.285  -1.774 20 126   1
+SimCBEOSB_17R           -2.346  1.285  -1.697 20 126   1
+SimCBEOSB_18R           -2.367  1.285  -1.618 20 126   1
+SimCBEOSB_19R           -2.384  1.285  -1.537 20 126   1
+SimCBEOSB_20R           -2.407  1.285  -1.457 20 126   1
+SimCBEOSB_1L            -2.543  0.700  -0.882 20 126   1
+SimCBEOSB_2L            -2.543  0.640  -0.882 20 126   1
+SimCBEOSB_3L            -2.543  0.582  -0.882 20 126   1
+SimCBEOSB_4L            -2.543  0.528  -0.882 20 126   1
+SimCBEOSB_5L            -2.543  0.474  -0.882 20 126   1
+SimCBEOSB_6L            -2.524  0.418  -0.943 20 126   1
+SimCBEOSB_7L            -2.512  0.418  -0.997 20 126   1
+SimCBEOSB_8L            -2.500  0.418  -1.049 20 126   1
+SimCBEOSB_9L            -2.489  0.418  -1.103 20 126   1
+SimCBEOSB_10L           -2.475  0.418  -1.160 20 126   1
+SimCBEOSB_11L           -2.464  0.474  -1.203 20 126   1
+SimCBEOSB_12L           -2.464  0.528  -1.203 20 126   1
+SimCBEOSB_13L           -2.464  0.582  -1.203 20 126   1
+SimCBEOSB_14L           -2.464  0.640  -1.203 20 126   1
+SimCBEOSB_15L           -2.464  0.700  -1.203 20 126   1
+SimCBEOSB_16L           -2.475  0.750  -1.160 20 126   1
+SimCBEOSB_17L           -2.489  0.750  -1.103 20 126   1
+SimCBEOSB_18L           -2.500  0.750  -1.049 20 126   1
+SimCBEOSB_19L           -2.512  0.750  -0.997 20 126   1
+SimCBEOSB_20L           -2.524  0.750  -0.943 20 126   1
+
+//hsi area
+SimHSIModeInc
+SimHSIModeDec			
+SimHsiCourseInc		-2.264 -0.163  -2.055 30 126   1
+SimHsiCourseDec  	-2.264 -0.163  -2.055 30 126   2
+SimHsiHeadingInc 	-2.264  0.163  -2.055 30 126   1
+SimHsiHeadingDec 	-2.264  0.163  -2.055 30 126   2
+SimIncFuelSwitch	-2.270 -1.128  -2.025 40 126   1
+SimDecFuelSwitch	-2.270 -1.128  -2.025 40 126   2
+SimFuelTransNorm	
+SimFuelTransWing	
+
+
+
+
+SimEmergencyJettison 	-2.302	0.274  -1.41  40 123   1
+AFGearUp		-2.093  1.275  -2.151 40 118   1
+AFGearDown		-2.093  1.275  -2.151 40 118   2
+AFAlternateGear		-2.106  1.583  -2.166 40 118   1
+AFCanopyToggle		-0.773 -1.604  -1.802 50 129   1
+AFCanopyToggle		-0.970 -1.400  -1.802 50 129   1
+SimMasterArmUp		-2.300  0.720  -1.888 40 115   1
+SimMasterArmDown	-2.300  0.720  -1.888 40 115   2
+SimParkingBrakeOn       -2.273  0.282  -1.981 40 129   1
+SimParkingBrakeOff      -2.273  0.282  -1.981 40 129   2
+
+
+
+
+		

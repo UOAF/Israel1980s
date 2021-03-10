@@ -1,0 +1,29 @@
+// 3-d cockpit description
+// F22 version by Thomas Hamarcak 2002 release 2 
+// modified by Charles "Cobracab" Bodiker July 5, 2003
+
+// format is 3-d coords for Upper Right, Upper Left and Lower Left
+hud      20.063	-2.750 	-0.618	20.063 	 2.750 -0.618    20.063 -2.750 4.902;
+rwr     18.205 -1.500  10.000     18.205 1.500  10.000    18.205 -1.500 13.143;
+ded      18.205  -6.900  7.500	18.205  -2.700  7.500    18.205  -6.900 8.485;
+machasi  0 0  0    0 0 0   0 0 0;
+mfdleft 18.205 -6.700  10.000     18.205 -3.340  10.000   18.205 -6.700 13.143;
+mfdright 18.205  3.554 10.000     18.205  7.100  10.000   18.205  3.554 13.143;
+
+// various colours
+padlockbg ff7c4706; //padlock background
+padlockliftline ff5ee75e; //padlock liftline, green
+padlockvpside ff00ffff; //padlock viewport box 3 sides, yellow
+padlockvptop ffffffff; //padlock viewport top, white
+padlocktick ff0000ff; //padlock zero level tickmark, red
+needlecolor0 ffdddddd; // primary needle color, gray
+needlecolor1 ffdddddd; // secondary needle color, redish
+dedcolor 0xff80ff80; //  DED color
+
+// the LOD models to use.
+cockpitmodel 1486; // the main 3d cockpit model
+cockpitwingsmodel 1484; // the 3d cockpit wings model
+
+viewlimit_pan_left 170.0;
+viewlimit_pan_right 170.0;
+viewlimit_pitch_down 70.0;

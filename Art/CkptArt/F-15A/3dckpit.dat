@@ -1,0 +1,50 @@
+// 3-d cockpit description
+// F-15C Davide "Daws" Sangiorgi v1.1 RTT OPEN FALCON
+
+// Boresight cross height
+boresighty 0.75;
+
+// Shared render to texture target size, width height depth, depth needs to be 32 for texture alpha to work default is primary 
+rttTarget 600 600;
+
+// format is 3-d coords: up left - up right - low left
+// Rtt: LEFT, TOP, Right, Bottom, BlendMode, Alpha
+// BlendModes are a = alpha blending, c = color blending, g = texture gouraud, t = texture, default = g
+
+hud	20.063	-2.550	-0.618	20.063	2.550	-0.618	20.063	-2.550	4.902	0	0	280	280	c;
+rwr	25.45	5.35	8.78	25.45	8.540	8.78	24.730	5.350	11.88	482	0	600	118	c;
+ded	60.40	44.10	93.90	60.40	57.50	93.90	55.400	44.10	93.93	281	71	481	141	c;
+machasi  -10 0 10  -10 0 10  -10 0 10; //Hidden
+mfdleft	25.44	-7.70	8.64	25.44	-4.00	8.64	24.59	-7.70	12.24	375	375	600	600	c;
+mfdright	24.23	-12.4	13.78	24.23	-7.85	13.78	23.12	-12.4	18.50	375	145	600	370	c;
+hms	20.063	-4.000	-4.000	20.063	4.000	-4.000	20.063	-4.000	4.000	0	314	286	600	c;
+
+// font settings for displays
+hudfont 2;
+mfdfont 7;
+dedfont 2;
+pflfont 2;
+rwrfont 2;
+
+// various colours
+padlockbg ff7c4706; //padlock background
+padlockliftline ff5ee75e; //padlock liftline, green
+padlockvpside ff00ffff; //padlock viewport box 3 sides, yellow
+padlockvptop ffffffff; //padlock viewport top, white
+padlocktick ff0000ff; //padlock zero level tickmark, red
+needlecolor0 ffdddddd; // primary needle color, gray
+needlecolor1 ffdddddd; // secondary needle color, redish
+dedcolor FF00FF9C; //  DED color
+
+// the LOD models to use.
+cockpitmodel 1421; // the main 3d cockpit model
+cockpitwingsmodel 1564; // the 3d cockpit wings model
+cockpithudmodel 4;
+
+zbuffering 1
+
+viewlimit_pan_left 165.0;
+viewlimit_pan_right 165.0;
+viewlimit_pitch_down 50.0;
+
+//6dof_ready 1;
