@@ -1490,7 +1490,7 @@ avionicsDteIdmLabel 0
 avionicsEHSI 0
 avionicsHudLadderTapeType 2
 avionicsHudVAHTapeType 2
-avionicsHudDGFTDefaultMode 0
+avionicsHudDGFTDefaultMode 2
 avionicsDGFTMasterModeLabelOnHud 1
 avionicsDGFTAttitudeAwareness 0
 avionicsMLUM2TAOnHUD 0
@@ -1515,7 +1515,7 @@ avionicsMMCUpgrade 0
 avionicsEGIUpgrade 0
 avionicsDigitalFLCS 0
 avionicsRWRType 2
-avionicsGunEEGSMode 1
+avionicsGunEEGSMode 0
 avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
 avionicsGunSNAPMode 1
@@ -1532,7 +1532,7 @@ avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 31
+avionicsIFFTransponderSettings 7
 avionicsIFFInterrogatorSettings 0
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------
@@ -1750,7 +1750,7 @@ IsLongBurnThreat 1
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 0 100 100 100 100 100 0 0 100 100 100 100 100 100 0 0 0 100 100 0 0 0 0 0 100 100 100 100 100
+misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 0 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 100 100 100 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------

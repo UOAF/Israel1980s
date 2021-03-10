@@ -1611,41 +1611,41 @@ avionicsCanUseSpice 0
 avionicsJDAMAvionicsType 0
 avionicsDiffICPStyle 0
 avionicsMLUPFL 0
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
 avionicsEHSI 0
-avionicsHudLadderTapeType 1
-avionicsHudVAHTapeType 1
-avionicsHudDGFTDefaultMode 0
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 2
 avionicsDGFTMasterModeLabelOnHud 1
 avionicsDGFTAttitudeAwareness 0
 avionicsMLUM2TAOnHUD 0
 avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 1
-avionicsNewAMRAAMdlz 1
-avionicsBullseyeOnHud 0
+avionicsNewAMRAAMdlz 0
+avionicsBullseyeOnHud 1
 avionicsDEDHudRepeaterBlanksOnDGFT 0
 avionicsHudNavDeclutterEnabled 0
 avionicsHudNavSpdAltTapesLag 0
 avionicsZenithNadirOnHud 0
 avionicsGhostHorizonAwareness 0
-avionicsEPAFRadarCues 1
-avionicsRadarJamChevrons 1
+avionicsEPAFRadarCues 0
+avionicsRadarJamChevrons 0
 avionicsRadarVsMode 1
 avionicsRadarLrsMode 1
 avionicsRadarUlsMode 1
-avionicsColorMfd 1
+avionicsColorMfd 0
 avionicsGrayScaleGM 1
 avionicsActivateMFDBoot 2 #Uri-ba 12/07/2015
 avionicsMMCUpgrade 0
-avionicsEGIUpgrade 1
+avionicsEGIUpgrade 0
 avionicsDigitalFLCS 0
 avionicsRWRType 2
-avionicsGunEEGSMode 1
-avionicsGunSSLCMode 0
-avionicsGunLCOSMode 0
-avionicsGunSNAPMode 0
+avionicsGunEEGSMode 0
+avionicsGunSSLCMode 1
+avionicsGunLCOSMode 1
+avionicsGunSNAPMode 1
 avionicsEngineType 1
 avionicsMfdCataSymbolAim120 0
 avionicsHudOldBAIType 0
@@ -1653,13 +1653,13 @@ avionicsCursorEnableAsToggle 1
 avionicsMaverickHandoffCapeable 0
 avionicsDisplayColors 78 3 3 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 31
+avionicsIFFTransponderSettings 7
 avionicsIFFInterrogatorSettings 0
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------

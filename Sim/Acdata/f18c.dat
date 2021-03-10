@@ -1742,22 +1742,22 @@ animRefuelRate 15.0
 # Avionics
 #-----------------------------------------------------
 avionicsCanUseSpice 0
-avionicsJDAMAvionicsType 1 #Uri-ba 07/03/2015
+avionicsJDAMAvionicsType 0 #Uri-ba 07/03/2015
 avionicsDiffICPStyle 0
 avionicsMLUPFL 0
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
 avionicsEHSI 0
-avionicsHudLadderTapeType 0
-avionicsHudVAHTapeType 0
-avionicsHudDGFTDefaultMode 0
-avionicsDGFTMasterModeLabelOnHud 0
-avionicsDGFTAttitudeAwareness 1
-avionicsMLUM2TAOnHUD 1
-avionicsHudAATargetAspectAngle 1
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 2
+avionicsDGFTMasterModeLabelOnHud 1
+avionicsDGFTAttitudeAwareness 0
+avionicsMLUM2TAOnHUD 0
+avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 0
-avionicsNewAMRAAMdlz 1
+avionicsNewAMRAAMdlz 0
 avionicsBullseyeOnHud 1
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
@@ -1769,14 +1769,14 @@ avionicsRadarJamChevrons 0
 avionicsRadarVsMode 1
 avionicsRadarLrsMode 1
 avionicsRadarUlsMode 1
-avionicsColorMfd 1
+avionicsColorMfd 0
 avionicsGrayScaleGM 0
-avionicsActivateMFDBoot 1
-avionicsMMCUpgrade 1
-avionicsEGIUpgrade 1
-avionicsDigitalFLCS 1
+avionicsActivateMFDBoot 2
+avionicsMMCUpgrade 0
+avionicsEGIUpgrade 0
+avionicsDigitalFLCS 0
 avionicsRWRType 5
-avionicsGunEEGSMode 1
+avionicsGunEEGSMode 0
 avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
 avionicsGunSNAPMode 1
@@ -1787,14 +1787,14 @@ avionicsCursorEnableAsToggle 0
 avionicsMaverickHandoffCapeable 1
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 31
-avionicsIFFInterrogatorSettings 15
+avionicsIFFTransponderSettings 7
+avionicsIFFInterrogatorSettings 7
 avionicsIFFBackupM1M3 1
 #-----------------------------------------------------
 # Autopilot
@@ -2018,7 +2018,7 @@ IsLongBurnThreat 1
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 0 0 100 100 100 100 100 100 0 0 0 100 100 0 0 0 0 0 100 100 100 100 100
+misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 0 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 100 0 0 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------
@@ -2049,7 +2049,7 @@ TFR_GammaCorrMult 1.5 #10-12-2014
 # TGP
 #-----------------------------------------------------
 #Switch: 0 - No TGP, 1 - Internal TGP, 2 - External TGP
-TGP_Type 2 #Added Falcas 14/06/2014
+TGP_Type 0 #Added Falcas 14/06/2014
 TGPCameraXOff 0.00
 TGPCameraYOff 0.00
 TGPCameraZOff 0.00

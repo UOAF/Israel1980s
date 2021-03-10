@@ -1742,20 +1742,20 @@ animRefuelRate 15.0
 # Avionics
 #-----------------------------------------------------
 avionicsCanUseSpice 0
-avionicsJDAMAvionicsType 1 #Uri-ba 07/03/2015
+avionicsJDAMAvionicsType 0 #Uri-ba 07/03/2015
 avionicsDiffICPStyle 0
 avionicsMLUPFL 0
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
 avionicsEHSI 0
-avionicsHudLadderTapeType 0
-avionicsHudVAHTapeType 0
-avionicsHudDGFTDefaultMode 0
-avionicsDGFTMasterModeLabelOnHud 0
-avionicsDGFTAttitudeAwareness 1
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 2
+avionicsDGFTMasterModeLabelOnHud 1
+avionicsDGFTAttitudeAwareness 0
 avionicsMLUM2TAOnHUD 1
-avionicsHudAATargetAspectAngle 1
+avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 0
 avionicsNewAMRAAMdlz 1
 avionicsBullseyeOnHud 1
@@ -1769,14 +1769,14 @@ avionicsRadarJamChevrons 0
 avionicsRadarVsMode 1
 avionicsRadarLrsMode 1
 avionicsRadarUlsMode 1
-avionicsColorMfd 1
-avionicsGrayScaleGM 0
-avionicsActivateMFDBoot 1
-avionicsMMCUpgrade 1
-avionicsEGIUpgrade 1
-avionicsDigitalFLCS 1
+avionicsColorMfd 0
+avionicsGrayScaleGM 1
+avionicsActivateMFDBoot 2
+avionicsMMCUpgrade 0
+avionicsEGIUpgrade 0
+avionicsDigitalFLCS 0
 avionicsRWRType 5
-avionicsGunEEGSMode 1
+avionicsGunEEGSMode 0
 avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
 avionicsGunSNAPMode 1
@@ -1787,14 +1787,14 @@ avionicsCursorEnableAsToggle 0
 avionicsMaverickHandoffCapeable 1
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 31
-avionicsIFFInterrogatorSettings 31
+avionicsIFFTransponderSettings 23
+avionicsIFFInterrogatorSettings 7
 avionicsIFFBackupM1M3 1
 #-----------------------------------------------------
 # Autopilot
@@ -2018,7 +2018,7 @@ IsLongBurnThreat 1
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 0 0 0 100 100 0 0 0 0 0 100 100 100 100 100
+misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 0 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 100 0 0 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------
