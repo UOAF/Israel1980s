@@ -3601,7 +3601,7 @@
         <WpnIdx_0>179</WpnIdx_0>
         <WpnCount_0>1</WpnCount_0>
     </WLD>
-	<WLD Num="147">
+    <WLD Num="147">
         <Name>F-16 AGRS 1/9</Name>
         <WpnIdx_0>158</WpnIdx_0>
         <WpnIdx_1>159</WpnIdx_1>
@@ -3681,12 +3681,10 @@
         <Name>F-16 AGRS 5</Name>
         <WpnIdx_0>85</WpnIdx_0>
         <WpnIdx_1>188</WpnIdx_1>
-        <WpnIdx_2>189</WpnIdx_2>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
-        <WpnCount_2>1</WpnCount_2>
     </WLD>
-	<WLD Num="152">
+    <WLD Num="152">
         <Name>F-16 SCU 1/9</Name>
         <WpnIdx_0>174</WpnIdx_0>
         <WpnIdx_1>175</WpnIdx_1>
@@ -3855,13 +3853,11 @@
     <WLD Num="156">
         <Name>F-16 SCU 5</Name>
         <WpnIdx_0>188</WpnIdx_0>
-        <WpnIdx_1>189</WpnIdx_1>
-        <WpnIdx_2>329</WpnIdx_2>
-        <WpnIdx_3>85</WpnIdx_3>
+        <WpnIdx_1>329</WpnIdx_1>
+        <WpnIdx_2>85</WpnIdx_2>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
-        <WpnCount_3>1</WpnCount_3>
     </WLD>
     <WLD Num="157">
         <Name>F-22A CenterOut</Name>

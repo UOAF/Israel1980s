@@ -1817,7 +1817,7 @@
     <VCD Num="25">
         <CtIdx>912</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F/A-18D</Name>
         <NCTR>F18</NCTR>
         <RadarCs>1.231571</RadarCs>
@@ -2673,7 +2673,7 @@
     <VCD Num="36">
         <CtIdx>160</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-15C</Name>
         <NCTR>F15</NCTR>
         <RadarCs>1.324960</RadarCs>
@@ -3849,7 +3849,7 @@
     <VCD Num="51">
         <CtIdx>181</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1610680320</Flags>
+        <Flags>1073809408</Flags>
         <Name>AV-8B</Name>
         <NCTR>AV8</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -4183,7 +4183,7 @@
     <VCD Num="55">
         <CtIdx>185</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-16C-30 IAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -4509,7 +4509,7 @@
     <VCD Num="59">
         <CtIdx>173</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611401216</Flags>
+        <Flags>1074530304</Flags>
         <Name>F-16CM-40</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -4599,7 +4599,7 @@
     <VCD Num="60">
         <CtIdx>174</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F/A-18C</Name>
         <NCTR>F18</NCTR>
         <RadarCs>1.231571</RadarCs>
@@ -20661,7 +20661,7 @@
         <Dam_Nuclear>100</Dam_Nuclear>
         <Dam_Other>100</Dam_Other>
     </VCD>
-<VCD Num="281">
+    <VCD Num="281">
         <CtIdx>441</CtIdx>
         <HitPoints>64</HitPoints>
         <Flags>1073742848</Flags>
@@ -21502,7 +21502,7 @@
     <VCD Num="292">
         <CtIdx>2479</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1074595840</Flags>
+        <Flags>1074333696</Flags>
         <Name>F/A-18A+ AGRS</Name>
         <NCTR>F18</NCTR>
         <RadarCs>1.681800</RadarCs>
@@ -23444,7 +23444,7 @@
     <VCD Num="316">
         <CtIdx>2212</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-16D-30 IAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -23910,7 +23910,7 @@
     <VCD Num="322">
         <CtIdx>2293</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611401216</Flags>
+        <Flags>1074530304</Flags>
         <Name>F-16C-32 AGRS</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -24090,7 +24090,7 @@
     <VCD Num="324">
         <CtIdx>1048</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-16C-40 IAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -24180,7 +24180,7 @@
     <VCD Num="325">
         <CtIdx>2395</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-16D-40 IAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -24420,7 +24420,7 @@
     <VCD Num="328">
         <CtIdx>2398</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611401216</Flags>
+        <Flags>1074530304</Flags>
         <Name>F-16C-30 AGRS</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -24506,7 +24506,7 @@
     <VCD Num="329">
         <CtIdx>2399</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1074595840</Flags>
+        <Flags>1074333696</Flags>
         <Name>F/A-18B</Name>
         <NCTR>F18</NCTR>
         <RadarCs>1.231571</RadarCs>
@@ -24682,7 +24682,7 @@
     <VCD Num="331">
         <CtIdx>2401</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-15C IAF</Name>
         <NCTR>F15</NCTR>
         <RadarCs>1.324960</RadarCs>
@@ -24772,7 +24772,7 @@
     <VCD Num="332">
         <CtIdx>2402</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-15I</Name>
         <NCTR>F15</NCTR>
         <RadarCs>1.316070</RadarCs>
@@ -25182,7 +25182,7 @@
     <VCD Num="337">
         <CtIdx>2407</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074530304</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-16C-32 EAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -25272,7 +25272,7 @@
     <VCD Num="338">
         <CtIdx>2408</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074530304</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-16C-40 EAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -26058,7 +26058,7 @@
     <VCD Num="347">
         <CtIdx>2417</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1610680320</Flags>
+        <Flags>1073809408</Flags>
         <Name>AV-8B+</Name>
         <NCTR>AV8</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -28132,7 +28132,7 @@
     <VCD Num="372">
         <CtIdx>2442</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1074595840</Flags>
+        <Flags>1074333696</Flags>
         <Name>F-15A</Name>
         <NCTR>F15</NCTR>
         <RadarCs>1.324961</RadarCs>
@@ -28312,7 +28312,7 @@
     <VCD Num="374">
         <CtIdx>2444</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074530304</Flags>
+        <Flags>1074268160</Flags>
         <Name>F-16A-15 IAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -28398,7 +28398,7 @@
     <VCD Num="375">
         <CtIdx>2445</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074530304</Flags>
+        <Flags>1074268160</Flags>
         <Name>F-16B-15 IAF</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -29128,7 +29128,7 @@
     <VCD Num="384">
         <CtIdx>2454</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611401216</Flags>
+        <Flags>1074530304</Flags>
         <Name>F-16CM-42</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -29568,7 +29568,7 @@
     <VCD Num="389">
         <CtIdx>2459</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074530304</Flags>
+        <Flags>1074268160</Flags>
         <Name>F-16B-15</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -29810,7 +29810,7 @@
     <VCD Num="392">
         <CtIdx>2462</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074530304</Flags>
+        <Flags>1074268160</Flags>
         <Name>F-16A-15</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -30076,7 +30076,7 @@
     <VCD Num="395">
         <CtIdx>2465</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1611401216</Flags>
+        <Flags>1074530304</Flags>
         <Name>F-16DM-40</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
@@ -30518,7 +30518,7 @@
     <VCD Num="400">
         <CtIdx>2470</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1074595840</Flags>
+        <Flags>1074333696</Flags>
         <Name>F/A-18A</Name>
         <NCTR>F18</NCTR>
         <RadarCs>1.231571</RadarCs>
@@ -30874,7 +30874,7 @@
     <VCD Num="404">
         <CtIdx>2474</CtIdx>
         <HitPoints>64</HitPoints>
-        <Flags>1611466752</Flags>
+        <Flags>1074595840</Flags>
         <Name>F-15C AGRS</Name>
         <NCTR>F15</NCTR>
         <RadarCs>1.324960</RadarCs>
@@ -31339,7 +31339,7 @@
         <Dam_Nuclear>100</Dam_Nuclear>
         <Dam_Other>100</Dam_Other>
     </VCD>
-	<VCD Num="410">
+    <VCD Num="410">
         <CtIdx>3176</CtIdx>
         <HitPoints>64</HitPoints>
         <Flags>1073742848</Flags>
@@ -32459,4 +32459,3 @@
         <Dam_Other>100</Dam_Other>
     </VCD>
 </VCDRecords>
-
