@@ -1,6 +1,7 @@
 # NAVAIDS v1.0.3 FOR ISRAEL THEATER - FALCON BMS 4.34
 #
-# 2021.03.08 - Procedurally generated deconflicted UHF OPS/GND/TWR/APP frequencies for every airbase, known frequencies as per the Israel MAIP v1.0.3 were retained. 
+# 2021.03.08 - Procedurally generated deconflicted UHF OPS/GND/TWR/APP frequencies for every airbase, known frequencies as per the Israel MAIP v1.0.3 were retained.
+# 2021.03.11 - Added KTO Carrier definitions (adjusted campID)
 #
 # File format is as follows:
 #
@@ -308,5 +309,20 @@
 # TIYAS
 367 66 Y 999 0 1 300600 127400 0 0 0 0 275725 252675 391525 0 133025 0 0 0
 # ------- AIRCRAFT CARRIER -------
-# USS CARL VINSON CVN70
-25 13 X 999 100 1 273175 116300 0 0 10830 0 259450 383825 370825 0 0 0 0 0
+# US Carrier 65 - Enterprise
+621 012 X 32766 140 1 265200 0 0 0 10855 0 265500 265300 265100 265200 0 0 0 0 -1
+# 
+# US Carrier 70 - Vinson
+25 010 X 32766 140 1 270200 0 0 0 11170 0 270500 270300 270100 270200 0 0 0 0 -1
+# 
+# US Carrier 71 - Roosevelt
+317 011 X 32766 140 1 271200 0 0 0 11010 0 271500 271300 271100 271200 0 0 0 0 -1
+# 
+# Russia Carrier 063 - Kuznetsov
+742 013 X 32766 140 1 363200 0 0 0 11110 0 363500 363300 363100 363200 0 0 0 0 -1
+# 
+# Chinese Carrier - CV-16 Liaoning
+743 014 X 32766 140 1 272200 0 0 0 10830 0 272500 272300 272100 272200 0 0 0 0 -1
+# 
+# US LHD 1 - WASP
+744 015 X 32766 140 1 268200 0 0 0 11210 0 268500 268300 268100 268200 0 0 0 0 -1
