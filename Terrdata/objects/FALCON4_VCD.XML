@@ -24739,7 +24739,7 @@
         <WpnOrHpIdx_3>207</WpnOrHpIdx_3>
         <WpnOrHpIdx_4>207</WpnOrHpIdx_4>
         <WpnOrHpIdx_5>206</WpnOrHpIdx_5>
-        <WpnOrHpIdx_6>290</WpnOrHpIdx_6>
+        <WpnOrHpIdx_6>37</WpnOrHpIdx_6>
         <WpnOrHpIdx_7>206</WpnOrHpIdx_7>
         <WpnOrHpIdx_8>207</WpnOrHpIdx_8>
         <WpnOrHpIdx_9>207</WpnOrHpIdx_9>
@@ -28133,7 +28133,7 @@
         <CtIdx>2442</CtIdx>
         <HitPoints>64</HitPoints>
         <Flags>1074333696</Flags>
-        <Name>F-15A</Name>
+        <Name>F-15A IAF</Name>
         <NCTR>F15</NCTR>
         <RadarCs>1.324961</RadarCs>
         <MaxWeight>66000</MaxWeight>
@@ -28452,11 +28452,11 @@
         <WpnOrHpIdx_0>492</WpnOrHpIdx_0>
         <WpnOrHpIdx_1>447</WpnOrHpIdx_1>
         <WpnOrHpIdx_2>448</WpnOrHpIdx_2>
-        <WpnOrHpIdx_3>449</WpnOrHpIdx_3>
+        <WpnOrHpIdx_3>571</WpnOrHpIdx_3>
         <WpnOrHpIdx_4>450</WpnOrHpIdx_4>
-        <WpnOrHpIdx_5>451</WpnOrHpIdx_5>
+        <WpnOrHpIdx_5>572</WpnOrHpIdx_5>
         <WpnOrHpIdx_6>450</WpnOrHpIdx_6>
-        <WpnOrHpIdx_7>449</WpnOrHpIdx_7>
+        <WpnOrHpIdx_7>571</WpnOrHpIdx_7>
         <WpnOrHpIdx_8>448</WpnOrHpIdx_8>
         <WpnOrHpIdx_9>447</WpnOrHpIdx_9>
         <WpnCount_0>51</WpnCount_0>
@@ -29568,7 +29568,7 @@
     <VCD Num="389">
         <CtIdx>2459</CtIdx>
         <HitPoints>60</HitPoints>
-        <Flags>1074268160</Flags>
+        <Flags>1074333696</Flags>
         <Name>F-16B-15</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
