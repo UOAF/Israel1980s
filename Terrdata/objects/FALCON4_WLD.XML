@@ -9425,46 +9425,40 @@
     </WLD>
     <WLD Num="447">
         <Name>F-16 Netz 1/9</Name>
-        <WpnIdx_0>174</WpnIdx_0>
-        <WpnIdx_1>175</WpnIdx_1>
-        <WpnIdx_2>702</WpnIdx_2>
+        <WpnIdx_0>175</WpnIdx_0>
+        <WpnIdx_1>702</WpnIdx_1>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
-        <WpnCount_2>1</WpnCount_2>
     </WLD>
     <WLD Num="448">
         <Name>F-16 Netz 2/8</Name>
-        <WpnIdx_0>174</WpnIdx_0>
-        <WpnIdx_1>175</WpnIdx_1>
+        <WpnIdx_0>175</WpnIdx_0>
         <WpnCount_0>1</WpnCount_0>
-        <WpnCount_1>1</WpnCount_1>
     </WLD>
     <WLD Num="449">
         <Name>F-16 Netz 3/7</Name>
-        <WpnIdx_0>174</WpnIdx_0>
-        <WpnIdx_1>175</WpnIdx_1>
-        <WpnIdx_2>229</WpnIdx_2>
-        <WpnIdx_3>262</WpnIdx_3>
-        <WpnIdx_4>346</WpnIdx_4>
-        <WpnIdx_5>358</WpnIdx_5>
-        <WpnIdx_6>355</WpnIdx_6>
-        <WpnIdx_7>357</WpnIdx_7>
-        <WpnIdx_8>362</WpnIdx_8>
-        <WpnIdx_9>363</WpnIdx_9>
-        <WpnIdx_10>146</WpnIdx_10>
-        <WpnIdx_11>147</WpnIdx_11>
+        <WpnIdx_0>175</WpnIdx_0>
+        <WpnIdx_1>229</WpnIdx_1>
+        <WpnIdx_2>262</WpnIdx_2>
+        <WpnIdx_3>346</WpnIdx_3>
+        <WpnIdx_4>358</WpnIdx_4>
+        <WpnIdx_5>355</WpnIdx_5>
+        <WpnIdx_6>357</WpnIdx_6>
+        <WpnIdx_7>362</WpnIdx_7>
+        <WpnIdx_8>363</WpnIdx_8>
+        <WpnIdx_9>146</WpnIdx_9>
+        <WpnIdx_10>147</WpnIdx_10>
         <WpnCount_0>1</WpnCount_0>
-        <WpnCount_1>1</WpnCount_1>
+        <WpnCount_1>2</WpnCount_1>
         <WpnCount_2>2</WpnCount_2>
-        <WpnCount_3>2</WpnCount_3>
+        <WpnCount_3>3</WpnCount_3>
         <WpnCount_4>3</WpnCount_4>
         <WpnCount_5>3</WpnCount_5>
         <WpnCount_6>3</WpnCount_6>
-        <WpnCount_7>3</WpnCount_7>
+        <WpnCount_7>1</WpnCount_7>
         <WpnCount_8>1</WpnCount_8>
         <WpnCount_9>1</WpnCount_9>
         <WpnCount_10>1</WpnCount_10>
-        <WpnCount_11>1</WpnCount_11>
     </WLD>
     <WLD Num="450">
         <Name>F-16 Netz 4/6</Name>
