@@ -20385,7 +20385,7 @@
         <MaxSpeed>45</MaxSpeed>
         <RadarIdx>54</RadarIdx>
         <NumberOfCrew>50</NumberOfCrew>
-        <RackFlags>30</RackFlags>
+        <RackFlags>14</RackFlags>
         <VisibleFlags>0</VisibleFlags>
         <CallsignIdx>102</CallsignIdx>
         <CallsignSlots>58</CallsignSlots>
@@ -20425,12 +20425,12 @@
         <WpnOrHpIdx_1>507</WpnOrHpIdx_1>
         <WpnOrHpIdx_2>507</WpnOrHpIdx_2>
         <WpnOrHpIdx_3>507</WpnOrHpIdx_3>
-        <WpnOrHpIdx_4>507</WpnOrHpIdx_4>
+        <WpnOrHpIdx_4>422</WpnOrHpIdx_4>
         <WpnCount_0>4</WpnCount_0>
         <WpnCount_1>254</WpnCount_1>
         <WpnCount_2>254</WpnCount_2>
         <WpnCount_3>254</WpnCount_3>
-        <WpnCount_4>254</WpnCount_4>
+        <WpnCount_4>4</WpnCount_4>
         <Dam_None>0</Dam_None>
         <Dam_Penetration>26</Dam_Penetration>
         <Dam_HighExplosive>26</Dam_HighExplosive>

@@ -13,8 +13,8 @@
         <DetectionRange>8.0</DetectionRange>
         <FOV>6.0</FOV>
         <GimbalLimit>80.0</GimbalLimit>
-        <GroundFactor>0.010</GroundFactor>
-        <FlareChance>5.0</FlareChance>
+        <GroundFactor>0.030</GroundFactor>
+        <FlareChance>10.0</FlareChance>
     </ICD>
     <ICD Num="2">
         <Name>AIM-9P</Name>
@@ -29,8 +29,8 @@
         <DetectionRange>2.5</DetectionRange>
         <FOV>5.0</FOV>
         <GimbalLimit>50.0</GimbalLimit>
-        <GroundFactor>0.100</GroundFactor>
-        <FlareChance>98.0</FlareChance>
+        <GroundFactor>0.080</GroundFactor>
+        <FlareChance>70.0</FlareChance>
     </ICD>
     <ICD Num="4">
         <Name>AS-37</Name>

@@ -5574,7 +5574,7 @@
         <DamageType>5</DamageType>
         <Range>4</Range>
         <Flags>0</Flags>
-        <Name>AIM-9M Sidewinder</Name>
+        <Name>AIM-9L Sidewinder</Name>
         <Hit_NoMove>0</Hit_NoMove>
         <Hit_Foot>0</Hit_Foot>
         <Hit_Wheeled>0</Hit_Wheeled>
