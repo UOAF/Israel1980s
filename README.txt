@@ -1,4 +1,4 @@
-Israel 1980s, Beta 0.2:
+Israel 1980s, Beta 0.3:
 This theater is a mod of the existing Israel theater for Falcon BMS 4.35.
 
 Theater Installation:
