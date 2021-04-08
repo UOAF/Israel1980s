@@ -1,11 +1,9 @@
-// Israeli Theater for BMS SAVE1 trigger file
+// Israeli Theater for BMS SAVE2 trigger file
 // by 108th VFS
 //
 // initialize
 #TOTAL_EVENTS 22
-// This marks the IDF as initially on the defensive
-#SET_EVENT 2
-#SET_TEMPO 150
+#SET_TEMPO 250
 #ENDINIT
 //
 // Event #1
@@ -23,7 +21,7 @@
 // IDF goes on the defensive
 #IF_EVENT_PLAYED 2
 #ELSE
-#IF_ON_OFFENSIVE 6
+#IF_ON_OFFENSIVE 5
 #DO_EVENT 2
 #PLAY_MOVIE 110
 #RESET_EVENT 1
@@ -141,6 +139,7 @@
 #ENDIF
 #ENDIF
 //
+//
 // Event #14
 // Egypt Wins - Beer Shiva captured by Egypt
 #IF_CONTROLLED 6 A 13
@@ -148,7 +147,7 @@
 #DO_EVENT 14
 #END_GAME 14
 #ENDIF
-#ENDIF
+// 
 // 
 // Event #15
 // Stalemate
