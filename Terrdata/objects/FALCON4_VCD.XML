@@ -27825,7 +27825,7 @@
         <CtIdx>2438</CtIdx>
         <HitPoints>100</HitPoints>
         <Flags>2048</Flags>
-        <Name>Merkava IV</Name>
+        <Name>Merkava</Name>
         <NCTR> </NCTR>
         <RadarCs>1.000000</RadarCs>
         <MaxWeight>0</MaxWeight>
@@ -32457,5 +32457,79 @@
         <Dam_Chemical>0</Dam_Chemical>
         <Dam_Nuclear>100</Dam_Nuclear>
         <Dam_Other>100</Dam_Other>
+    </VCD>
+    <VCD Num="425">
+        <CtIdx>3862</CtIdx>
+        <HitPoints>100</HitPoints>
+        <Flags>133120</Flags>
+        <Name>M163</Name>
+        <NCTR> </NCTR>
+        <RadarCs>1.000000</RadarCs>
+        <MaxWeight>0</MaxWeight>
+        <EmptyWeight>0</EmptyWeight>
+        <FuelWeight>0</FuelWeight>
+        <FuelRate>0</FuelRate>
+        <EngineSound>17</EngineSound>
+        <MaxAlt>800</MaxAlt>
+        <MinAlt>0</MinAlt>
+        <CruiseAlt>200</CruiseAlt>
+        <MaxSpeed>70</MaxSpeed>
+        <RadarIdx>56</RadarIdx>
+        <NumberOfCrew>3</NumberOfCrew>
+        <RackFlags>15</RackFlags>
+        <VisibleFlags>0</VisibleFlags>
+        <CallsignIdx>102</CallsignIdx>
+        <CallsignSlots>58</CallsignSlots>
+        <Hit_NoMove>10</Hit_NoMove>
+        <Hit_Foot>5</Hit_Foot>
+        <Hit_Wheeled>5</Hit_Wheeled>
+        <Hit_Tracked>5</Hit_Tracked>
+        <Hit_LowAir>15</Hit_LowAir>
+        <Hit_Air>0</Hit_Air>
+        <Hit_Naval>5</Hit_Naval>
+        <Hit_Rail>5</Hit_Rail>
+        <Str_NoMove>20</Str_NoMove>
+        <Str_Foot>30</Str_Foot>
+        <Str_Wheeled>20</Str_Wheeled>
+        <Str_Tracked>1</Str_Tracked>
+        <Str_LowAir>80</Str_LowAir>
+        <Str_Air>0</Str_Air>
+        <Str_Naval>20</Str_Naval>
+        <Str_Rail>20</Str_Rail>
+        <Rng_NoMove>2</Rng_NoMove>
+        <Rng_Foot>2</Rng_Foot>
+        <Rng_Wheeled>2</Rng_Wheeled>
+        <Rng_Tracked>2</Rng_Tracked>
+        <Rng_LowAir>2</Rng_LowAir>
+        <Rng_Air>0</Rng_Air>
+        <Rng_Naval>2</Rng_Naval>
+        <Rng_Rail>2</Rng_Rail>
+        <Det_NoMove>0</Det_NoMove>
+        <Det_Foot>0</Det_Foot>
+        <Det_Wheeled>0</Det_Wheeled>
+        <Det_Tracked>0</Det_Tracked>
+        <Det_LowAir>14</Det_LowAir>
+        <Det_Air>17</Det_Air>
+        <Det_Naval>0</Det_Naval>
+        <Det_Rail>0</Det_Rail>
+        <WpnOrHpIdx_0>494</WpnOrHpIdx_0>
+        <WpnOrHpIdx_1>494</WpnOrHpIdx_1>
+        <WpnOrHpIdx_2>494</WpnOrHpIdx_2>
+        <WpnOrHpIdx_3>494</WpnOrHpIdx_3>
+        <WpnCount_0>52</WpnCount_0>
+        <WpnCount_1>52</WpnCount_1>
+        <WpnCount_2>52</WpnCount_2>
+        <WpnCount_3>52</WpnCount_3>
+        <Dam_None>100</Dam_None>
+        <Dam_Penetration>105</Dam_Penetration>
+        <Dam_HighExplosive>79</Dam_HighExplosive>
+        <Dam_Heave>0</Dam_Heave>
+        <Dam_Incendairy>1</Dam_Incendairy>
+        <Dam_Proximity>26</Dam_Proximity>
+        <Dam_Kinetic>26</Dam_Kinetic>
+        <Dam_Hydrostatic>0</Dam_Hydrostatic>
+        <Dam_Chemical>0</Dam_Chemical>
+        <Dam_Nuclear>105</Dam_Nuclear>
+        <Dam_Other>105</Dam_Other>
     </VCD>
 </VCDRecords>
