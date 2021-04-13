@@ -38,14 +38,14 @@
 [ADDTEXT] TXT_TEAM_7 "Saudi Arabia"
 
 // -----Scenario 1-----
-[ADDTEXT] TXT_SCENARIO_1 ""																	 
-[ADDTEXT] TXT_SC_1_LINE_1 "PEACE FOR GALILEE"
-[ADDTEXT] TXT_SC_1_LINE_2 "1988: Israel vs Syria and the PLO, simulation of the 1982 Lebanon war."
-[ADDTEXT] TXT_SC_1_LINE_3 "Realistic campaign"
+[ADDTEXT] TXT_SCENARIO_1 "PEACE FOR GALILEE"
+[ADDTEXT] TXT_SC_1_LINE_1 "1982: Israel vs Syria and the PLO, simulation of the First Lebanon War."
+[ADDTEXT] TXT_SC_1_LINE_2 "Realistic campaign"
+[ADDTEXT] TXT_SC_1_LINE_3 ""
 [ADDTEXT] TXT_SC_1_LINE_4 ""
-[ADDTEXT] TXT_SC_1_CAMP_END "14"
-[ADDTEXT] TXT_SC_1_CAMP_STALE "4"
-[ADDTEXT] TXT_SC_1_CAMP_DIFF "Medium"
+[ADDTEXT] TXT_SC_1_CAMP_END "25"
+[ADDTEXT] TXT_SC_1_CAMP_STALE "5"
+[ADDTEXT] TXT_SC_1_CAMP_DIFF "Hard"
 [ADDTEXT] NOT_USED "Keep this line!"
 
 // -----Scenario 2-----
