@@ -13381,7 +13381,7 @@
         <ElementFlags_8>8</ElementFlags_8>
         <Flags>28</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
@@ -19337,7 +19337,7 @@
         <ElementFlags_8>8</ElementFlags_8>
         <Flags>28</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
@@ -19417,7 +19417,7 @@
         <ElementFlags_7>8</ElementFlags_7>
         <Flags>28</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
@@ -19500,7 +19500,7 @@
         <ElementFlags_8>4</ElementFlags_8>
         <Flags>28</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
@@ -19826,7 +19826,7 @@
         <ElementFlags_3>1</ElementFlags_3>
         <Flags>29</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
@@ -25770,7 +25770,7 @@
         <ElementFlags_8>8</ElementFlags_8>
         <Flags>28</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
@@ -25848,7 +25848,7 @@
         <ElementFlags_6>8</ElementFlags_6>
         <Flags>28</Flags>
         <Name>Air Defense</Name>
-        <MoveType>0</MoveType>
+        <MoveType>1</MoveType>
         <MoveSpeed>0</MoveSpeed>
         <MaxRange>0</MaxRange>
         <Fuel>0</Fuel>
