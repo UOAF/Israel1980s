@@ -6545,12 +6545,11 @@
         <WpnIdx_13>259</WpnIdx_13>
         <WpnIdx_14>261</WpnIdx_14>
         <WpnIdx_15>173</WpnIdx_15>
-        <WpnIdx_16>174</WpnIdx_16>
-        <WpnIdx_17>175</WpnIdx_17>
-        <WpnIdx_18>321</WpnIdx_18>
-        <WpnIdx_19>322</WpnIdx_19>
-        <WpnIdx_20>323</WpnIdx_20>
-        <WpnIdx_21>58</WpnIdx_21>
+        <WpnIdx_16>175</WpnIdx_16>
+        <WpnIdx_17>321</WpnIdx_17>
+        <WpnIdx_18>322</WpnIdx_18>
+        <WpnIdx_19>323</WpnIdx_19>
+        <WpnIdx_20>58</WpnIdx_20>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
@@ -6572,7 +6571,6 @@
         <WpnCount_18>1</WpnCount_18>
         <WpnCount_19>1</WpnCount_19>
         <WpnCount_20>1</WpnCount_20>
-        <WpnCount_21>1</WpnCount_21>
     </WLD>
     <WLD Num="300">
         <Name>A-4SU Wing Int</Name>
@@ -6592,13 +6590,12 @@
         <WpnIdx_13>259</WpnIdx_13>
         <WpnIdx_14>257</WpnIdx_14>
         <WpnIdx_15>261</WpnIdx_15>
-        <WpnIdx_16>174</WpnIdx_16>
-        <WpnIdx_17>173</WpnIdx_17>
-        <WpnIdx_18>322</WpnIdx_18>
-        <WpnIdx_19>321</WpnIdx_19>
-        <WpnIdx_20>323</WpnIdx_20>
-        <WpnIdx_21>58</WpnIdx_21>
-        <WpnIdx_22>59</WpnIdx_22>
+        <WpnIdx_16>173</WpnIdx_16>
+        <WpnIdx_17>322</WpnIdx_17>
+        <WpnIdx_18>321</WpnIdx_18>
+        <WpnIdx_19>323</WpnIdx_19>
+        <WpnIdx_20>58</WpnIdx_20>
+        <WpnIdx_21>59</WpnIdx_21>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>3</WpnCount_2>
@@ -6621,7 +6618,6 @@
         <WpnCount_19>1</WpnCount_19>
         <WpnCount_20>1</WpnCount_20>
         <WpnCount_21>1</WpnCount_21>
-        <WpnCount_22>1</WpnCount_22>
     </WLD>
     <WLD Num="301">
         <Name>A-4SU CL</Name>
@@ -10624,7 +10620,6 @@
         <WpnIdx_17>322</WpnIdx_17>
         <WpnIdx_18>323</WpnIdx_18>
         <WpnIdx_19>173</WpnIdx_19>
-        <WpnIdx_20>174</WpnIdx_20>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
@@ -10645,7 +10640,6 @@
         <WpnCount_17>1</WpnCount_17>
         <WpnCount_18>1</WpnCount_18>
         <WpnCount_19>1</WpnCount_19>
-        <WpnCount_20>1</WpnCount_20>
     </WLD>
     <WLD Num="509">
         <Name>A-4PTM Wing Int</Name>
@@ -10669,7 +10663,6 @@
         <WpnIdx_17>321</WpnIdx_17>
         <WpnIdx_18>323</WpnIdx_18>
         <WpnIdx_19>173</WpnIdx_19>
-        <WpnIdx_20>174</WpnIdx_20>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>3</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
@@ -10690,7 +10683,6 @@
         <WpnCount_17>1</WpnCount_17>
         <WpnCount_18>1</WpnCount_18>
         <WpnCount_19>1</WpnCount_19>
-        <WpnCount_20>1</WpnCount_20>
     </WLD>
     <WLD Num="510">
         <Name>A-4PTM CL</Name>
