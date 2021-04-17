@@ -14338,11 +14338,11 @@
     </WCD>
     <WCD Num="448">
         <CtIdx>255</CtIdx>
-        <Strength>52</Strength>
+        <Strength>47</Strength>
         <DamageType>5</DamageType>
-        <Range>8</Range>
+        <Range>5</Range>
         <Flags>0</Flags>
-        <Name>FIM-92</Name>
+        <Name>FIM-43C Missile</Name>
         <Hit_NoMove>0</Hit_NoMove>
         <Hit_Foot>0</Hit_Foot>
         <Hit_Wheeled>0</Hit_Wheeled>
@@ -14358,10 +14358,10 @@
         <Rackgroup>0</Rackgroup>
         <Weight>10</Weight>
         <Drag>0</Drag>
-        <BlastRadius>47</BlastRadius>
+        <BlastRadius>43</BlastRadius>
         <RadarIdx>0</RadarIdx>
         <SimWeaponDataIdx>56</SimWeaponDataIdx>
-        <MaxAlt>15</MaxAlt>
+        <MaxAlt>12</MaxAlt>
         <MinAlt>0</MinAlt>
         <BulletTTL>2</BulletTTL>
         <BulletVelocity>0</BulletVelocity>

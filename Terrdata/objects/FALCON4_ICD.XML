@@ -97,12 +97,12 @@
         <FlareChance>1.8</FlareChance>
     </ICD>
     <ICD Num="12">
-        <Name>FIM-92</Name>
+        <Name>FIM-43C</Name>
         <DetectionRange>4.0</DetectionRange>
         <FOV>6.0</FOV>
         <GimbalLimit>60.0</GimbalLimit>
         <GroundFactor>0.020</GroundFactor>
-        <FlareChance>5.0</FlareChance>
+        <FlareChance>70.0</FlareChance>
     </ICD>
     <ICD Num="13">
         <Name>*IRST 13</Name>
@@ -254,7 +254,7 @@
         <FOV>16.0</FOV>
         <GimbalLimit>90.0</GimbalLimit>
         <GroundFactor>0.060</GroundFactor>
-        <FlareChance>96.0</FlareChance>
+        <FlareChance>30.0</FlareChance>
     </ICD>
     <ICD Num="32">
         <Name>ASRAAM</Name>
