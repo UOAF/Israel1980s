@@ -1,11 +1,11 @@
-# Title: FIM-92 Stinger
+# Title: FIM-43C Redeye
 # Author: BMS
 # Revision: Missile Data Manager ver:1.2.4.0 Date: 9/20/2016 11:08:12 PM
 #-----------------------------------------------------
 # Comments
 #-----------------------------------------------------
 #L3C - overhaul (20-09-2016)
-#
+#UOAF Israel1980s, adapted Stinger misdata file to represent the older Redeye MANPAD, which is more appropriate to the theater's theme (16-04-2021)
 #-----------------------------------------------------
 #     INPUT DATA
 #-----------------------------------------------------
@@ -63,7 +63,7 @@
 # boostguidesec
 1.000000
 # terminalguiderange
-4370.000000
+3800.000000
 # boostguideSensorPrecision
 3.000000
 # sustainguideSensorPrecision
@@ -300,7 +300,7 @@
 #-----------------------------------------------------
 maxToe 5.5
 foxType 0
-maxspeed 2600
+maxspeed 2200
 correctedWeigthCode 0
 deployableWingsTime 0
 errorfromparrent 0
@@ -349,8 +349,8 @@ RMaxTableType 1
 #-----------------------------------------------------
 # Gs
 #-----------------------------------------------------
-maxGTerminal 22
-maxGNormal 22
+maxGTerminal 18
+maxGNormal 18
 RaeroTerminalGmax 8
 RaeroTerminalGmin 2
 #-----------------------------------------------------

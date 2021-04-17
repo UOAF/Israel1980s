@@ -13858,7 +13858,7 @@
         <CtIdx>676</CtIdx>
         <HitPoints>100</HitPoints>
         <Flags>131072</Flags>
-        <Name>Stinger Squad</Name>
+        <Name>Redeye Squad</Name>
         <NCTR> </NCTR>
         <RadarCs>1.000000</RadarCs>
         <MaxWeight>0</MaxWeight>
@@ -14970,7 +14970,7 @@
         <CtIdx>692</CtIdx>
         <HitPoints>100</HitPoints>
         <Flags>2048</Flags>
-        <Name>HMMWV S</Name>
+        <Name>HMMWV MNPD</Name>
         <NCTR> </NCTR>
         <RadarCs>1.000000</RadarCs>
         <MaxWeight>0</MaxWeight>
