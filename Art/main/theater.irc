@@ -49,13 +49,13 @@
 [ADDTEXT] NOT_USED "Keep this line!"
 
 // -----Scenario 2-----
-[ADDTEXT] TXT_SCENARIO_2 ""
-[ADDTEXT] TXT_SC_2_LINE_1 "SERPENTS STING"
-[ADDTEXT] TXT_SC_2_LINE_2 "1988: Israel vs Egypt, both sides have western equipment."
-[ADDTEXT] TXT_SC_2_LINE_3 "Realistic campaign"
+[ADDTEXT] TXT_SCENARIO_2 "SERPENTS STING"
+[ADDTEXT] TXT_SC_2_LINE_1 "1988: Israel vs Egypt, both sides have western equipment."
+[ADDTEXT] TXT_SC_2_LINE_2 "Realistic campaign"
+[ADDTEXT] TXT_SC_2_LINE_3 ""
 [ADDTEXT] TXT_SC_2_LINE_4 ""
-[ADDTEXT] TXT_SC_2_CAMP_END "25"
-[ADDTEXT] TXT_SC_2_CAMP_STALE "5"
+[ADDTEXT] TXT_SC_2_CAMP_END "14"
+[ADDTEXT] TXT_SC_2_CAMP_STALE "4"
 [ADDTEXT] TXT_SC_2_CAMP_DIFF "Medium"
 [ADDTEXT] NOT_USED "Keep this line!"
 
