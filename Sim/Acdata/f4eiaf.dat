@@ -1512,35 +1512,35 @@ avionicsCanUseSpice 0
 avionicsJDAMAvionicsType 0
 avionicsDiffICPStyle 0
 avionicsMLUPFL 1
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
-avionicsHudLadderTapeType 0
-avionicsHudVAHTapeType 0
-avionicsHudDGFTDefaultMode 0
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 3
 avionicsDGFTMasterModeLabelOnHud 0
-avionicsDGFTAttitudeAwareness 1
-avionicsMLUM2TAOnHUD 1
+avionicsDGFTAttitudeAwareness 0
+avionicsMLUM2TAOnHUD 0
 avionicsHudAATargetAspectAngle 1
 avionicsHudOlderMasterModeWindow 0
 avionicsNewAMRAAMdlz 1
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
-avionicsZenithNadirOnHud 1
-avionicsGhostHorizonAwareness 1
-avionicsEPAFRadarCues 1
-avionicsRadarJamChevrons 1
-avionicsColorMfd 1
+avionicsZenithNadirOnHud 0
+avionicsGhostHorizonAwareness 0
+avionicsEPAFRadarCues 0
+avionicsRadarJamChevrons 0
+avionicsColorMfd 0
 avionicsGrayScaleGM 1
-avionicsActivateMFDBoot 0
+avionicsActivateMFDBoot 2
 avionicsMMCUpgrade 1
-avionicsEGIUpgrade 1
-avionicsDigitalFLCS 1
+avionicsEGIUpgrade 0
+avionicsDigitalFLCS 0
 avionicsRWRType 0
 avionicsGunEEGSMode 0
-avionicsGunSSLCMode 0
+avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
 avionicsGunSNAPMode 0
 avionicsEngineType 0
@@ -1556,8 +1556,8 @@ avionicsBackupTacanOnMFD 1
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 63
-avionicsIFFInterrogatorSettings 15
+avionicsIFFTransponderSettings 23
+avionicsIFFInterrogatorSettings 3
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------
 # Autopilot
@@ -1897,6 +1897,9 @@ SpotLight1OuterConeDeg 45.000 # outer cone angle in degrees
 #-----------------------------------------------------
 # Additionals that are not included in FMM.
 #-----------------------------------------------------
+avionicsRadarVsMode 1
+avionicsRadarLrsMode 1
+avionicsRadarUlsMode 1
 hookTipLocation 0.00 0.00 0.00
 Has_TFR 0
 Has_OnboardTFR 0
