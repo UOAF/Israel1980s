@@ -1593,7 +1593,7 @@ avionicsMLUM2TAOnHUD 0
 avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 1
 avionicsNewAMRAAMdlz 0
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 0
 avionicsHudNavDeclutterEnabled 0
 avionicsHudNavSpdAltTapesLag 0

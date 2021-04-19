@@ -1123,11 +1123,11 @@ avionicsHudVAHTapeType 2
 avionicsHudDGFTDefaultMode 2
 avionicsDGFTMasterModeLabelOnHud 1
 avionicsDGFTAttitudeAwareness 0
-avionicsMLUM2TAOnHUD 1
-avionicsHudAATargetAspectAngle 0
+avionicsMLUM2TAOnHUD 0
+avionicsHudAATargetAspectAngle 1
 avionicsHudOlderMasterModeWindow 0
 avionicsNewAMRAAMdlz 0
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
