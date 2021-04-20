@@ -1092,36 +1092,36 @@ avionicsCanUseSpice 0
 avionicsJDAMAvionicsType 0
 avionicsDiffICPStyle 0
 avionicsMLUPFL 1
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
-avionicsHudLadderTapeType 0
-avionicsHudVAHTapeType 0
-avionicsHudDGFTDefaultMode 0
-avionicsDGFTMasterModeLabelOnHud 0
-avionicsDGFTAttitudeAwareness 1
-avionicsMLUM2TAOnHUD 1
-avionicsHudAATargetAspectAngle 1
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 2
+avionicsDGFTMasterModeLabelOnHud 1
+avionicsDGFTAttitudeAwareness 0
+avionicsMLUM2TAOnHUD 0
+avionicsHudAATargetAspectAngle 0
 avionicsHudOlderMasterModeWindow 0
-avionicsNewAMRAAMdlz 1
+avionicsNewAMRAAMdlz 0
 avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
-avionicsZenithNadirOnHud 1
-avionicsGhostHorizonAwareness 1
-avionicsEPAFRadarCues 1
-avionicsRadarJamChevrons 1
-avionicsColorMfd 1
+avionicsZenithNadirOnHud 0
+avionicsGhostHorizonAwareness 0
+avionicsEPAFRadarCues 0
+avionicsRadarJamChevrons 0
+avionicsColorMfd 0
 avionicsGrayScaleGM 1
-avionicsActivateMFDBoot 0
-avionicsMMCUpgrade 1
-avionicsEGIUpgrade 1
-avionicsDigitalFLCS 1
-avionicsRWRType 6
+avionicsActivateMFDBoot 2
+avionicsMMCUpgrade 0
+avionicsEGIUpgrade 0
+avionicsDigitalFLCS 0
+avionicsRWRType 4
 avionicsGunEEGSMode 0
-avionicsGunSSLCMode 0
-avionicsGunLCOSMode 0
+avionicsGunSSLCMode 1
+avionicsGunLCOSMode 1
 avionicsGunSNAPMode 1
 avionicsEngineType 0
 avionicsMfdCataSymbolAim120 0
@@ -1130,13 +1130,13 @@ avionicsCursorEnableAsToggle 0
 avionicsMaverickHandoffCapeable 1
 avionicsDisplayColors 78 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 avionicsASIU 0
-avionicsLongUncageTogglesSTRF 0
+avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 1
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 63
+avionicsIFFTransponderSettings 7
 avionicsIFFInterrogatorSettings 0
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------
@@ -1351,7 +1351,7 @@ IsLongBurnThreat 1
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 0 0 0 0 0 0 0 0 0 0 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 100 0 0 100 100
+misTypeCapability 41 100 0 0 0 0 0 0 0 0 0 0 100 0 100 100 100 100 0 0 100 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 100 0 0 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------
@@ -1501,6 +1501,9 @@ SpotLight1OuterConeDeg 25.000 # outer cone angle in degrees
 #-----------------------------------------------------
 # Additionals that are not included in FMM.
 #-----------------------------------------------------
+avionicsRadarVsMode 1
+avionicsRadarLrsMode 1
+avionicsRadarUlsMode 1
 hookTipLocation 0.00 0.00 0.00
 #
 # End of Additional
