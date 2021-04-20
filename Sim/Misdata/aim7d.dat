@@ -43,7 +43,7 @@
 # Guidance Delay (sec)
 0.50
 # Lofting Bias (Gs)
-0.50
+0.00
 # Proportional nav gain
 1.60
 # Autopilot Bandwidth
