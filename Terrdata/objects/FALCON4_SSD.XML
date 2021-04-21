@@ -209,10 +209,9 @@
         <WpnStores_197>20</WpnStores_197>
         <WpnStores_229>40</WpnStores_229>
         <WpnStores_238>100</WpnStores_238>
-        <WpnStores_256>160</WpnStores_256>
-        <WpnStores_258>160</WpnStores_258>
-        <WpnStores_260>160</WpnStores_260>
-        <WpnStores_262>100</WpnStores_262>
+        <WpnStores_256>240</WpnStores_256>
+        <WpnStores_258>240</WpnStores_258>
+        <WpnStores_260>240</WpnStores_260>
         <WpnStores_286>100</WpnStores_286>
         <WpnStores_287>100</WpnStores_287>
         <WpnStores_288>160</WpnStores_288>
@@ -355,11 +354,9 @@
         <WpnStores_227>10</WpnStores_227>
         <WpnStores_229>30</WpnStores_229>
         <WpnStores_239>120</WpnStores_239>
-        <WpnStores_256>160</WpnStores_256>
-        <WpnStores_258>160</WpnStores_258>
-        <WpnStores_260>160</WpnStores_260>
-        <WpnStores_262>100</WpnStores_262>
-        <WpnStores_265>100</WpnStores_265>
+        <WpnStores_256>240</WpnStores_256>
+        <WpnStores_258>240</WpnStores_258>
+        <WpnStores_260>240</WpnStores_260>
         <WpnStores_286>50</WpnStores_286>
         <WpnStores_287>50</WpnStores_287>
         <WpnStores_288>120</WpnStores_288>
@@ -1791,11 +1788,9 @@
         <WpnStores_193>20</WpnStores_193>
         <WpnStores_229>40</WpnStores_229>
         <WpnStores_239>120</WpnStores_239>
-        <WpnStores_256>160</WpnStores_256>
-        <WpnStores_258>160</WpnStores_258>
-        <WpnStores_260>160</WpnStores_260>
-        <WpnStores_262>100</WpnStores_262>
-        <WpnStores_265>100</WpnStores_265>
+        <WpnStores_256>240</WpnStores_256>
+        <WpnStores_258>240</WpnStores_258>
+        <WpnStores_260>240</WpnStores_260>
         <WpnStores_322>100</WpnStores_322>
         <WpnStores_329>30</WpnStores_329>
         <WpnStores_346>160</WpnStores_346>
@@ -2049,9 +2044,7 @@
         <WpnStores_165>70</WpnStores_165>
         <WpnStores_167>70</WpnStores_167>
         <WpnStores_174>200</WpnStores_174>
-        <WpnStores_250>100</WpnStores_250>
-        <WpnStores_251>100</WpnStores_251>
-        <WpnStores_252>100</WpnStores_252>
+        <WpnStores_260>240</WpnStores_260>
         <WpnStores_355>200</WpnStores_355>
         <WpnStores_357>200</WpnStores_357>
         <WpnStores_358>200</WpnStores_358>
