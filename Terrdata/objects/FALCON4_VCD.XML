@@ -32532,4 +32532,70 @@
         <Dam_Nuclear>105</Dam_Nuclear>
         <Dam_Other>105</Dam_Other>
     </VCD>
+    <VCD Num="426">
+        <CtIdx>3865</CtIdx>
+        <HitPoints>78</HitPoints>
+        <Flags>264192</Flags>
+        <Name>B707 Oryx</Name>
+        <NCTR>B707</NCTR>
+        <RadarCs>2.149140</RadarCs>
+        <MaxWeight>322500</MaxWeight>
+        <EmptyWeight>98466</EmptyWeight>
+        <FuelWeight>156250</FuelWeight>
+        <FuelRate>300</FuelRate>
+        <EngineSound>34</EngineSound>
+        <MaxAlt>300</MaxAlt>
+        <MinAlt>100</MinAlt>
+        <CruiseAlt>280</CruiseAlt>
+        <MaxSpeed>900</MaxSpeed>
+        <RadarIdx>0</RadarIdx>
+        <NumberOfCrew>6</NumberOfCrew>
+        <RackFlags>0</RackFlags>
+        <VisibleFlags>0</VisibleFlags>
+        <CallsignIdx>139</CallsignIdx>
+        <CallsignSlots>2</CallsignSlots>
+        <Hit_NoMove>70</Hit_NoMove>
+        <Hit_Foot>30</Hit_Foot>
+        <Hit_Wheeled>50</Hit_Wheeled>
+        <Hit_Tracked>50</Hit_Tracked>
+        <Hit_LowAir>0</Hit_LowAir>
+        <Hit_Air>0</Hit_Air>
+        <Hit_Naval>50</Hit_Naval>
+        <Hit_Rail>50</Hit_Rail>
+        <Str_NoMove>0</Str_NoMove>
+        <Str_Foot>0</Str_Foot>
+        <Str_Wheeled>0</Str_Wheeled>
+        <Str_Tracked>0</Str_Tracked>
+        <Str_LowAir>0</Str_LowAir>
+        <Str_Air>0</Str_Air>
+        <Str_Naval>0</Str_Naval>
+        <Str_Rail>0</Str_Rail>
+        <Rng_NoMove>18</Rng_NoMove>
+        <Rng_Foot>18</Rng_Foot>
+        <Rng_Wheeled>18</Rng_Wheeled>
+        <Rng_Tracked>18</Rng_Tracked>
+        <Rng_LowAir>0</Rng_LowAir>
+        <Rng_Air>0</Rng_Air>
+        <Rng_Naval>18</Rng_Naval>
+        <Rng_Rail>18</Rng_Rail>
+        <Det_NoMove>0</Det_NoMove>
+        <Det_Foot>0</Det_Foot>
+        <Det_Wheeled>0</Det_Wheeled>
+        <Det_Tracked>0</Det_Tracked>
+        <Det_LowAir>0</Det_LowAir>
+        <Det_Air>0</Det_Air>
+        <Det_Naval>0</Det_Naval>
+        <Det_Rail>0</Det_Rail>
+        <Dam_None>100</Dam_None>
+        <Dam_Penetration>100</Dam_Penetration>
+        <Dam_HighExplosive>100</Dam_HighExplosive>
+        <Dam_Heave>50</Dam_Heave>
+        <Dam_Incendairy>100</Dam_Incendairy>
+        <Dam_Proximity>100</Dam_Proximity>
+        <Dam_Kinetic>100</Dam_Kinetic>
+        <Dam_Hydrostatic>0</Dam_Hydrostatic>
+        <Dam_Chemical>0</Dam_Chemical>
+        <Dam_Nuclear>100</Dam_Nuclear>
+        <Dam_Other>100</Dam_Other>
+    </VCD>
 </VCDRecords>
