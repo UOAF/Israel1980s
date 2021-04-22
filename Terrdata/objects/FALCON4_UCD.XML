@@ -48993,69 +48993,68 @@
         <VehicleCtIdx_13>3865</VehicleCtIdx_13>
         <VehicleCtIdx_14>3865</VehicleCtIdx_14>
         <VehicleCtIdx_15>3865</VehicleCtIdx_15>
-        <Flags>86</Flags>
-        <Name>ECM</Name>
+        <Flags>81</Flags>
+        <Name>JSTAR</Name>
         <MoveType>5</MoveType>
-        <MoveSpeed>889</MoveSpeed>
-        <MaxRange>1700</MaxRange>
-        <Fuel>13180</Fuel>
-        <FuelRate>91</FuelRate>
+        <MoveSpeed>723</MoveSpeed>
+        <MaxRange>4320</MaxRange>
+        <Fuel>155000</Fuel>
+        <FuelRate>213</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
         <RoleScore_6>100</RoleScore_6>
-        <RoleScore_7>60</RoleScore_7>
-        <MainRole>6</MainRole>
-        <Hit_NoMove>45</Hit_NoMove>
+        <RoleScore_13>100</RoleScore_13>
+        <MainRole>13</MainRole>
+        <Hit_NoMove>0</Hit_NoMove>
         <Hit_Foot>0</Hit_Foot>
-        <Hit_Wheeled>35</Hit_Wheeled>
-        <Hit_Tracked>35</Hit_Tracked>
+        <Hit_Wheeled>0</Hit_Wheeled>
+        <Hit_Tracked>0</Hit_Tracked>
         <Hit_LowAir>0</Hit_LowAir>
         <Hit_Air>0</Hit_Air>
-        <Hit_Naval>35</Hit_Naval>
-        <Hit_Rail>35</Hit_Rail>
-        <Str_NoMove>16</Str_NoMove>
+        <Hit_Naval>0</Hit_Naval>
+        <Hit_Rail>0</Hit_Rail>
+        <Str_NoMove>0</Str_NoMove>
         <Str_Foot>0</Str_Foot>
-        <Str_Wheeled>32</Str_Wheeled>
-        <Str_Tracked>32</Str_Tracked>
+        <Str_Wheeled>0</Str_Wheeled>
+        <Str_Tracked>0</Str_Tracked>
         <Str_LowAir>0</Str_LowAir>
         <Str_Air>0</Str_Air>
-        <Str_Naval>32</Str_Naval>
-        <Str_Rail>32</Str_Rail>
-        <Rng_NoMove>36</Rng_NoMove>
+        <Str_Naval>0</Str_Naval>
+        <Str_Rail>0</Str_Rail>
+        <Rng_NoMove>0</Rng_NoMove>
         <Rng_Foot>0</Rng_Foot>
-        <Rng_Wheeled>36</Rng_Wheeled>
-        <Rng_Tracked>36</Rng_Tracked>
+        <Rng_Wheeled>0</Rng_Wheeled>
+        <Rng_Tracked>0</Rng_Tracked>
         <Rng_LowAir>0</Rng_LowAir>
         <Rng_Air>0</Rng_Air>
-        <Rng_Naval>36</Rng_Naval>
-        <Rng_Rail>36</Rng_Rail>
-        <Det_NoMove>0</Det_NoMove>
+        <Rng_Naval>0</Rng_Naval>
+        <Rng_Rail>0</Rng_Rail>
+        <Det_NoMove>250</Det_NoMove>
         <Det_Foot>0</Det_Foot>
-        <Det_Wheeled>0</Det_Wheeled>
-        <Det_Tracked>0</Det_Tracked>
+        <Det_Wheeled>250</Det_Wheeled>
+        <Det_Tracked>250</Det_Tracked>
         <Det_LowAir>0</Det_LowAir>
         <Det_Air>0</Det_Air>
-        <Det_Naval>0</Det_Naval>
-        <Det_Rail>0</Det_Rail>
-        <Dam_None>88</Dam_None>
-        <Dam_Penetration>88</Dam_Penetration>
-        <Dam_HighExplosive>88</Dam_HighExplosive>
+        <Det_Naval>250</Det_Naval>
+        <Det_Rail>250</Det_Rail>
+        <Dam_None>0</Dam_None>
+        <Dam_Penetration>0</Dam_Penetration>
+        <Dam_HighExplosive>0</Dam_HighExplosive>
         <Dam_Heave>0</Dam_Heave>
-        <Dam_Incendairy>88</Dam_Incendairy>
-        <Dam_Proximity>88</Dam_Proximity>
-        <Dam_Kinetic>88</Dam_Kinetic>
+        <Dam_Incendairy>0</Dam_Incendairy>
+        <Dam_Proximity>0</Dam_Proximity>
+        <Dam_Kinetic>0</Dam_Kinetic>
         <Dam_Hydrostatic>0</Dam_Hydrostatic>
         <Dam_Chemical>0</Dam_Chemical>
-        <Dam_Nuclear>88</Dam_Nuclear>
+        <Dam_Nuclear>0</Dam_Nuclear>
         <Dam_Other>0</Dam_Other>
         <RadarVehicle>0</RadarVehicle>
-        <SquadronStoresIdx>4</SquadronStoresIdx>
+        <SquadronStoresIdx>0</SquadronStoresIdx>
         <UnitIcon>10083</UnitIcon>
     </UCD>
     <UCD Num="589">
         <CtIdx>3867</CtIdx>
         <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
         <VehicleCtIdx_0>3865</VehicleCtIdx_0>
         <VehicleCtIdx_1>3865</VehicleCtIdx_1>
         <VehicleCtIdx_2>3865</VehicleCtIdx_2>
@@ -49072,63 +49071,63 @@
         <VehicleCtIdx_13>3865</VehicleCtIdx_13>
         <VehicleCtIdx_14>3865</VehicleCtIdx_14>
         <VehicleCtIdx_15>3865</VehicleCtIdx_15>
-        <Flags>86</Flags>
-        <Name>ECM</Name>
+        <Flags>81</Flags>
+        <Name>JSTAR</Name>
         <MoveType>5</MoveType>
-        <MoveSpeed>889</MoveSpeed>
-        <MaxRange>1700</MaxRange>
-        <Fuel>13180</Fuel>
-        <FuelRate>91</FuelRate>
+        <MoveSpeed>723</MoveSpeed>
+        <MaxRange>4320</MaxRange>
+        <Fuel>155000</Fuel>
+        <FuelRate>213</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
         <RoleScore_6>100</RoleScore_6>
-        <RoleScore_7>60</RoleScore_7>
-        <MainRole>6</MainRole>
-        <Hit_NoMove>45</Hit_NoMove>
+        <RoleScore_13>100</RoleScore_13>
+        <MainRole>13</MainRole>
+        <Hit_NoMove>0</Hit_NoMove>
         <Hit_Foot>0</Hit_Foot>
-        <Hit_Wheeled>35</Hit_Wheeled>
-        <Hit_Tracked>35</Hit_Tracked>
+        <Hit_Wheeled>0</Hit_Wheeled>
+        <Hit_Tracked>0</Hit_Tracked>
         <Hit_LowAir>0</Hit_LowAir>
         <Hit_Air>0</Hit_Air>
-        <Hit_Naval>35</Hit_Naval>
-        <Hit_Rail>35</Hit_Rail>
-        <Str_NoMove>8</Str_NoMove>
+        <Hit_Naval>0</Hit_Naval>
+        <Hit_Rail>0</Hit_Rail>
+        <Str_NoMove>0</Str_NoMove>
         <Str_Foot>0</Str_Foot>
-        <Str_Wheeled>144</Str_Wheeled>
-        <Str_Tracked>144</Str_Tracked>
+        <Str_Wheeled>0</Str_Wheeled>
+        <Str_Tracked>0</Str_Tracked>
         <Str_LowAir>0</Str_LowAir>
         <Str_Air>0</Str_Air>
-        <Str_Naval>144</Str_Naval>
-        <Str_Rail>144</Str_Rail>
-        <Rng_NoMove>36</Rng_NoMove>
+        <Str_Naval>0</Str_Naval>
+        <Str_Rail>0</Str_Rail>
+        <Rng_NoMove>0</Rng_NoMove>
         <Rng_Foot>0</Rng_Foot>
-        <Rng_Wheeled>36</Rng_Wheeled>
-        <Rng_Tracked>36</Rng_Tracked>
+        <Rng_Wheeled>0</Rng_Wheeled>
+        <Rng_Tracked>0</Rng_Tracked>
         <Rng_LowAir>0</Rng_LowAir>
         <Rng_Air>0</Rng_Air>
-        <Rng_Naval>36</Rng_Naval>
-        <Rng_Rail>36</Rng_Rail>
-        <Det_NoMove>0</Det_NoMove>
+        <Rng_Naval>0</Rng_Naval>
+        <Rng_Rail>0</Rng_Rail>
+        <Det_NoMove>250</Det_NoMove>
         <Det_Foot>0</Det_Foot>
-        <Det_Wheeled>0</Det_Wheeled>
-        <Det_Tracked>0</Det_Tracked>
+        <Det_Wheeled>250</Det_Wheeled>
+        <Det_Tracked>250</Det_Tracked>
         <Det_LowAir>0</Det_LowAir>
         <Det_Air>0</Det_Air>
-        <Det_Naval>0</Det_Naval>
-        <Det_Rail>0</Det_Rail>
-        <Dam_None>80</Dam_None>
-        <Dam_Penetration>80</Dam_Penetration>
-        <Dam_HighExplosive>80</Dam_HighExplosive>
+        <Det_Naval>250</Det_Naval>
+        <Det_Rail>250</Det_Rail>
+        <Dam_None>0</Dam_None>
+        <Dam_Penetration>0</Dam_Penetration>
+        <Dam_HighExplosive>0</Dam_HighExplosive>
         <Dam_Heave>0</Dam_Heave>
-        <Dam_Incendairy>80</Dam_Incendairy>
-        <Dam_Proximity>80</Dam_Proximity>
-        <Dam_Kinetic>80</Dam_Kinetic>
+        <Dam_Incendairy>0</Dam_Incendairy>
+        <Dam_Proximity>0</Dam_Proximity>
+        <Dam_Kinetic>0</Dam_Kinetic>
         <Dam_Hydrostatic>0</Dam_Hydrostatic>
         <Dam_Chemical>0</Dam_Chemical>
-        <Dam_Nuclear>80</Dam_Nuclear>
+        <Dam_Nuclear>0</Dam_Nuclear>
         <Dam_Other>0</Dam_Other>
         <RadarVehicle>0</RadarVehicle>
-        <SquadronStoresIdx>547</SquadronStoresIdx>
+        <SquadronStoresIdx>108</SquadronStoresIdx>
         <UnitIcon>10083</UnitIcon>
     </UCD>
 </UCDRecords>
