@@ -584,12 +584,13 @@ TXT_UH1HROCA              595
 TXT_CH53                  596
 TXT_KA52K                 597
 TXT_F4F                   590
-TXT_MIG21EAF	          612
+TXT_MIG21EAF              612
 TXT_G550                  613
 TXT_F15AIL                614
 TXT_MIG21FEAF             615
-TXT_F4EEAF		  616
+TXT_F4EEAF                616
 TXT_F4EIAF                617
+TXT_B707EW                618
 
 TXT_COMMS_WRONG_THEATER            580
 TXT_COMMS_DIFFERENT_VERSION        585

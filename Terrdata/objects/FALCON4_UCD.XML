@@ -49050,7 +49050,7 @@
         <Dam_Other>0</Dam_Other>
         <RadarVehicle>0</RadarVehicle>
         <SquadronStoresIdx>4</SquadronStoresIdx>
-        <UnitIcon>10076</UnitIcon>
+        <UnitIcon>10083</UnitIcon>
     </UCD>
     <UCD Num="589">
         <CtIdx>3867</CtIdx>
@@ -49129,6 +49129,6 @@
         <Dam_Other>0</Dam_Other>
         <RadarVehicle>0</RadarVehicle>
         <SquadronStoresIdx>547</SquadronStoresIdx>
-        <UnitIcon>10076</UnitIcon>
+        <UnitIcon>10083</UnitIcon>
     </UCD>
 </UCDRecords>
