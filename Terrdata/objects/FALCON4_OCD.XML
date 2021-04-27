@@ -1475,7 +1475,7 @@
         <Name>Airbase 01_19/15_33</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>0</PtDataIdx>
+        <PtDataIdx>119</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -1565,7 +1565,7 @@
         <Name>Sachon AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>119</PtDataIdx>
+        <PtDataIdx>129</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -1775,7 +1775,7 @@
         <Name>Uiju AB</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>129</PtDataIdx>
+        <PtDataIdx>139</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -1835,7 +1835,7 @@
         <Name>Seoul AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>136</PtDataIdx>
+        <PtDataIdx>146</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -2225,7 +2225,7 @@
         <Name>Choongwon AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>146</PtDataIdx>
+        <PtDataIdx>156</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -2315,7 +2315,7 @@
         <Name>Iwakuni AB</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>156</PtDataIdx>
+        <PtDataIdx>166</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -2555,7 +2555,7 @@
         <Name>Kimhae Airport</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>163</PtDataIdx>
+        <PtDataIdx>173</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -2885,7 +2885,7 @@
         <Name>Sokcho AB</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>172</PtDataIdx>
+        <PtDataIdx>182</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -3035,7 +3035,7 @@
         <Name>Kwangju AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>180</PtDataIdx>
+        <PtDataIdx>190</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -4895,7 +4895,7 @@
         <Name>Factory 04</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>189</PtDataIdx>
+        <PtDataIdx>199</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -4925,7 +4925,7 @@
         <Name>Factory 05</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>191</PtDataIdx>
+        <PtDataIdx>201</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -4955,7 +4955,7 @@
         <Name>Factory 06</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>193</PtDataIdx>
+        <PtDataIdx>203</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -4985,7 +4985,7 @@
         <Name>Factory 07</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>195</PtDataIdx>
+        <PtDataIdx>205</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5015,7 +5015,7 @@
         <Name>Factory 08</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>197</PtDataIdx>
+        <PtDataIdx>207</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5045,7 +5045,7 @@
         <Name>Factory 09</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>199</PtDataIdx>
+        <PtDataIdx>209</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5105,7 +5105,7 @@
         <Name>Factory 10</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>201</PtDataIdx>
+        <PtDataIdx>211</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5135,7 +5135,7 @@
         <Name>Factory 11</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>203</PtDataIdx>
+        <PtDataIdx>213</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5165,7 +5165,7 @@
         <Name>Factory 12</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>205</PtDataIdx>
+        <PtDataIdx>215</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5195,7 +5195,7 @@
         <Name>Factory 13</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>207</PtDataIdx>
+        <PtDataIdx>217</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5225,7 +5225,7 @@
         <Name>Factory 14</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>209</PtDataIdx>
+        <PtDataIdx>219</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5255,7 +5255,7 @@
         <Name>Factory 15</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>211</PtDataIdx>
+        <PtDataIdx>221</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5285,7 +5285,7 @@
         <Name>Refinery 02</Name>
         <DataRate>600</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>213</PtDataIdx>
+        <PtDataIdx>223</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5465,7 +5465,7 @@
         <Name>Chemical Plant 02</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>215</PtDataIdx>
+        <PtDataIdx>225</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5645,7 +5645,7 @@
         <Name>Refinery 03</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>217</PtDataIdx>
+        <PtDataIdx>227</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5675,7 +5675,7 @@
         <Name>Sunan Airport</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>219</PtDataIdx>
+        <PtDataIdx>229</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5705,7 +5705,7 @@
         <Name>Airbase 01_19/18_36</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>229</PtDataIdx>
+        <PtDataIdx>239</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5735,7 +5735,7 @@
         <Name>Airbase 18_36</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>238</PtDataIdx>
+        <PtDataIdx>248</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -5765,7 +5765,7 @@
         <Name>Kimpo Airport</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>244</PtDataIdx>
+        <PtDataIdx>254</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9245,7 +9245,7 @@
         <Name>Army Base 02</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>254</PtDataIdx>
+        <PtDataIdx>264</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9275,7 +9275,7 @@
         <Name>Army Base 03</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>257</PtDataIdx>
+        <PtDataIdx>267</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9305,7 +9305,7 @@
         <Name>Army Base 04</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>260</PtDataIdx>
+        <PtDataIdx>270</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9335,7 +9335,7 @@
         <Name>Army Base 05</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>263</PtDataIdx>
+        <PtDataIdx>273</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9365,7 +9365,7 @@
         <Name>Army Base 06</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>266</PtDataIdx>
+        <PtDataIdx>276</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9395,7 +9395,7 @@
         <Name>Army Base 07</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>269</PtDataIdx>
+        <PtDataIdx>279</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9455,7 +9455,7 @@
         <Name>SAM Site 02</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>272</PtDataIdx>
+        <PtDataIdx>282</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9485,7 +9485,7 @@
         <Name>SAM Site 03</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>274</PtDataIdx>
+        <PtDataIdx>284</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9515,7 +9515,7 @@
         <Name>SAM Site 04</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>276</PtDataIdx>
+        <PtDataIdx>286</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9545,7 +9545,7 @@
         <Name>SAM Site 05</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>278</PtDataIdx>
+        <PtDataIdx>288</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9575,7 +9575,7 @@
         <Name>SAM Site 06</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>280</PtDataIdx>
+        <PtDataIdx>290</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9605,7 +9605,7 @@
         <Name>Port 01</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>282</PtDataIdx>
+        <PtDataIdx>292</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9635,7 +9635,7 @@
         <Name>Port 02</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>285</PtDataIdx>
+        <PtDataIdx>295</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9665,7 +9665,7 @@
         <Name>Port 03</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>288</PtDataIdx>
+        <PtDataIdx>298</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9695,7 +9695,7 @@
         <Name>Port 04</Name>
         <DataRate>300</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>291</PtDataIdx>
+        <PtDataIdx>301</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9725,7 +9725,7 @@
         <Name>Port 05</Name>
         <DataRate>300</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>294</PtDataIdx>
+        <PtDataIdx>304</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9755,7 +9755,7 @@
         <Name>Port 06</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>297</PtDataIdx>
+        <PtDataIdx>307</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9785,7 +9785,7 @@
         <Name>Port 07</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>300</PtDataIdx>
+        <PtDataIdx>310</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9815,7 +9815,7 @@
         <Name>Port 08</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>303</PtDataIdx>
+        <PtDataIdx>313</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9845,7 +9845,7 @@
         <Name>Port 09</Name>
         <DataRate>300</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>306</PtDataIdx>
+        <PtDataIdx>316</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9875,7 +9875,7 @@
         <Name>Port 10</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>309</PtDataIdx>
+        <PtDataIdx>319</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9905,7 +9905,7 @@
         <Name>Port 11</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>312</PtDataIdx>
+        <PtDataIdx>322</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9935,7 +9935,7 @@
         <Name>Port 12</Name>
         <DataRate>300</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>315</PtDataIdx>
+        <PtDataIdx>325</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9965,7 +9965,7 @@
         <Name>Port 13</Name>
         <DataRate>50</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>318</PtDataIdx>
+        <PtDataIdx>328</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -9995,7 +9995,7 @@
         <Name>Chemical Plant 03</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>321</PtDataIdx>
+        <PtDataIdx>331</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10025,7 +10025,7 @@
         <Name>Chemical Plant 04</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>323</PtDataIdx>
+        <PtDataIdx>333</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10055,7 +10055,7 @@
         <Name>Chemical Plant 05</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>325</PtDataIdx>
+        <PtDataIdx>335</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10115,7 +10115,7 @@
         <Name>Chemical Plant 06</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>327</PtDataIdx>
+        <PtDataIdx>337</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10145,7 +10145,7 @@
         <Name>Chemical Plant 07</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>329</PtDataIdx>
+        <PtDataIdx>339</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10175,7 +10175,7 @@
         <Name>Chemical Plant 08</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>331</PtDataIdx>
+        <PtDataIdx>341</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10205,7 +10205,7 @@
         <Name>!Propane Plant</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>333</PtDataIdx>
+        <PtDataIdx>343</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10265,7 +10265,7 @@
         <Name>Refinery 04</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>335</PtDataIdx>
+        <PtDataIdx>345</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10295,7 +10295,7 @@
         <Name>Refinery 05</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>337</PtDataIdx>
+        <PtDataIdx>347</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10355,7 +10355,7 @@
         <Name>Nuclear Plant 02</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>339</PtDataIdx>
+        <PtDataIdx>349</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10385,7 +10385,7 @@
         <Name>Nuclear Plant 03</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>341</PtDataIdx>
+        <PtDataIdx>351</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10445,7 +10445,7 @@
         <Name>Nuclear Plant 04</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>343</PtDataIdx>
+        <PtDataIdx>353</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10565,7 +10565,7 @@
         <Name>Nuclear Plant 05</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>345</PtDataIdx>
+        <PtDataIdx>355</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10655,7 +10655,7 @@
         <Name>Airbase 01_19</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>347</PtDataIdx>
+        <PtDataIdx>357</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10685,7 +10685,7 @@
         <Name>Airbase 02_20</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>354</PtDataIdx>
+        <PtDataIdx>364</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10715,7 +10715,7 @@
         <Name>Airbase 08_26</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>361</PtDataIdx>
+        <PtDataIdx>371</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10745,7 +10745,7 @@
         <Name>Airbase 11_29</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>368</PtDataIdx>
+        <PtDataIdx>378</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10775,7 +10775,7 @@
         <Name>Airbase 12_30</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>375</PtDataIdx>
+        <PtDataIdx>385</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10805,7 +10805,7 @@
         <Name>Airbase 20_02</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>382</PtDataIdx>
+        <PtDataIdx>392</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10835,7 +10835,7 @@
         <Name>Airbase 21_03</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>389</PtDataIdx>
+        <PtDataIdx>399</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10865,7 +10865,7 @@
         <Name>Airbase 23_05 Dual</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>396</PtDataIdx>
+        <PtDataIdx>406</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10895,7 +10895,7 @@
         <Name>Airbase 26_08</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>406</PtDataIdx>
+        <PtDataIdx>416</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10925,7 +10925,7 @@
         <Name>Airbase 30_12</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>414</PtDataIdx>
+        <PtDataIdx>424</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10955,7 +10955,7 @@
         <Name>Airbase 32_14</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>421</PtDataIdx>
+        <PtDataIdx>431</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -10985,7 +10985,7 @@
         <Name>Airbase 34_16</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>428</PtDataIdx>
+        <PtDataIdx>438</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11015,7 +11015,7 @@
         <Name>Airbase 36_18</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>435</PtDataIdx>
+        <PtDataIdx>445</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11045,7 +11045,7 @@
         <Name>Suwon AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>441</PtDataIdx>
+        <PtDataIdx>451</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11075,7 +11075,7 @@
         <Name>Highway Strip E-W</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>451</PtDataIdx>
+        <PtDataIdx>461</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11105,7 +11105,7 @@
         <Name>Factory 16</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>456</PtDataIdx>
+        <PtDataIdx>466</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11135,7 +11135,7 @@
         <Name>Factory 17</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>458</PtDataIdx>
+        <PtDataIdx>468</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11225,7 +11225,7 @@
         <Name>Factory 18</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>460</PtDataIdx>
+        <PtDataIdx>470</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11255,7 +11255,7 @@
         <Name>Factory 19</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>462</PtDataIdx>
+        <PtDataIdx>472</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11285,7 +11285,7 @@
         <Name>Factory 20</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>464</PtDataIdx>
+        <PtDataIdx>474</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11315,7 +11315,7 @@
         <Name>Factory 21</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>466</PtDataIdx>
+        <PtDataIdx>476</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11375,7 +11375,7 @@
         <Name>Factory 22</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>468</PtDataIdx>
+        <PtDataIdx>478</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11405,7 +11405,7 @@
         <Name>Factory 23</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>470</PtDataIdx>
+        <PtDataIdx>480</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11435,7 +11435,7 @@
         <Name>Factory 24</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>472</PtDataIdx>
+        <PtDataIdx>482</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11495,7 +11495,7 @@
         <Name>Factory 25</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>474</PtDataIdx>
+        <PtDataIdx>484</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11525,7 +11525,7 @@
         <Name>Factory 26</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>476</PtDataIdx>
+        <PtDataIdx>486</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11555,7 +11555,7 @@
         <Name>Factory 27</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>478</PtDataIdx>
+        <PtDataIdx>488</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11585,7 +11585,7 @@
         <Name>Factory 28</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>480</PtDataIdx>
+        <PtDataIdx>490</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11645,7 +11645,7 @@
         <Name>Factory 29</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>482</PtDataIdx>
+        <PtDataIdx>492</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11675,7 +11675,7 @@
         <Name>Factory 30</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>484</PtDataIdx>
+        <PtDataIdx>494</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11705,7 +11705,7 @@
         <Name>Factory 31</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>486</PtDataIdx>
+        <PtDataIdx>496</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11765,7 +11765,7 @@
         <Name>Factory 32</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>488</PtDataIdx>
+        <PtDataIdx>498</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11795,7 +11795,7 @@
         <Name>Factory 33</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>490</PtDataIdx>
+        <PtDataIdx>500</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11825,7 +11825,7 @@
         <Name>Factory 34</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>492</PtDataIdx>
+        <PtDataIdx>502</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11855,7 +11855,7 @@
         <Name>Factory 35</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>494</PtDataIdx>
+        <PtDataIdx>504</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11885,7 +11885,7 @@
         <Name>Factory 36</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>496</PtDataIdx>
+        <PtDataIdx>506</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -11945,7 +11945,7 @@
         <Name>Factory 37</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>498</PtDataIdx>
+        <PtDataIdx>508</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12005,7 +12005,7 @@
         <Name>Factory 38</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>500</PtDataIdx>
+        <PtDataIdx>510</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12035,7 +12035,7 @@
         <Name>Factory 39</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>502</PtDataIdx>
+        <PtDataIdx>512</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12065,7 +12065,7 @@
         <Name>Factory 40</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>504</PtDataIdx>
+        <PtDataIdx>514</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12095,7 +12095,7 @@
         <Name>Factory 41</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>506</PtDataIdx>
+        <PtDataIdx>516</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12125,7 +12125,7 @@
         <Name>Factory 42</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>508</PtDataIdx>
+        <PtDataIdx>518</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12155,7 +12155,7 @@
         <Name>Factory 43</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>510</PtDataIdx>
+        <PtDataIdx>520</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12185,7 +12185,7 @@
         <Name>Factory 44</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>512</PtDataIdx>
+        <PtDataIdx>522</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12215,7 +12215,7 @@
         <Name>Factory 45</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>514</PtDataIdx>
+        <PtDataIdx>524</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12245,7 +12245,7 @@
         <Name>Factory 46</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>516</PtDataIdx>
+        <PtDataIdx>526</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12275,7 +12275,7 @@
         <Name>Factory 47</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>518</PtDataIdx>
+        <PtDataIdx>528</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12335,7 +12335,7 @@
         <Name>Factory 48</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>520</PtDataIdx>
+        <PtDataIdx>530</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12365,7 +12365,7 @@
         <Name>Und Factory 01</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>522</PtDataIdx>
+        <PtDataIdx>532</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12425,7 +12425,7 @@
         <Name>Und Factory 02</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>524</PtDataIdx>
+        <PtDataIdx>534</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12455,7 +12455,7 @@
         <Name>Und Factory 03</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>526</PtDataIdx>
+        <PtDataIdx>536</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12485,7 +12485,7 @@
         <Name>Und Factory 04</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>528</PtDataIdx>
+        <PtDataIdx>538</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12635,7 +12635,7 @@
         <Name>Power Plant 02</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>530</PtDataIdx>
+        <PtDataIdx>540</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12785,7 +12785,7 @@
         <Name>Power Plant 03</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>532</PtDataIdx>
+        <PtDataIdx>542</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12815,7 +12815,7 @@
         <Name>Power Plant 04</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>534</PtDataIdx>
+        <PtDataIdx>544</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -12995,7 +12995,7 @@
         <Name>Army Base 10</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>536</PtDataIdx>
+        <PtDataIdx>546</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -13175,7 +13175,7 @@
         <Name>Army Base 11</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>539</PtDataIdx>
+        <PtDataIdx>549</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -13205,7 +13205,7 @@
         <Name>Nuclear Plant 06</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>542</PtDataIdx>
+        <PtDataIdx>552</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -13235,7 +13235,7 @@
         <Name>Chemical Plant 09</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>544</PtDataIdx>
+        <PtDataIdx>554</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15065,7 +15065,7 @@
         <Name>Mirim AB</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>546</PtDataIdx>
+        <PtDataIdx>556</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15095,7 +15095,7 @@
         <Name>Army Base 12</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>553</PtDataIdx>
+        <PtDataIdx>563</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15125,7 +15125,7 @@
         <Name>Army Base 13</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>556</PtDataIdx>
+        <PtDataIdx>566</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15155,7 +15155,7 @@
         <Name>Army Base 08</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>559</PtDataIdx>
+        <PtDataIdx>569</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15185,7 +15185,7 @@
         <Name>Army Base 14</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>562</PtDataIdx>
+        <PtDataIdx>572</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15215,7 +15215,7 @@
         <Name>Army Base 09</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>565</PtDataIdx>
+        <PtDataIdx>575</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15245,7 +15245,7 @@
         <Name>Depot 02</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>568</PtDataIdx>
+        <PtDataIdx>578</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15275,7 +15275,7 @@
         <Name>Depot 03</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>571</PtDataIdx>
+        <PtDataIdx>581</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15305,7 +15305,7 @@
         <Name>Depot 04</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>574</PtDataIdx>
+        <PtDataIdx>584</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15335,7 +15335,7 @@
         <Name>Depot 05</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>577</PtDataIdx>
+        <PtDataIdx>587</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15365,7 +15365,7 @@
         <Name>Depot 06</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>580</PtDataIdx>
+        <PtDataIdx>590</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15395,7 +15395,7 @@
         <Name>Depot 07</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>583</PtDataIdx>
+        <PtDataIdx>593</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15455,7 +15455,7 @@
         <Name>Depot 08</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>586</PtDataIdx>
+        <PtDataIdx>596</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15545,7 +15545,7 @@
         <Name>Depot 09</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>589</PtDataIdx>
+        <PtDataIdx>599</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15575,7 +15575,7 @@
         <Name>Depot 10</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>592</PtDataIdx>
+        <PtDataIdx>602</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15605,7 +15605,7 @@
         <Name>Depot 11</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>595</PtDataIdx>
+        <PtDataIdx>605</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15635,7 +15635,7 @@
         <Name>Depot 12</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>598</PtDataIdx>
+        <PtDataIdx>608</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15665,7 +15665,7 @@
         <Name>Depot 13</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>601</PtDataIdx>
+        <PtDataIdx>611</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15725,7 +15725,7 @@
         <Name>Depot 14</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>604</PtDataIdx>
+        <PtDataIdx>614</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15755,7 +15755,7 @@
         <Name>Depot 15</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>607</PtDataIdx>
+        <PtDataIdx>617</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15785,7 +15785,7 @@
         <Name>Headquarter 01</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>610</PtDataIdx>
+        <PtDataIdx>620</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15815,7 +15815,7 @@
         <Name>Headquarter 02</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>612</PtDataIdx>
+        <PtDataIdx>622</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15845,7 +15845,7 @@
         <Name>Headquarter 03</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>615</PtDataIdx>
+        <PtDataIdx>625</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15875,7 +15875,7 @@
         <Name>Radar Site 01</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>618</PtDataIdx>
+        <PtDataIdx>628</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15905,7 +15905,7 @@
         <Name>Radar Site 02</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>621</PtDataIdx>
+        <PtDataIdx>631</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15935,7 +15935,7 @@
         <Name>Radar Site 03</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>623</PtDataIdx>
+        <PtDataIdx>633</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -15995,7 +15995,7 @@
         <Name>Radar Site 04</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>626</PtDataIdx>
+        <PtDataIdx>636</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16025,7 +16025,7 @@
         <Name>Radar Site 05</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>629</PtDataIdx>
+        <PtDataIdx>639</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16055,7 +16055,7 @@
         <Name>Radar Site 06</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>632</PtDataIdx>
+        <PtDataIdx>642</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16085,7 +16085,7 @@
         <Name>Radar Site 07</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>635</PtDataIdx>
+        <PtDataIdx>645</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16115,7 +16115,7 @@
         <Name>Radar Site 08</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>638</PtDataIdx>
+        <PtDataIdx>648</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16145,7 +16145,7 @@
         <Name>Radar Site 09</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>640</PtDataIdx>
+        <PtDataIdx>650</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16175,7 +16175,7 @@
         <Name>Radar Site 10</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>643</PtDataIdx>
+        <PtDataIdx>653</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16205,7 +16205,7 @@
         <Name>Radar Site 11</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>646</PtDataIdx>
+        <PtDataIdx>656</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16235,7 +16235,7 @@
         <Name>Radar Site 12</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>649</PtDataIdx>
+        <PtDataIdx>659</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16265,7 +16265,7 @@
         <Name>Radar Site 13</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>652</PtDataIdx>
+        <PtDataIdx>662</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16295,7 +16295,7 @@
         <Name>Radar Site 14</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>655</PtDataIdx>
+        <PtDataIdx>665</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -16355,7 +16355,7 @@
         <Name>!Pyongyang Nuclear</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>658</PtDataIdx>
+        <PtDataIdx>668</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18485,7 +18485,7 @@
         <Name>Submarine Base 02*</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>660</PtDataIdx>
+        <PtDataIdx>670</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18515,7 +18515,7 @@
         <Name>Submarine Base 03*</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>662</PtDataIdx>
+        <PtDataIdx>672</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18545,7 +18545,7 @@
         <Name>Range Kotar</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>664</PtDataIdx>
+        <PtDataIdx>674</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18665,7 +18665,7 @@
         <Name>Kunsan AB</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>665</PtDataIdx>
+        <PtDataIdx>675</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18935,7 +18935,7 @@
         <Name>Carrier Vinson</Name>
         <DataRate>7</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>673</PtDataIdx>
+        <PtDataIdx>683</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18965,7 +18965,7 @@
         <Name>Carrier Roosvelt</Name>
         <DataRate>7</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>684</PtDataIdx>
+        <PtDataIdx>694</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -18995,7 +18995,7 @@
         <Name>Carrier Enterprise</Name>
         <DataRate>7</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>695</PtDataIdx>
+        <PtDataIdx>705</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19025,7 +19025,7 @@
         <Name>Carrier Kusnetsov</Name>
         <DataRate>7</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>706</PtDataIdx>
+        <PtDataIdx>716</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19115,7 +19115,7 @@
         <Name>Carrier Type 001</Name>
         <DataRate>7</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>717</PtDataIdx>
+        <PtDataIdx>727</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19145,7 +19145,7 @@
         <Name>Kangnung AB</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>728</PtDataIdx>
+        <PtDataIdx>738</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19175,7 +19175,7 @@
         <Name>Carrier Wasp</Name>
         <DataRate>7</DataRate>
         <DeaggDistance>0</DeaggDistance>
-        <PtDataIdx>736</PtDataIdx>
+        <PtDataIdx>746</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19286,7 +19286,7 @@
         <Dam_Nuclear>90</Dam_Nuclear>
         <Dam_Other>0</Dam_Other>
         <ObjectiveIcon>10032</ObjectiveIcon>
-        <FeatureCount>59</FeatureCount>
+        <FeatureCount>58</FeatureCount>
         <RadarFeature>255</RadarFeature>
         <FirstFeature>17720</FirstFeature>
     </OCD>
@@ -19295,7 +19295,7 @@
         <Name>Ramat David AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>90</DeaggDistance>
-        <PtDataIdx>747</PtDataIdx>
+        <PtDataIdx>757</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19316,16 +19316,16 @@
         <Dam_Nuclear>77</Dam_Nuclear>
         <Dam_Other>0</Dam_Other>
         <ObjectiveIcon>10116</ObjectiveIcon>
-        <FeatureCount>211</FeatureCount>
-        <RadarFeature>24</RadarFeature>
-        <FirstFeature>17779</FirstFeature>
+        <FeatureCount>255</FeatureCount>
+        <RadarFeature>39</RadarFeature>
+        <FirstFeature>17778</FirstFeature>
     </OCD>
     <OCD Num="644">
         <CtIdx>3845</CtIdx>
         <Name>Ramon AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>70</DeaggDistance>
-        <PtDataIdx>755</PtDataIdx>
+        <PtDataIdx>768</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19346,16 +19346,16 @@
         <Dam_Nuclear>70</Dam_Nuclear>
         <Dam_Other>0</Dam_Other>
         <ObjectiveIcon>10115</ObjectiveIcon>
-        <FeatureCount>255</FeatureCount>
-        <RadarFeature>7</RadarFeature>
-        <FirstFeature>17990</FirstFeature>
+        <FeatureCount>205</FeatureCount>
+        <RadarFeature>14</RadarFeature>
+        <FirstFeature>18033</FirstFeature>
     </OCD>
     <OCD Num="645">
         <CtIdx>3846</CtIdx>
         <Name>Range 179</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>763</PtDataIdx>
+        <PtDataIdx>779</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19378,14 +19378,14 @@
         <ObjectiveIcon>10032</ObjectiveIcon>
         <FeatureCount>9</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18245</FirstFeature>
+        <FirstFeature>18238</FirstFeature>
     </OCD>
     <OCD Num="646">
         <CtIdx>3847</CtIdx>
         <Name>Range 409</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>765</PtDataIdx>
+        <PtDataIdx>781</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19408,14 +19408,14 @@
         <ObjectiveIcon>10032</ObjectiveIcon>
         <FeatureCount>29</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18254</FirstFeature>
+        <FirstFeature>18247</FirstFeature>
     </OCD>
     <OCD Num="647">
         <CtIdx>3848</CtIdx>
         <Name>Range 602</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>40</DeaggDistance>
-        <PtDataIdx>767</PtDataIdx>
+        <PtDataIdx>783</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19438,14 +19438,14 @@
         <ObjectiveIcon>10032</ObjectiveIcon>
         <FeatureCount>14</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18283</FirstFeature>
+        <FirstFeature>18276</FirstFeature>
     </OCD>
     <OCD Num="648">
         <CtIdx>3849</CtIdx>
         <Name>Range 611</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>769</PtDataIdx>
+        <PtDataIdx>785</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19468,14 +19468,14 @@
         <ObjectiveIcon>10032</ObjectiveIcon>
         <FeatureCount>55</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18297</FirstFeature>
+        <FirstFeature>18290</FirstFeature>
     </OCD>
     <OCD Num="649">
         <CtIdx>3850</CtIdx>
         <Name>Range-Misc</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>20</DeaggDistance>
-        <PtDataIdx>771</PtDataIdx>
+        <PtDataIdx>787</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19498,14 +19498,14 @@
         <ObjectiveIcon>10032</ObjectiveIcon>
         <FeatureCount>8</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18352</FirstFeature>
+        <FirstFeature>18345</FirstFeature>
     </OCD>
     <OCD Num="650">
         <CtIdx>3851</CtIdx>
         <Name>Airbase 14_32 Dual</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>70</DeaggDistance>
-        <PtDataIdx>773</PtDataIdx>
+        <PtDataIdx>789</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19528,7 +19528,7 @@
         <ObjectiveIcon>10113</ObjectiveIcon>
         <FeatureCount>253</FeatureCount>
         <RadarFeature>7</RadarFeature>
-        <FirstFeature>18360</FirstFeature>
+        <FirstFeature>18353</FirstFeature>
     </OCD>
     <OCD Num="651">
         <CtIdx>3852</CtIdx>
@@ -19558,7 +19558,7 @@
         <ObjectiveIcon>10036</ObjectiveIcon>
         <FeatureCount>8</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18613</FirstFeature>
+        <FirstFeature>18606</FirstFeature>
     </OCD>
     <OCD Num="652">
         <CtIdx>3853</CtIdx>
@@ -19588,7 +19588,7 @@
         <ObjectiveIcon>10036</ObjectiveIcon>
         <FeatureCount>6</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18621</FirstFeature>
+        <FirstFeature>18614</FirstFeature>
     </OCD>
     <OCD Num="653">
         <CtIdx>3854</CtIdx>
@@ -19618,14 +19618,14 @@
         <ObjectiveIcon>10036</ObjectiveIcon>
         <FeatureCount>6</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18627</FirstFeature>
+        <FirstFeature>18620</FirstFeature>
     </OCD>
     <OCD Num="654">
         <CtIdx>3855</CtIdx>
         <Name>Power Plant 05</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>781</PtDataIdx>
+        <PtDataIdx>797</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19648,14 +19648,14 @@
         <ObjectiveIcon>10024</ObjectiveIcon>
         <FeatureCount>5</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18633</FirstFeature>
+        <FirstFeature>18626</FirstFeature>
     </OCD>
     <OCD Num="655">
         <CtIdx>3856</CtIdx>
         <Name>Power Plant 06</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>783</PtDataIdx>
+        <PtDataIdx>799</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19678,14 +19678,14 @@
         <ObjectiveIcon>10024</ObjectiveIcon>
         <FeatureCount>9</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18638</FirstFeature>
+        <FirstFeature>18631</FirstFeature>
     </OCD>
     <OCD Num="656">
         <CtIdx>3857</CtIdx>
         <Name>Power Plant 07</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>785</PtDataIdx>
+        <PtDataIdx>801</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19708,14 +19708,14 @@
         <ObjectiveIcon>10024</ObjectiveIcon>
         <FeatureCount>10</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18647</FirstFeature>
+        <FirstFeature>18640</FirstFeature>
     </OCD>
     <OCD Num="657">
         <CtIdx>3858</CtIdx>
         <Name>Radar Site 15</Name>
         <DataRate>1</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>787</PtDataIdx>
+        <PtDataIdx>803</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19738,14 +19738,14 @@
         <ObjectiveIcon>10020</ObjectiveIcon>
         <FeatureCount>6</FeatureCount>
         <RadarFeature>1</RadarFeature>
-        <FirstFeature>18657</FirstFeature>
+        <FirstFeature>18650</FirstFeature>
     </OCD>
     <OCD Num="658">
         <CtIdx>3859</CtIdx>
         <Name>Refinery 06</Name>
         <DataRate>100</DataRate>
         <DeaggDistance>15</DeaggDistance>
-        <PtDataIdx>790</PtDataIdx>
+        <PtDataIdx>806</PtDataIdx>
         <Det_NoMove>0</Det_NoMove>
         <Det_Foot>0</Det_Foot>
         <Det_Wheeled>0</Det_Wheeled>
@@ -19768,6 +19768,36 @@
         <ObjectiveIcon>10024</ObjectiveIcon>
         <FeatureCount>24</FeatureCount>
         <RadarFeature>255</RadarFeature>
-        <FirstFeature>18663</FirstFeature>
+        <FirstFeature>18656</FirstFeature>
     </OCD>
+    <!--<OCD Num="659">
+        <CtIdx>3924</CtIdx>
+        <Name>Hatzerim AB</Name>
+        <DataRate>2</DataRate>
+        <DeaggDistance>70</DeaggDistance>
+        <PtDataIdx>808</PtDataIdx>
+        <Det_NoMove>0</Det_NoMove>
+        <Det_Foot>0</Det_Foot>
+        <Det_Wheeled>0</Det_Wheeled>
+        <Det_Tracked>0</Det_Tracked>
+        <Det_LowAir>50</Det_LowAir>
+        <Det_Air>150</Det_Air>
+        <Det_Naval>0</Det_Naval>
+        <Det_Rail>0</Det_Rail>
+        <Dam_None>71</Dam_None>
+        <Dam_Penetration>45</Dam_Penetration>
+        <Dam_HighExplosive>54</Dam_HighExplosive>
+        <Dam_Heave>46</Dam_Heave>
+        <Dam_Incendairy>44</Dam_Incendairy>
+        <Dam_Proximity>36</Dam_Proximity>
+        <Dam_Kinetic>41</Dam_Kinetic>
+        <Dam_Hydrostatic>25</Dam_Hydrostatic>
+        <Dam_Chemical>25</Dam_Chemical>
+        <Dam_Nuclear>70</Dam_Nuclear>
+        <Dam_Other>0</Dam_Other>
+        <ObjectiveIcon>10115</ObjectiveIcon>
+        <FeatureCount>254</FeatureCount>
+        <RadarFeature>22</RadarFeature>
+        <FirstFeature>18680</FirstFeature>
+    </OCD>-->
 </OCDRecords>

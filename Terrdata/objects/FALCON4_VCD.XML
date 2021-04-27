@@ -3626,7 +3626,7 @@
         <CtIdx>169</CtIdx>
         <HitPoints>56</HitPoints>
         <Flags>1073743872</Flags>
-        <Name>F-5E ROKAF</Name>
+        <Name>F-5E RJAF</Name>
         <NCTR>F5</NCTR>
         <RadarCs>0.750154</RadarCs>
         <MaxWeight>24664</MaxWeight>
@@ -15255,7 +15255,7 @@
         <CtIdx>697</CtIdx>
         <HitPoints>58</HitPoints>
         <Flags>1073743872</Flags>
-        <Name>Mirage F1CT</Name>
+        <Name>Mirage F1-EJ</Name>
         <NCTR>MIRG</NCTR>
         <RadarCs>0.914700</RadarCs>
         <MaxWeight>35714</MaxWeight>
@@ -15269,7 +15269,7 @@
         <MaxSpeed>1120</MaxSpeed>
         <RadarIdx>114</RadarIdx>
         <NumberOfCrew>1</NumberOfCrew>
-        <RackFlags>238</RackFlags>
+        <RackFlags>254</RackFlags>
         <VisibleFlags>254</VisibleFlags>
         <CallsignIdx>36</CallsignIdx>
         <CallsignSlots>10</CallsignSlots>
@@ -26563,7 +26563,7 @@
         <CtIdx>2423</CtIdx>
         <HitPoints>64</HitPoints>
         <Flags>1074071552</Flags>
-        <Name>Mirage 2000C</Name>
+        <Name>Mirage 2000EM</Name>
         <NCTR>MIRG</NCTR>
         <RadarCs>0.922108</RadarCs>
         <MaxWeight>37478</MaxWeight>
@@ -27219,7 +27219,7 @@
         <CtIdx>2431</CtIdx>
         <HitPoints>64</HitPoints>
         <Flags>1611204608</Flags>
-        <Name>Rafale C</Name>
+        <Name>Rafale EM</Name>
         <NCTR>RAFL</NCTR>
         <RadarCs>1.184664</RadarCs>
         <MaxWeight>60000</MaxWeight>
@@ -28639,7 +28639,7 @@
         <CtIdx>2448</CtIdx>
         <HitPoints>44</HitPoints>
         <Flags>2048</Flags>
-        <Name>MiG-21F-13</Name>
+        <Name>MiG-21F-13 EAF</Name>
         <NCTR>MG21</NCTR>
         <RadarCs>1.272260</RadarCs>
         <MaxWeight>22925</MaxWeight>
@@ -28717,7 +28717,7 @@
         <CtIdx>2449</CtIdx>
         <HitPoints>48</HitPoints>
         <Flags>1073743872</Flags>
-        <Name>MiG-21bis</Name>
+        <Name>MiG-21MF EAF</Name>
         <NCTR>MG21</NCTR>
         <RadarCs>1.272260</RadarCs>
         <MaxWeight>22928</MaxWeight>
