@@ -198,7 +198,7 @@ definerack bru-42-left
 	addwclass rocket, bomb, gbu
 	addwid 17 19 20 250 251 252 355 357 358 428
 	addloadorder 0
-	addloadorder 1 0
+	addloadorder 1 1
 	addloadorder 1 0 2
 
 # TER
@@ -4137,7 +4137,7 @@ definegroup MiG31aa6
 
 definegroup Mirage-F1_Wingtip
 	addpylon
-		pylonct 0
+		pylonct 3873
 			addrack Mirage-F1_Magic
 
 definegroup Mirage-F1_Wingext
@@ -4167,10 +4167,8 @@ definegroup Mirage-F1_Wingint-R
 
 definegroup Mirage-F1_Center
 	addpylon
-		pylonct 2238
+		pylonct 3872
 			addrack Mirage-F1_Tank
-	addpylon
-		pylonct 2244
 			addrack Mirage-F1_AG1X
 			addrack Mirage-F1_AG2X-L
 	addpylon
