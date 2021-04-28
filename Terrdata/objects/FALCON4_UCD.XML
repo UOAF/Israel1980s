@@ -49130,8 +49130,8 @@
         <SquadronStoresIdx>108</SquadronStoresIdx>
         <UnitIcon>10083</UnitIcon>
     </UCD>
-	<!--<UCD Num="590">
-        <CtIdx>3886</CtIdx>
+	<UCD Num="590"><!--Hermes 450 Squadron-->
+        <CtIdx>3876</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
         <ElementCount_2>2</ElementCount_2>
@@ -49144,22 +49144,22 @@
         <ElementCount_11>2</ElementCount_11>
         <ElementCount_13>2</ElementCount_13>
         <ElementCount_15>2</ElementCount_15>
-        <VehicleCtIdx_0>3885</VehicleCtIdx_0>
-        <VehicleCtIdx_1>3885</VehicleCtIdx_1>
-        <VehicleCtIdx_2>3885</VehicleCtIdx_2>
-        <VehicleCtIdx_3>3885</VehicleCtIdx_3>
-        <VehicleCtIdx_4>3885</VehicleCtIdx_4>
-        <VehicleCtIdx_5>3885</VehicleCtIdx_5>
-        <VehicleCtIdx_6>3885</VehicleCtIdx_6>
-        <VehicleCtIdx_7>3885</VehicleCtIdx_7>
-        <VehicleCtIdx_8>3885</VehicleCtIdx_8>
-        <VehicleCtIdx_9>3885</VehicleCtIdx_9>
-        <VehicleCtIdx_10>3885</VehicleCtIdx_10>
-        <VehicleCtIdx_11>3885</VehicleCtIdx_11>
-        <VehicleCtIdx_12>3885</VehicleCtIdx_12>
-        <VehicleCtIdx_13>3885</VehicleCtIdx_13>
-        <VehicleCtIdx_14>3885</VehicleCtIdx_14>
-        <VehicleCtIdx_15>3885</VehicleCtIdx_15>
+        <VehicleCtIdx_0>3875</VehicleCtIdx_0>
+        <VehicleCtIdx_1>3875</VehicleCtIdx_1>
+        <VehicleCtIdx_2>3875</VehicleCtIdx_2>
+        <VehicleCtIdx_3>3875</VehicleCtIdx_3>
+        <VehicleCtIdx_4>3875</VehicleCtIdx_4>
+        <VehicleCtIdx_5>3875</VehicleCtIdx_5>
+        <VehicleCtIdx_6>3875</VehicleCtIdx_6>
+        <VehicleCtIdx_7>3875</VehicleCtIdx_7>
+        <VehicleCtIdx_8>3875</VehicleCtIdx_8>
+        <VehicleCtIdx_9>3875</VehicleCtIdx_9>
+        <VehicleCtIdx_10>3875</VehicleCtIdx_10>
+        <VehicleCtIdx_11>3875</VehicleCtIdx_11>
+        <VehicleCtIdx_12>3875</VehicleCtIdx_12>
+        <VehicleCtIdx_13>3875</VehicleCtIdx_13>
+        <VehicleCtIdx_14>3875</VehicleCtIdx_14>
+        <VehicleCtIdx_15>3875</VehicleCtIdx_15>
         <Flags>17</Flags>
         <Name>Attack</Name>
         <MoveType>4</MoveType>
@@ -49223,26 +49223,26 @@
         <SquadronStoresIdx>9</SquadronStoresIdx>
         <UnitIcon>10066</UnitIcon>
     </UCD>
-    <UCD Num="591">
-        <CtIdx>3935</CtIdx>
+    <UCD Num="591"><!--Mig-29M2 flight-->
+        <CtIdx>3925</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
-        <VehicleCtIdx_0>3934</VehicleCtIdx_0>
-        <VehicleCtIdx_1>3934</VehicleCtIdx_1>
-        <VehicleCtIdx_2>3934</VehicleCtIdx_2>
-        <VehicleCtIdx_3>3934</VehicleCtIdx_3>
-        <VehicleCtIdx_4>3934</VehicleCtIdx_4>
-        <VehicleCtIdx_5>3934</VehicleCtIdx_5>
-        <VehicleCtIdx_6>3934</VehicleCtIdx_6>
-        <VehicleCtIdx_7>3934</VehicleCtIdx_7>
-        <VehicleCtIdx_8>3934</VehicleCtIdx_8>
-        <VehicleCtIdx_9>3934</VehicleCtIdx_9>
-        <VehicleCtIdx_10>3934</VehicleCtIdx_10>
-        <VehicleCtIdx_11>3934</VehicleCtIdx_11>
-        <VehicleCtIdx_12>3934</VehicleCtIdx_12>
-        <VehicleCtIdx_13>3934</VehicleCtIdx_13>
-        <VehicleCtIdx_14>3934</VehicleCtIdx_14>
-        <VehicleCtIdx_15>3934</VehicleCtIdx_15>
+        <VehicleCtIdx_0>3924</VehicleCtIdx_0>
+        <VehicleCtIdx_1>3924</VehicleCtIdx_1>
+        <VehicleCtIdx_2>3924</VehicleCtIdx_2>
+        <VehicleCtIdx_3>3924</VehicleCtIdx_3>
+        <VehicleCtIdx_4>3924</VehicleCtIdx_4>
+        <VehicleCtIdx_5>3924</VehicleCtIdx_5>
+        <VehicleCtIdx_6>3924</VehicleCtIdx_6>
+        <VehicleCtIdx_7>3924</VehicleCtIdx_7>
+        <VehicleCtIdx_8>3924</VehicleCtIdx_8>
+        <VehicleCtIdx_9>3924</VehicleCtIdx_9>
+        <VehicleCtIdx_10>3924</VehicleCtIdx_10>
+        <VehicleCtIdx_11>3924</VehicleCtIdx_11>
+        <VehicleCtIdx_12>3924</VehicleCtIdx_12>
+        <VehicleCtIdx_13>3924</VehicleCtIdx_13>
+        <VehicleCtIdx_14>3924</VehicleCtIdx_14>
+        <VehicleCtIdx_15>3924</VehicleCtIdx_15>
         <Flags>65</Flags>
         <Name>Fighter</Name>
         <MoveType>5</MoveType>
@@ -49305,8 +49305,8 @@
         <SquadronStoresIdx>588</SquadronStoresIdx>
         <UnitIcon>10090</UnitIcon>
     </UCD>
-    <UCD Num="592">
-        <CtIdx>3936</CtIdx>
+    <UCD Num="592"><!--Mig-29M2 Squadron-->
+        <CtIdx>3926</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
         <ElementCount_2>2</ElementCount_2>
@@ -49316,22 +49316,22 @@
         <ElementCount_11>2</ElementCount_11>
         <ElementCount_13>2</ElementCount_13>
         <ElementCount_15>2</ElementCount_15>
-        <VehicleCtIdx_0>3934</VehicleCtIdx_0>
-        <VehicleCtIdx_1>3934</VehicleCtIdx_1>
-        <VehicleCtIdx_2>3934</VehicleCtIdx_2>
-        <VehicleCtIdx_3>3934</VehicleCtIdx_3>
-        <VehicleCtIdx_4>3934</VehicleCtIdx_4>
-        <VehicleCtIdx_5>3934</VehicleCtIdx_5>
-        <VehicleCtIdx_6>3934</VehicleCtIdx_6>
-        <VehicleCtIdx_7>3934</VehicleCtIdx_7>
-        <VehicleCtIdx_8>3934</VehicleCtIdx_8>
-        <VehicleCtIdx_9>3934</VehicleCtIdx_9>
-        <VehicleCtIdx_10>3934</VehicleCtIdx_10>
-        <VehicleCtIdx_11>3934</VehicleCtIdx_11>
-        <VehicleCtIdx_12>3934</VehicleCtIdx_12>
-        <VehicleCtIdx_13>3934</VehicleCtIdx_13>
-        <VehicleCtIdx_14>3934</VehicleCtIdx_14>
-        <VehicleCtIdx_15>3934</VehicleCtIdx_15>
+        <VehicleCtIdx_0>3924</VehicleCtIdx_0>
+        <VehicleCtIdx_1>3924</VehicleCtIdx_1>
+        <VehicleCtIdx_2>3924</VehicleCtIdx_2>
+        <VehicleCtIdx_3>3924</VehicleCtIdx_3>
+        <VehicleCtIdx_4>3924</VehicleCtIdx_4>
+        <VehicleCtIdx_5>3924</VehicleCtIdx_5>
+        <VehicleCtIdx_6>3924</VehicleCtIdx_6>
+        <VehicleCtIdx_7>3924</VehicleCtIdx_7>
+        <VehicleCtIdx_8>3924</VehicleCtIdx_8>
+        <VehicleCtIdx_9>3924</VehicleCtIdx_9>
+        <VehicleCtIdx_10>3924</VehicleCtIdx_10>
+        <VehicleCtIdx_11>3924</VehicleCtIdx_11>
+        <VehicleCtIdx_12>3924</VehicleCtIdx_12>
+        <VehicleCtIdx_13>3924</VehicleCtIdx_13>
+        <VehicleCtIdx_14>3924</VehicleCtIdx_14>
+        <VehicleCtIdx_15>3924</VehicleCtIdx_15>
         <Flags>65</Flags>
         <Name>Fighter</Name>
         <MoveType>5</MoveType>
@@ -49393,5 +49393,5 @@
         <RadarVehicle>0</RadarVehicle>
         <SquadronStoresIdx>59</SquadronStoresIdx>
         <UnitIcon>10090</UnitIcon>
-    </UCD>-->
+    </UCD>
 </UCDRecords>

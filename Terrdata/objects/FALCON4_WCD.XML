@@ -22688,8 +22688,8 @@
         <BulletDispersion>0</BulletDispersion>
         <BulletRoundsPerSec>0</BulletRoundsPerSec>
     </WCD>
-	<!--<WCD Num="709">
-        <CtIdx>3882</CtIdx>
+	<WCD Num="709">
+        <CtIdx>3872</CtIdx>
         <Strength>0</Strength>
         <DamageType>0</DamageType>
         <Range>0</Range>
@@ -22721,7 +22721,7 @@
         <BulletRoundsPerSec>0</BulletRoundsPerSec>
     </WCD>
     <WCD Num="710">
-        <CtIdx>3883</CtIdx>
+        <CtIdx>3873</CtIdx>
         <Strength>0</Strength>
         <DamageType>0</DamageType>
         <Range>0</Range>
@@ -22753,7 +22753,7 @@
         <BulletRoundsPerSec>0</BulletRoundsPerSec>
     </WCD>
     <WCD Num="711">
-        <CtIdx>3884</CtIdx>
+        <CtIdx>3874</CtIdx>
         <Strength>2083</Strength>
         <DamageType>0</DamageType>
         <Range>0</Range>
@@ -22783,5 +22783,5 @@
         <BulletVelocity>0</BulletVelocity>
         <BulletDispersion>0</BulletDispersion>
         <BulletRoundsPerSec>0</BulletRoundsPerSec>
-    </WCD>-->
+    </WCD>
 </WCDRecords>

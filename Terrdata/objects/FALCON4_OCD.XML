@@ -19770,8 +19770,8 @@
         <RadarFeature>255</RadarFeature>
         <FirstFeature>18656</FirstFeature>
     </OCD>
-    <!--<OCD Num="659">
-        <CtIdx>3924</CtIdx>
+    <OCD Num="659">
+        <CtIdx>3914</CtIdx>
         <Name>Hatzerim AB</Name>
         <DataRate>2</DataRate>
         <DeaggDistance>70</DeaggDistance>
@@ -19799,5 +19799,5 @@
         <FeatureCount>254</FeatureCount>
         <RadarFeature>22</RadarFeature>
         <FirstFeature>18680</FirstFeature>
-    </OCD>-->
+    </OCD>
 </OCDRecords>
