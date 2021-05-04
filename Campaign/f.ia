@@ -5,10 +5,10 @@
 #   excessive weapons wont be taken into account..
 #####################################################
 # Own plane (Unit Information) Example: F-16
-# KF-16C-52
+# F-16C-30 IAF
 1 type
 9 subtype
-58 specific
+61 specific
 #####################################################
 #####################################################
 # Weapon loadout: WeaponID (Weapon No.), WeaponAmount
@@ -17,14 +17,17 @@
 507 W0
 51 C0
 #Loadout Hardpoint 1
-# 1 x AIM120C
-159 W1
+# 1 x AIM-9L
+174 W1
 1 C1
 #Loadout Hardpoint 2
 # 1 x AIM9M
-174 W2
-1 C2
+# 174 W2
+# 1 C2
 #Loadout Hardpoint 3
+# 1 x AIM-7F
+166 W3
+1 C3
 #Loadout Hardpoint 4
 #Loadout Hardpoint 5
 # 300 Gal tank
@@ -32,13 +35,16 @@
 1 C5
 #Loadout Hardpoint 6
 #Loadout Hardpoint 7
+# 1 x AIM-7F
+166 W7
+1 C7
 #Loadout Hardpoint 8 (empty on A-10)
 # 1 x AIM9X
-176 W8
-1 C8
+# 176 W8
+# 1 C8
 #Loadout Hardpoint 9
-# 1 x AIM120B
-158 W9
+# 1 x AIM-9P
+175 W9
 1 C9
 #Loadout Hardpoint 5L
 #Loadout Hardpoint 5R
