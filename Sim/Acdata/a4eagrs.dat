@@ -1040,7 +1040,7 @@ animExhNozABMax 15.0
 animExhNozRate 5.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
@@ -1319,7 +1319,7 @@ animRefuelRate 0.0
 #-----------------------------------------------------
 avionicsCanUseSpice 0
 avionicsJDAMAvionicsType 0
-avionicsDiffICPStyle 1
+avionicsDiffICPStyle 0
 avionicsMLUPFL 0
 avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0

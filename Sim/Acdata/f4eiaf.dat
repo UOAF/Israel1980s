@@ -1223,9 +1223,13 @@ hasATC 0
 engineSmokes 3
 normSpoolRate 2.2
 abSpoolRate 2.2
+SecRpmVar 0.00
+FlcsBitRpmVar 0.00
 nozzleMil 0.00
 nozzleIdleLGDown 0.94
 nozzleIdleLGUp 0.00
+nozzleSpoolRateOpen 1.20
+nozzleSpoolRateClose 0.25
 LGIdle 0
 jfsStartUpTime 15
 jfsSpoolUpRate 15.0
@@ -1236,6 +1240,8 @@ jfsRechargeTime 60
 jfsMinRechargeRpm 0.12
 jfsSpinTime 240
 FTITHotStart 11.500
+FTITEngineFireGround 10.000
+FTITEngineFireAir 10.000
 FTITStart 6.100
 FTITIdle 5.100
 FTITMax 7.600
@@ -1256,7 +1262,7 @@ animExhNozABMax 15.0
 animExhNozRate 5.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
@@ -1363,9 +1369,25 @@ MLGWOWPercentage 0.90
 NLGWOWPercentage 0.50
 NWSRateUp 1.5
 NWSRateDown 4.0
-animWheelRadius1 0.00
-animWheelRadius2 0.00
-animWheelRadius3 0.00
+animGearAngleOFM1 0.00
+animGearAngleOFM2 0.00
+animGearAngleOFM3 0.00
+animGearAngleOFM4 0.00
+animGearAngleOFM5 0.00
+animGearAngleOFM6 0.00
+animGearAngleOFM7 0.00
+animGearAngleOFM8 0.00
+animGearAngleAFM1 0.00
+animGearAngleAFM2 0.00
+animGearAngleAFM3 0.00
+animGearAngleAFM4 0.00
+animGearAngleAFM5 0.00
+animGearAngleAFM6 0.00
+animGearAngleAFM7 0.00
+animGearAngleAFM8 0.00
+animWheelRadius1 1.00
+animWheelRadius2 1.40
+animWheelRadius3 1.40
 animWheelRadius4 0.00
 animWheelRadius5 0.00
 animWheelRadius6 0.00
@@ -1379,16 +1401,16 @@ animGearMaxComp5 0.00
 animGearMaxComp6 0.00
 animGearMaxComp7 0.00
 animGearMaxComp8 0.00
-animGearMaxExt1 0.00
-animGearMaxExt2 0.00
-animGearMaxExt3 0.00
+animGearMaxExt1 0.50
+animGearMaxExt2 0.20
+animGearMaxExt3 0.20
 animGearMaxExt4 0.00
 animGearMaxExt5 0.00
 animGearMaxExt6 0.00
 animGearMaxExt7 0.00
 animGearMaxExt8 0.00
 animGearInverted 0
-GearDofRate1 0.60 #Added Falcas 01/13/1014
+GearDofRate1 0.60
 GearDofRate2 0.60
 GearDofRate3 0.60
 GearDofRate4 0.60
@@ -1396,7 +1418,7 @@ GearDofRate5 0.60
 GearDofRate6 0.60
 GearDofRate7 0.60
 GearDofRate8 0.60
-GearDelayDown1 1.50 #Added Falcas 01/13/1014
+GearDelayDown1 1.50
 GearDelayDown2 1.50
 GearDelayDown3 1.50
 GearDelayDown4 1.50
@@ -1404,7 +1426,7 @@ GearDelayDown5 1.50
 GearDelayDown6 1.50
 GearDelayDown7 1.50
 GearDelayDown8 1.50
-GearDelayUp1 0.00 #Added Falcas 01/13/1014
+GearDelayUp1 0.00
 GearDelayUp2 0.00
 GearDelayUp3 0.00
 GearDelayUp4 0.00
@@ -1412,7 +1434,7 @@ GearDelayUp5 0.00
 GearDelayUp6 0.00
 GearDelayUp7 0.00
 GearDelayUp8 0.00
-DoorDofRate1 0.60 #Added Falcas 01/13/1014
+DoorDofRate1 0.60
 DoorDofRate2 0.60
 DoorDofRate3 0.60
 DoorDofRate4 0.60
@@ -1420,7 +1442,7 @@ DoorDofRate5 0.60
 DoorDofRate6 0.60
 DoorDofRate7 0.60
 DoorDofRate8 0.60
-DoorDelayDown1 0.00 #Added Falcas 01/13/1014
+DoorDelayDown1 0.00
 DoorDelayDown2 0.00
 DoorDelayDown3 0.00
 DoorDelayDown4 0.00
@@ -1428,7 +1450,7 @@ DoorDelayDown5 0.00
 DoorDelayDown6 0.00
 DoorDelayDown7 0.00
 DoorDelayDown8 0.00
-DoorDelayUp1 1.50 #Added Falcas 01/13/1014
+DoorDelayUp1 1.50
 DoorDelayUp2 1.50
 DoorDelayUp3 1.50
 DoorDelayUp4 1.50
@@ -1439,11 +1461,11 @@ DoorDelayUp8 1.50
 #-----------------------------------------------------
 # Hook
 #-----------------------------------------------------
-hookConnectionLocation 2.00 -2.00 0.00
-HookLength 0.00
-animHookInitialAngle -5.0
-animHookAngle 0.0
-animHookRate 0.0
+hookConnectionLocation -16.27 0.00 2.16
+HookLength 7.69 #Bad Boy 02/17/2019
+animHookInitialAngle -17.0 #Bad Boy 02/17/2019
+animHookAngle 50.0 #Bad Boy 02/17/2019
+animHookRate 10.0 #Bad Boy 02/17/2019
 #-----------------------------------------------------
 # Wing fold
 #-----------------------------------------------------
@@ -1452,6 +1474,7 @@ animWingFoldRate 0.0
 #-----------------------------------------------------
 # Canopy
 #-----------------------------------------------------
+canopyHandleMethod 0
 canopyMaxAngle 55
 canopyOpenRate 5.0
 canopyCloseRate 5.0
@@ -1493,7 +1516,7 @@ FuelLeakPositAftTank 0.0 0.0 0.0
 # Air-Air Refuel
 #-----------------------------------------------------
 receiverRefuelServiceType 1 #Added Falcas 01/21/2014
-refuelLocation 0.00 0.00 0.00
+refuelLocation 1.34 0.00 -4.45
 refuelSpeed 315
 refuelAltitude 20000
 refuelRate 50
@@ -1620,7 +1643,7 @@ sndBBChaffFlareOut 185
 sndBBAltitude 65
 sndBBLock 67
 sndTouchDown 42
-sndWheelBrakes 132
+sndWheelBrakes 0
 sndDragChute 218
 sndLowSpeed 167
 sndFlapStart 145
@@ -1629,17 +1652,30 @@ sndFlapEnd 143
 sndHookStart 195
 sndHookLoop 194
 sndHookEnd 193
-sndGearCloseStart 147
-sndGearCloseEnd 146
-sndGearOpenStart 149
-sndGearOpenEnd 150
-sndGearLoop 148
+sndGearCloseStart0 147
+sndGearCloseEnd0 146
+sndGearOpenStart0 149
+sndGearOpenEnd0 150
+sndGearCloseStart1 331
+sndGearCloseEnd1 330
+sndGearOpenStart1 332
+sndGearOpenEnd1 333
+sndGearCloseStart2 394
+sndGearCloseEnd2 393
+sndGearOpenStart2 395
+sndGearOpenEnd2 396
+sndGearLoopOpen 148
+sndGearLoopClose 170
 sndCanopyOpenStart 271
 sndCanopyOpenLoop 275
 sndCanopyOpenEnd 272
 sndCanopyCloseStart 273
 sndCanopyCloseLoop 361
 sndCanopyCloseEnd 274
+sndCanopyLock 418
+sndCanopyUnlock 419
+sndSeatUp 420
+sndSeatDown 421
 sndEject 5
 sndWind 33
 sndBattery 304
@@ -1656,39 +1692,65 @@ sndJFSendInt 308
 #-----------------------------------------------------
 # Sounds Engine Ext
 #-----------------------------------------------------
-sndAbExt 225
+sndAbExt 39 #External high RPM & afterburner roar - Heard mostly from the rear at close and medium distance
+sndAbExtChart 2 1.0000 0.00 1.0300 1.00
+sndAbExtPitchChart 5 0.0000 0.80 0.7000 1.00 0.9600 1.20 0.9700 1.00 1.0000 0.90
 #
 sndExt 222
+sndExtChart 4 0.00 0.00 0.45 0.80 1.00 1.00 1.03 1.00
+sndExtPitchChart 6 0.00 0.30 0.70 1.00 0.75 1.30 0.80 1.50 0.85 1.70 0.90 1.70
 #
-sndExt2 -1
+sndExt2 276
+sndExt2Chart 4 0.00 0.00 0.15 0.60 0.60 0.90 1.00 1.00
+sndExt2PitchChart 6 0.00 0.30 0.70 1.00 0.75 1.30 0.83 1.60 0.85 1.80 0.90 1.80
 #
-sndExt3 -1
+sndExt3 225
+sndExt3Chart 4 0.00 0.00 0.40 0.00 0.70 0.60 1.00 1.00
 #
 sndExt4 0
 #-----------------------------------------------------
 # Sounds Engine Int
 #-----------------------------------------------------
-sndInt -1
+sndInt 34
+sndIntChart 3 0.00 0.00 0.20 0.80 0.70 1.00
+sndIntPitchChart 3 0.00 0.30 0.70 1.20 1.00 1.50
 #
-sndInt2 -1
+sndInt2 278
+sndInt2Chart 3 0.00 0.00 0.40 0.60 1.00 1.00
+sndInt2PitchChart 2 0.00 0.30 0.70 2.00
 #
-sndInt3 -1
+sndInt3 303
+sndInt3Chart 3 0.00 0.00 0.20 0.80 0.70 1.00
+sndInt3PitchChart 2 0.00 0.30 0.70 2.00
 #
 sndInt4 0
 #
 sndAbInt 40
+sndAbIntChart 2 1.0000 0.00 1.0300 1.00
 #
 sndAbInt2 -1
 #-----------------------------------------------------
 # Sounds Aero
 #-----------------------------------------------------
-sndAero1 0
+sndAero1 298 #Aerodynamic pressure
+sndAero1AOAChart 1 0 1.00
+sndAero1SpeedChart 5 0.0 0.00 0.1 0.65 0.8 0.90 1.0 0.95 2.3 1.00
+sndAero1SpeedPitchChart 2 0.0 0.85 3.0 1.05
 #
-sndAero2 0
+sndAero2 299 #Low speed high AoA
+sndAero2AOAChart 3 0 0.00 6 0.50 15 1.00
+sndAero2SpeedChart 3 0.0 0.00 0.1 0.80 0.5 1.00
+sndAero2SpeedPitchChart 1 0.0 1.00
 #
-sndAero3 0
+sndAero3 300 #High speed low AoA
+sndAero3AOAChart 3 0 0.00 5 0.80 8 1.00
+sndAero3SpeedChart 2 0.0 0.00 0.7 1.00
+sndAero3SpeedPitchChart 1 0.0 1.00
 #
-sndAero4 0
+sndAero4 4 #Airflow sound for external by pass view
+sndAero4AOAChart 2 0 0.90 10 1.00
+sndAero4SpeedChart 3 0.0 0.00 0.1 0.60 1.0 1.00
+sndAero4SpeedPitchChart 1 0.0 1.00
 #-----------------------------------------------------
 # AI behaviour
 #-----------------------------------------------------
@@ -1708,8 +1770,8 @@ optClimbSpeed 300 #Falcas 06/13/2013
 optClimbMach 0.80 #Falcas 06/13/2013
 minClimbRate 2700 #Falcas 07/24/2014
 descentPath -1.0
-landingAOA 12.0
-aerobrakingAOA 0.0
+landingAOA 10.5
+aerobrakingAOA 12.0 #Falcas 02/09/2017
 aiLandingOffset -300 #Falcas 01/09/2014
 MinTGTMAR 4
 MaxMARIdedStart 15
@@ -1846,39 +1908,39 @@ TopGunCamera4 7  +43.00   +0.00   -9.00  -16.00 +180.00   +0.00  47.0 #Placed ne
 #-----------------------------------------------------
 Light1Position -21.50 -1.80 1.56 # Left Burner1 Falcas 06/13/2013
 Light1Color 0.80 0.65 0.40
-Light1Type 10
-Light1Radius 95
-Light1Attenuation 0.060
+Light10Type 10
+Light10Radius 20
+Light10Attenuation 0.010
 
 Light2Position -24.00 -1.80 1.56 # Left Burner2 Falcas 06/13/2013
 Light2Color 0.80 0.65 0.40
-Light2Type 10
-Light2Radius 95
-Light2Attenuation 0.100
+Light11Type 10
+Light11Radius 20
+Light11Attenuation 0.100
 
 Light3Position -29.00 -1.80 1.56 # Left Burner3 Falcas 06/13/2013
 Light3Color 0.80 0.65 0.40
-Light3Type 10
-Light3Radius 95
-Light3Attenuation 0.200
+Light12Type 10
+Light12Radius 20
+Light12Attenuation 0.200
 
 Light4Position -21.50 1.80 1.56 # Right Burner1 Falcas 06/13/2013
 Light4Color 0.80 0.65 0.40
-Light4Type 10
-Light4Radius 95
-Light4Attenuation 0.060
+Light10Type 10
+Light10Radius 20
+Light10Attenuation 0.010
 
 Light5Position -24.00 1.80 1.56 # Right Burner2 Falcas 06/13/2013
 Light5Color 0.80 0.65 0.40
-Light5Type 10
-Light5Radius 95
-Light5Attenuation 0.100
+Light11Type 10
+Light11Radius 20
+Light11Attenuation 0.100
 
 Light6Position -29.00 1.80 1.56 # Right Burner3 Falcas 06/13/2013
 Light6Color 0.80 0.65 0.40
-Light6Type 10
-Light6Radius 95
-Light6Attenuation 0.200
+Light12Type 10
+Light12Radius 20
+Light12Attenuation 0.200
 
 animStrobeOnTime 0.020
 animStrobeOffTime 1.000
@@ -1886,20 +1948,20 @@ animWingFlashOnTime 0.030
 animWingFlashOffTime 1.500
 numFormationLightLevels 0
 #-----------------------------------------------------
-# Spot Lights
+# Spot Lights Landing
 #-----------------------------------------------------
 SpotLight1Color 0.25 0.25 0.24 # color of the light
 SpotLight1Position 18.74 0.00 5.68 # the light's position
 SpotLight1LookAt 19.54 0.00 6.18 # position in model space at which the light should point
-SpotLight1Attenuation 0.00010 # attenuation of the light
+SpotLight1Attenuation 0.000100 # attenuation of the light
 SpotLight1InnerConeDeg 30.000 # inner cone angle in degrees
 SpotLight1OuterConeDeg 45.000 # outer cone angle in degrees
 #-----------------------------------------------------
+# Spot Lights Taxi
+#-----------------------------------------------------
+#-----------------------------------------------------
 # Additionals that are not included in FMM.
 #-----------------------------------------------------
-avionicsRadarVsMode 1
-avionicsRadarLrsMode 1
-avionicsRadarUlsMode 1
 hookTipLocation 0.00 0.00 0.00
 Has_TFR 0
 Has_OnboardTFR 0

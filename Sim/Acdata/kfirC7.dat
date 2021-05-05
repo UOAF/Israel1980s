@@ -832,7 +832,7 @@ animExhNozABMax 15.0
 animExhNozRate 7.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -2.5
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -1133,6 +1133,9 @@ avionicsASIU 0
 avionicsLongUncageTogglesSTRF 1
 avionicsTTDBlanking 0
 avionicsBackupTacanOnMFD 1
+avionicsRadarVsMode 1
+avionicsRadarLrsMode 1
+avionicsRadarUlsMode 1
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
@@ -1501,9 +1504,6 @@ SpotLight1OuterConeDeg 25.000 # outer cone angle in degrees
 #-----------------------------------------------------
 # Additionals that are not included in FMM.
 #-----------------------------------------------------
-avionicsRadarVsMode 1
-avionicsRadarLrsMode 1
-avionicsRadarUlsMode 1
 hookTipLocation 0.00 0.00 0.00
 #
 # End of Additional
