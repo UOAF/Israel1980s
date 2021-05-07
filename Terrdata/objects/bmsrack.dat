@@ -3639,6 +3639,7 @@ definegroup MiG21MFBis-innerL
 		pylonct 2803
 			addrack apu-13
 			addrack apu-60
+			addrack aim-with-rail
 	addpylon
 		pylonsmsname AG
 		pylonct 2803
@@ -3652,6 +3653,7 @@ definegroup MiG21MFBis-innerR
 		pylonct 2803
 			addrack apu-13
 			addrack apu-60
+			addrack aim-with-rail
 	addpylon
 		pylonsmsname AG
 		pylonct 2803
@@ -3670,6 +3672,7 @@ definegroup MiG21MFBis-outerL
 			addrack apu-13
 			addrack apu-60
 			addrack apu-60-2L
+			addrack aim-with-rail
 	addpylon
 		pylonsmsname AG
 		pylonct 2803
@@ -3685,6 +3688,7 @@ definegroup MiG21MFBis-outerR
 			addrack apu-13
 			addrack apu-60
 			addrack apu-60-2R
+			addrack aim-with-rail
 	addpylon
 		pylonsmsname AG
 		pylonct 2803
