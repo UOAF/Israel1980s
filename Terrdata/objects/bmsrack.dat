@@ -809,7 +809,7 @@ definerack f16-aim7
 	rackjettmodes NONE
 	rackct 0
 	rackstations 1
-	addwid 167
+	addwid 166 167
 
 definerack f16-acmi
 	rackct 0
