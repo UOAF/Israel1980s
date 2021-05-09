@@ -3288,11 +3288,9 @@
         <WpnIdx_0>122</WpnIdx_0>
         <WpnIdx_1>458</WpnIdx_1>
         <WpnIdx_2>114</WpnIdx_2>
-        <WpnIdx_3>175</WpnIdx_3>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
-        <WpnCount_3>1</WpnCount_3>
     </WLD>
     <WLD Num="168">
         <Name>MiG-21bis InerR</Name>
@@ -3304,7 +3302,6 @@
         <WpnIdx_5>402</WpnIdx_5>
         <WpnIdx_6>458</WpnIdx_6>
         <WpnIdx_7>371</WpnIdx_7>
-        <WpnIdx_8>175</WpnIdx_8>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
@@ -3313,7 +3310,6 @@
         <WpnCount_5>1</WpnCount_5>
         <WpnCount_6>1</WpnCount_6>
         <WpnCount_7>1</WpnCount_7>
-        <WpnCount_8>1</WpnCount_8>
     </WLD>
     <WLD Num="169">
         <Name>MiG-21bis Outer</Name>
@@ -3326,7 +3322,6 @@
         <WpnIdx_6>458</WpnIdx_6>
         <WpnIdx_7>5</WpnIdx_7>
         <WpnIdx_8>371</WpnIdx_8>
-        <WpnIdx_9>175</WpnIdx_9>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
@@ -3336,7 +3331,6 @@
         <WpnCount_6>1</WpnCount_6>
         <WpnCount_7>1</WpnCount_7>
         <WpnCount_8>1</WpnCount_8>
-        <WpnCount_9>1</WpnCount_9>
     </WLD>
     <WLD Num="170">
         <Name>MiG-29A 2/5</Name>
@@ -11396,7 +11390,6 @@
         <WpnIdx_5>402</WpnIdx_5>
         <WpnIdx_6>458</WpnIdx_6>
         <WpnIdx_7>371</WpnIdx_7>
-        <WpnIdx_8>175</WpnIdx_8>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
@@ -11405,18 +11398,15 @@
         <WpnCount_5>1</WpnCount_5>
         <WpnCount_6>1</WpnCount_6>
         <WpnCount_7>1</WpnCount_7>
-        <WpnCount_8>1</WpnCount_8>
     </WLD>
     <WLD Num="557">
         <Name>MiG-21F Left</Name>
         <WpnIdx_0>122</WpnIdx_0>
         <WpnIdx_1>458</WpnIdx_1>
         <WpnIdx_2>114</WpnIdx_2>
-        <WpnIdx_3>175</WpnIdx_3>
         <WpnCount_0>1</WpnCount_0>
         <WpnCount_1>1</WpnCount_1>
         <WpnCount_2>1</WpnCount_2>
-        <WpnCount_3>1</WpnCount_3>
     </WLD>
     <WLD Num="558">
         <Name>F-4 USAF (1,9)</Name>
