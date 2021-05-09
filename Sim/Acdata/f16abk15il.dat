@@ -1208,7 +1208,7 @@ animExhNozABMax 15.0
 animExhNozRate 50.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -1505,9 +1505,9 @@ avionicsZenithNadirOnHud 0
 avionicsGhostHorizonAwareness 0
 avionicsEPAFRadarCues 0
 avionicsRadarJamChevrons 0
-avionicsRadarVsMode 1
-avionicsRadarLrsMode 1
-avionicsRadarUlsMode 1
+avionicsRadarVsMode 0
+avionicsRadarLrsMode 0
+avionicsRadarUlsMode 0
 avionicsColorMfd 0
 avionicsGrayScaleGM 1
 avionicsActivateMFDBoot 2

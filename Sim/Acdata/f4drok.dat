@@ -1263,7 +1263,7 @@ animExhNozABMax 15.0
 animExhNozRate 5.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
@@ -1547,35 +1547,35 @@ avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
 avionicsEHSI 0
-avionicsHudLadderTapeType 0
-avionicsHudVAHTapeType 0
-avionicsHudDGFTDefaultMode 0
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 3
 avionicsDGFTMasterModeLabelOnHud 0
-avionicsDGFTAttitudeAwareness 1
+avionicsDGFTAttitudeAwareness 0
 avionicsMLUM2TAOnHUD 1
 avionicsHudAATargetAspectAngle 1
 avionicsHudOlderMasterModeWindow 0
 avionicsNewAMRAAMdlz 1
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
 avionicsZenithNadirOnHud 1
 avionicsGhostHorizonAwareness 1
-avionicsEPAFRadarCues 1
-avionicsRadarJamChevrons 1
+avionicsEPAFRadarCues 0
+avionicsRadarJamChevrons 0
 avionicsRadarVsMode 1
 avionicsRadarLrsMode 1
 avionicsRadarUlsMode 1
-avionicsColorMfd 1
+avionicsColorMfd 0
 avionicsGrayScaleGM 1
-avionicsActivateMFDBoot 0
-avionicsMMCUpgrade 1
-avionicsEGIUpgrade 1
+avionicsActivateMFDBoot 2
+avionicsMMCUpgrade 0
+avionicsEGIUpgrade 0
 avionicsDigitalFLCS 1
 avionicsRWRType 0
 avionicsGunEEGSMode 0
-avionicsGunSSLCMode 0
+avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
 avionicsGunSNAPMode 0
 avionicsEngineType 0
@@ -1591,8 +1591,8 @@ avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 31
-avionicsIFFInterrogatorSettings 15
+avionicsIFFTransponderSettings 7
+avionicsIFFInterrogatorSettings 3
 avionicsIFFBackupM1M3 1
 #-----------------------------------------------------
 # Autopilot
@@ -1920,39 +1920,39 @@ TopGunCamera4 7  +43.00   +0.00   -9.00  -16.00 +180.00   +0.00  47.0 #Placed ne
 #-----------------------------------------------------
 Light1Position -21.50 -1.80 1.56 # Left Burner1 Falcas 06/13/2013
 Light1Color 0.80 0.65 0.40
-Light1Type 10
-Light1Radius 95
-Light1Attenuation 0.060
+Light10Type 10
+Light10Radius 20
+Light10Attenuation 0.010
 
 Light2Position -24.00 -1.80 1.56 # Left Burner2 Falcas 06/13/2013
 Light2Color 0.80 0.65 0.40
-Light2Type 10
-Light2Radius 95
-Light2Attenuation 0.100
+Light11Type 10
+Light11Radius 20
+Light11Attenuation 0.100
 
 Light3Position -29.00 -1.80 1.56 # Left Burner3 Falcas 06/13/2013
 Light3Color 0.80 0.65 0.40
-Light3Type 10
-Light3Radius 95
-Light3Attenuation 0.200
+Light12Type 10
+Light12Radius 20
+Light12Attenuation 0.200
 
 Light4Position -21.50 1.80 1.56 # Right Burner1 Falcas 06/13/2013
 Light4Color 0.80 0.65 0.40
-Light4Type 10
-Light4Radius 95
-Light4Attenuation 0.060
+Light10Type 10
+Light10Radius 20
+Light10Attenuation 0.010
 
 Light5Position -24.00 1.80 1.56 # Right Burner2 Falcas 06/13/2013
 Light5Color 0.80 0.65 0.40
-Light5Type 10
-Light5Radius 95
-Light5Attenuation 0.100
+Light11Type 10
+Light11Radius 20
+Light11Attenuation 0.100
 
 Light6Position -29.00 1.80 1.56 # Right Burner3 Falcas 06/13/2013
 Light6Color 0.80 0.65 0.40
-Light6Type 10
-Light6Radius 95
-Light6Attenuation 0.200
+Light12Type 10
+Light12Radius 20
+Light12Attenuation 0.200
 
 animStrobeOnTime 0.020
 animStrobeOffTime 1.000

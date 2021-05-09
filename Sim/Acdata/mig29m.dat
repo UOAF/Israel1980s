@@ -599,7 +599,7 @@ animExhNozABMax 0.0
 animExhNozRate 10.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
