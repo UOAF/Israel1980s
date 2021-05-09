@@ -1304,7 +1304,7 @@ animExhNozABMax 15.0
 animExhNozRate 50.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -1599,8 +1599,8 @@ avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
 avionicsZenithNadirOnHud 1 #Modified Uri-ba - 2014-11-29
 avionicsGhostHorizonAwareness 1 #Modified Uri-ba - 2014-11-29
-avionicsEPAFRadarCues 0 #Modified Uri-ba - 2014-11-29
-avionicsRadarJamChevrons 0 #Modified Uri-ba - 2014-11-29
+avionicsEPAFRadarCues 0
+avionicsRadarJamChevrons 0
 avionicsRadarVsMode 1
 avionicsRadarLrsMode 1
 avionicsRadarUlsMode 1
@@ -1629,7 +1629,7 @@ avionicsBackupTacanOnMFD 0
 # IFF
 #-----------------------------------------------------
 avionicsIFFTransponderSettings 23
-avionicsIFFInterrogatorSettings 3
+avionicsIFFInterrogatorSettings 0
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------
 # Autopilot

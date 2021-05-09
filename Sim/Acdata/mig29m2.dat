@@ -1,4 +1,4 @@
-# Title: MiG-29G Fulcrum-B
+# Title: MiG-29M2 EAF Fulcrum  (Based on MIG-29M)
 # Author: BMS
 # Revision: Flight Model Manager ver:1.7.4.63 Date: 1/19/2020 10:09:47 PM
 #-----------------------------------------------------
@@ -8,8 +8,9 @@
 #Modif Topolo / 2006.257 - Aero & Thrust rework
 #Modif Falcas: TGP-HTS / HasOldLandingLight
 #Modif Falcas: 01/11/2011
-#Modif Hayab: New 3d model 22/06/2014
 #Modif Topolo: Flat limitor fix 2014/09/03
+#New 3d model , Hayab 2014-11-11
+#Small avionics adjustment - vAiCon 27/3/21
 #
 #-----------------------------------------------------
 # SIMULATION INPUT PANEL
@@ -43,7 +44,7 @@
 #-----------------------------------------------------
 # Physical data
 #-----------------------------------------------------
-            +30.900000  # CG Loc
+            +32.000000  # CG Loc
             +50.000000  # Length
             +37.500000  # Span
              +1.500000  # Fus Radius
@@ -663,7 +664,7 @@ trimDeadZonePercentage 0.05
 hasFlapperons 0
 flapGearRelative 0
 maxFlapVcas 370
-flapVcasRange 141
+flapVcasRange 130
 flap2Nozzle 0
 #-----------------------------------------------------
 # Lef (Slats)
@@ -682,6 +683,7 @@ hasTef 1
 tefMaxAngle 40.0
 CLtefFactor 0.62 #Falcas 07/03/2013
 CDtefFactor 0.45 #Falcas 07/03/2013
+AFMCDtefFactor 0.05
 tefNStages 4
 tefTakeoff 10.0
 tefRate 10
@@ -858,19 +860,19 @@ FuelLeakPositAftTank 0.0 0.0 0.0
 #-----------------------------------------------------
 # Air-Air Refuel
 #-----------------------------------------------------
-receiverRefuelServiceType 0 #Added Falcas 01/21/2014
-refuelLocation 0.00 0.00 0.00
+receiverRefuelServiceType 2 #Added Falcas 01/21/2014
+refuelLocation 23.09 -3.29 -2.40
 refuelSpeed 310
 refuelAltitude 22500
 refuelRate 50
-AIBoomDistance 10
-decelDistance 5500
-desiredClosureFactor 0.48
+AIBoomDistance 50
+decelDistance 1000
+desiredClosureFactor 0.35
 longLeg 60
 shortLeg 25
 IL78Factor 30.0
-animRefuelAngle 0.0
-animRefuelRate 0.0
+animRefuelAngle 100.0
+animRefuelRate 20.0
 #-----------------------------------------------------
 # Avionics
 #-----------------------------------------------------
@@ -878,38 +880,38 @@ avionicsCanUseSpice 0
 avionicsJDAMAvionicsType 0
 avionicsDiffICPStyle 0
 avionicsMLUPFL 1
-avionicsDatalink 2
+avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
 avionicsEHSI 0
-avionicsHudLadderTapeType 0
-avionicsHudVAHTapeType 0
-avionicsHudDGFTDefaultMode 0
+avionicsHudLadderTapeType 2
+avionicsHudVAHTapeType 2
+avionicsHudDGFTDefaultMode 3
 avionicsDGFTMasterModeLabelOnHud 0
-avionicsDGFTAttitudeAwareness 1
+avionicsDGFTAttitudeAwareness 0
 avionicsMLUM2TAOnHUD 1
 avionicsHudAATargetAspectAngle 1
 avionicsHudOlderMasterModeWindow 0
 avionicsNewAMRAAMdlz 1
-avionicsBullseyeOnHud 1
+avionicsBullseyeOnHud 0
 avionicsDEDHudRepeaterBlanksOnDGFT 1
 avionicsHudNavDeclutterEnabled 1
 avionicsHudNavSpdAltTapesLag 0
 avionicsZenithNadirOnHud 1
-avionicsGhostHorizonAwareness 1
-avionicsEPAFRadarCues 1
-avionicsRadarJamChevrons 1
+avionicsGhostHorizonAwareness 0
+avionicsEPAFRadarCues 0
+avionicsRadarJamChevrons 0
 avionicsRadarVsMode 1
 avionicsRadarLrsMode 1
 avionicsRadarUlsMode 1
-avionicsColorMfd 1
+avionicsColorMfd 0
 avionicsGrayScaleGM 1
-avionicsActivateMFDBoot 0
-avionicsMMCUpgrade 1
-avionicsEGIUpgrade 1
+avionicsActivateMFDBoot 2
+avionicsMMCUpgrade 0
+avionicsEGIUpgrade 0
 avionicsDigitalFLCS 1
 avionicsRWRType 0
-avionicsGunEEGSMode 1
+avionicsGunEEGSMode 0
 avionicsGunSSLCMode 1
 avionicsGunLCOSMode 1
 avionicsGunSNAPMode 1
@@ -926,8 +928,8 @@ avionicsBackupTacanOnMFD 0
 #-----------------------------------------------------
 # IFF
 #-----------------------------------------------------
-avionicsIFFTransponderSettings 28
-avionicsIFFInterrogatorSettings 28
+avionicsIFFTransponderSettings 7
+avionicsIFFInterrogatorSettings 3
 avionicsIFFBackupM1M3 0
 #-----------------------------------------------------
 # Autopilot
@@ -941,34 +943,34 @@ wingTipLocation -10.50 18.18 0.04
 #-----------------------------------------------------
 # Counter measure
 #-----------------------------------------------------
-hasEWS 0
+hasEWS 1 #added Hayab L203 Gardenyia-1 internal ECM
 ecmStrength 0.000
-nChaff 30
-nFlare 30
+nChaff 15
+nFlare 15
 FlareDispensers 1
 FlareSeq 0
-FlarePos1 -0.27 5.45 -1.50
-FlareVec1 0.00 10.00 -54.00
-FlareCount1 30
+FlarePos1 -11.40 -4.80 -0.27
+FlareVec1 0.00 -3.00 87.00
+FlareCount1 15
 ChaffDispensers 1
 ChaffSeq 0
-ChaffPos1 -0.27 -5.45 -1.50
-ChaffVec1 0.00 -11.00 -75.00
-ChaffCount1 30
+ChaffPos1 -11.40 4.85 -0.27
+ChaffVec1 0.00 3.00 101.00
+ChaffCount1 15
 #-----------------------------------------------------
 # Hardpoint data
 #-----------------------------------------------------
 numPODHardpoints 0
 hardpoint1Grp 0
-hardpoint2Grp MiG29-wing-ext
-hardpoint3Grp MiG29-wing-mid
-hardpoint4Grp MiG29-wing-left
-hardpoint5Grp MiG29-center
-hardpoint6Grp MiG29-wing-right
-hardpoint7Grp MiG29-wing-mid
-hardpoint8Grp MiG29-wing-ext
-hardpoint9Grp 0
-hardpoint10Grp 0
+hardpoint2Grp MiG29M-wing-out
+hardpoint3Grp MiG29M-wing-ext
+hardpoint4Grp MiG29M-wing-mid-left
+hardpoint5Grp MiG29M-wing-left
+hardpoint6Grp MiG29M-center
+hardpoint7Grp MiG29M-wing-right
+hardpoint8Grp MiG29M-wing-mid-right
+hardpoint9Grp MiG29M-wing-ext
+hardpoint10Grp MiG29M-wing-out
 hardpoint11Grp 0
 hardpoint12Grp 0
 hardpoint13Grp 0
@@ -1111,11 +1113,11 @@ sndAero4SpeedPitchChart 1 0.0 1.00
 # AI behaviour
 #-----------------------------------------------------
 rollLimitForAiInWP 60
-followRate 60
+followRate 20
 BingoReturnDistance 50
-jokerFactor 3.5
-bingoFactor 3.5
-fumesFactor 17.0
+jokerFactor 4.1
+bingoFactor 4.1
+fumesFactor 20.4
 largePark 0
 minTakeoffRunwayLengthClean -1 #Added Falcas
 minTakeoffRunwayLengthMTOW -1 #Added Falcas
@@ -1141,12 +1143,12 @@ IsLongBurnThreat 1
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 0 0 50 50 50 20 0 0 0 20 20 20 0 20 20 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100
+misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 100 0 0 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------
 #Switch: 0 - No TFR, 1 - Internal TFR, 2 - External
-TFR_Type 0
+TFR_Type 1
 PID_K 0.6
 PID_KI 0.0
 PID_KD 0.3
@@ -1171,7 +1173,7 @@ TFR_GammaCorrMult 1.5 #10-12-2014
 #-----------------------------------------------------
 # TGP
 #-----------------------------------------------------
-#Switch: 0 - No TGP, 1 - Internal TGP, 2 - External TGP
+#Switch: 1 - No TGP, 1 - Internal TGP, 2 - External TGP		  #Added vAiCon 27/3/21
 TGP_Type 2
 TGPCameraXOff 0.00
 TGPCameraYOff 0.00
@@ -1225,16 +1227,16 @@ A2GGunRocketMaxAlt 5500
 A2GCameraAlt 12000
 A2GCameraMinAlt 10000
 A2GCameraMaxAlt 14000
-A2GBombMissileAlt 13000
+A2GBombMissileAlt 20000
 A2GBombMissileMinAlt 15000
-A2GBombMissileMaxAlt 18000
+A2GBombMissileMaxAlt 25000
 A2GIAMBombAlt 20000
 A2GIAMBombMinAlt 15000
 A2GIAMBombMaxAlt 25000
 maxRippleCount 99
 maxLoadoutDrag 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 maxLoadoutWeight 41 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
-minNumFuelTanks 41 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1 1 1 0 1
+minNumFuelTanks 41 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 1 0 1 1 1 1 1 0 1
 extTanksLoadOrder 0 #Added Falcas 02/20/1014
 loadRadarGuidedFirst 1 #Added Falcas
 #-----------------------------------------------------
@@ -1251,7 +1253,7 @@ rktPopupAlt 0
 #-----------------------------------------------------
 # ARMs
 #-----------------------------------------------------
-maxNumARMs 0
+maxNumARMs 2
 #-----------------------------------------------------
 # Camera View TopGun
 #-----------------------------------------------------
@@ -1332,7 +1334,7 @@ animStrobeOnTime 0.060
 animStrobeOffTime 1.020
 animWingFlashOnTime 0.120
 animWingFlashOffTime 1.530
-numFormationLightLevels 0
+numFormationLightLevels 6
 #-----------------------------------------------------
 # Spot Lights Landing
 #-----------------------------------------------------

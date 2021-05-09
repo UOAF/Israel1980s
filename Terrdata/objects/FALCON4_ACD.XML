@@ -2865,4 +2865,19 @@
         <SensorIdx_3>-1</SensorIdx_3>
         <SensorIdx_4>-1</SensorIdx_4>
     </ACD>
+    <ACD Num="191">
+        <CombatClass>4</CombatClass>
+        <AirframeDatIdx>185</AirframeDatIdx>
+        <IrSignatureIdx>0</IrSignatureIdx>
+        <SensorType_0>3</SensorType_0>
+        <SensorType_1>1</SensorType_1>
+        <SensorType_2>2</SensorType_2>
+        <SensorType_3>0</SensorType_3>
+        <SensorType_4>-1</SensorType_4>
+        <SensorIdx_0>9</SensorIdx_0>
+        <SensorIdx_1>65</SensorIdx_1>
+        <SensorIdx_2>12</SensorIdx_2>
+        <SensorIdx_3>4</SensorIdx_3>
+        <SensorIdx_4>0</SensorIdx_4>
+    </ACD>
 </ACDRecords>

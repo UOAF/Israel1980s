@@ -5055,17 +5055,17 @@
         <WpnDatIdx>5</WpnDatIdx>
     </SWD>
     <SWD Num="361">
-        <Flags>1024</Flags>
-        <Drag>0.010</Drag>
-        <Weight>150.000</Weight>
-        <Area>0.200</Area>
+        <Flags>1</Flags>
+        <Drag>0.165</Drag>
+        <Weight>300.000</Weight>
+        <Area>1.000</Area>
         <EjectX>0.000</EjectX>
         <EjectY>0.000</EjectY>
         <EjectZ>0.000</EjectZ>
-        <WpnName>ATM120B</WpnName>
-        <WpnClass>0</WpnClass>
-        <Domain>1</Domain>
-        <WpnType>2</WpnType>
+        <WpnName>ALTARIQ</WpnName>
+        <WpnClass>2</WpnClass>
+        <Domain>2</Domain>
+        <WpnType>16</WpnType>
         <WpnDatIdx>1</WpnDatIdx>
     </SWD>
     <SWD Num="362">
@@ -5165,5 +5165,19 @@
         <Domain>0</Domain>
         <WpnType>0</WpnType>
         <WpnDatIdx>0</WpnDatIdx>
+    </SWD>
+    <SWD Num="369">
+        <Flags>1024</Flags>
+        <Drag>0.010</Drag>
+        <Weight>150.000</Weight>
+        <Area>0.200</Area>
+        <EjectX>0.000</EjectX>
+        <EjectY>0.000</EjectY>
+        <EjectZ>0.000</EjectZ>
+        <WpnName>ATM120B</WpnName>
+        <WpnClass>0</WpnClass>
+        <Domain>1</Domain>
+        <WpnType>2</WpnType>
+        <WpnDatIdx>1</WpnDatIdx>
     </SWD>
 </SWDRecords>
