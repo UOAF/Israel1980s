@@ -18977,6 +18977,7 @@
         <ElementCount_11>2</ElementCount_11>
         <ElementCount_12>2</ElementCount_12>
         <ElementCount_13>2</ElementCount_13>
+        <ElementCount_14>1</ElementCount_14>
         <VehicleCtIdx_0>1031</VehicleCtIdx_0>
         <VehicleCtIdx_1>807</VehicleCtIdx_1>
         <VehicleCtIdx_2>1031</VehicleCtIdx_2>
@@ -18991,6 +18992,7 @@
         <VehicleCtIdx_11>1031</VehicleCtIdx_11>
         <VehicleCtIdx_12>807</VehicleCtIdx_12>
         <VehicleCtIdx_13>1031</VehicleCtIdx_13>
+        <VehicleCtIdx_14>679</VehicleCtIdx_14>
         <Flags>15</Flags>
         <Name>Infantry</Name>
         <MoveType>1</MoveType>
