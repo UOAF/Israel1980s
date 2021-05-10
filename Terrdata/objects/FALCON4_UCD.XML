@@ -7331,7 +7331,6 @@
         <ElementCount_12>2</ElementCount_12>
         <ElementCount_13>2</ElementCount_13>
         <ElementCount_14>2</ElementCount_14>
-        <ElementCount_15>2</ElementCount_15>
         <VehicleCtIdx_0>539</VehicleCtIdx_0>
         <VehicleCtIdx_1>741</VehicleCtIdx_1>
         <VehicleCtIdx_2>539</VehicleCtIdx_2>
@@ -7342,12 +7341,11 @@
         <VehicleCtIdx_7>707</VehicleCtIdx_7>
         <VehicleCtIdx_8>539</VehicleCtIdx_8>
         <VehicleCtIdx_9>539</VehicleCtIdx_9>
-        <VehicleCtIdx_10>557</VehicleCtIdx_10>
-        <VehicleCtIdx_11>7</VehicleCtIdx_11>
+        <VehicleCtIdx_10>7</VehicleCtIdx_10>
+        <VehicleCtIdx_11>539</VehicleCtIdx_11>
         <VehicleCtIdx_12>539</VehicleCtIdx_12>
-        <VehicleCtIdx_13>539</VehicleCtIdx_13>
-        <VehicleCtIdx_14>7</VehicleCtIdx_14>
-        <VehicleCtIdx_15>753</VehicleCtIdx_15>
+        <VehicleCtIdx_13>7</VehicleCtIdx_13>
+        <VehicleCtIdx_14>753</VehicleCtIdx_14>
         <ElementFlags_1>48</ElementFlags_1>
         <ElementFlags_5>1</ElementFlags_5>
         <Flags>12</Flags>
