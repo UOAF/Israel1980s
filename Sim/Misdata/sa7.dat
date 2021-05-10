@@ -311,7 +311,7 @@ AspectSelectorSize 50
 engLocation 0.00 0.00 0.00
 EngineSound 266
 hasGasDynamicManeuvering 0
-mistrail 16
+mistrail 2
 contrail 0
 misengGlowBSP 0
 #-----------------------------------------------------
