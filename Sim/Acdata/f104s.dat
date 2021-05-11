@@ -1631,7 +1631,7 @@ avionicsDteIdmLabel 0
 avionicsEHSI 0
 avionicsHudLadderTapeType 2
 avionicsHudVAHTapeType 2
-avionicsHudDGFTDefaultMode 3
+avionicsHudDGFTDefaultMode 4
 avionicsDGFTMasterModeLabelOnHud 0
 avionicsDGFTAttitudeAwareness 1
 avionicsMLUM2TAOnHUD 1
