@@ -308,7 +308,7 @@ AspectSelectorSize 50
 #-----------------------------------------------------
 # Engine
 #-----------------------------------------------------
-engLocation 0.00 0.00 0.00
+engLocation 11.0 0.00 00.00
 EngineSound 266
 hasGasDynamicManeuvering 0
 mistrail 2
