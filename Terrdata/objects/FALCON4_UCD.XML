@@ -4518,6 +4518,7 @@
         <ElementCount_10>3</ElementCount_10>
         <ElementCount_11>1</ElementCount_11>
         <ElementCount_12>1</ElementCount_12>
+        <ElementCount_13>1</ElementCount_13>
         <VehicleCtIdx_0>793</VehicleCtIdx_0>
         <VehicleCtIdx_1>793</VehicleCtIdx_1>
         <VehicleCtIdx_2>793</VehicleCtIdx_2>
@@ -4531,6 +4532,7 @@
         <VehicleCtIdx_10>707</VehicleCtIdx_10>
         <VehicleCtIdx_11>793</VehicleCtIdx_11>
         <VehicleCtIdx_12>793</VehicleCtIdx_12>
+        <VehicleCtIdx_13>679</VehicleCtIdx_13>
         <Flags>12</Flags>
         <Name>Rocket</Name>
         <MoveType>2</MoveType>
