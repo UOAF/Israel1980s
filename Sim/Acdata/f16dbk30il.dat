@@ -1644,8 +1644,8 @@ wingTipLocation -6.90 15.40 -0.40
 #-----------------------------------------------------
 hasEWS 1
 ecmStrength 0.000
-nChaff 120
-nFlare 60
+nChaff 90
+nFlare 45
 FlareDispensers 4
 FlareSeq 0
 FlarePos1 -7.60 2.50 0.40
