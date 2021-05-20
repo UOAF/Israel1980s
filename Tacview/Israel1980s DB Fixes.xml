@@ -45,6 +45,42 @@
 		</Properties>
 	</DefaultProperties>
 
+	<DefaultProperties Id="FixedWing.J-6" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>J-6B</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>J-6</ShortName>
+			<LongName>J-6 (MiG-19)</LongName>
+			<FullName>J-6 (MiG-19) Farmer</FullName>
+			<Shape>FixedWing.MiG-19.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.J-7" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>J-7G</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>J-7</ShortName>
+			<LongName>J-7 (Mig-21)</LongName>
+			<FullName>J-7 (Mig-21) Fishcan</FullName>
+			<Shape>FixedWing.MiG-21F-13.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.MiG-17" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>MiG-17PFU</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>MiG-17</ShortName>
+			<LongName>MiG-17PM/PFU Fresco E</LongName>
+			<FullName>Mikoyan-Gurevich MiG-17PM/PFU Fresco E</FullName>
+			<Shape>FixedWing.MiG-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
 	<DefaultProperties Id="FixedWing.Su-20" Base="FixedWing.Fighter.Jet">
 		<Criteria>
 			<Name>Su-20</Name>
@@ -55,7 +91,7 @@
 			<ShortName>Su-20</ShortName>
 			<LongName>Su-20 Fitter</LongName>
 			<FullName>Sukhoi Su-20 Fitter</FullName>
-			<Shape>FixedWing.Su-17M.obj</Shape>
+			<Shape>FixedWing.Su-17M.obj</Shape>		<!-- Fixed Tacview Model -->
 		</Properties>
 	</DefaultProperties>
 
@@ -69,10 +105,24 @@
 			<ShortName>Su-22</ShortName>
 			<LongName>Su-22 Fitter</LongName>
 			<FullName>Sukhoi Su-22 Fitter</FullName>
-			<Shape>FixedWing.Su-17M.obj</Shape>
+			<Shape>FixedWing.Su-17M.obj</Shape>		<!-- Fixed Tacview Model -->
 		</Properties>
 	</DefaultProperties>
-	
+
+	<!-- AG MISSILES -->
+
+	<DefaultProperties Id="Missile.AG.GBU-15" Base="Missile.AG.Radio">
+		<Criteria>
+			<Name>GBU-15(v)32/B /HE</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>GBU-15</ShortName>
+			<LongName>GBU-15(v)32/B /HE</LongName>
+			<FullName>GBU-15(v)32/B /HE</FullName>
+			<Shape>Core.Bomb.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
 	<!-- SAM RADARS -->
 
 	<DefaultProperties Id="AntiAircraft.SAM.MIM-23.AN/MPQ-46" Base="AntiAircraft.SAM.TrackingRadar">
