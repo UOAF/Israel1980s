@@ -25619,10 +25619,12 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>50</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
-        <RoleScore_4>20</RoleScore_4>
-        <RoleScore_5>100</RoleScore_5>
+        <RoleScore_4>35</RoleScore_4>
+        <RoleScore_7>5</RoleScore_7>
+        <RoleScore_9>5</RoleScore_9>
+        <RoleScore_10>50</RoleScore_10>
         <MainRole>0</MainRole>
         <Hit_NoMove>70</Hit_NoMove>
         <Hit_Foot>50</Hit_Foot>
@@ -25700,10 +25702,12 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>50</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
-        <RoleScore_4>20</RoleScore_4>
-        <RoleScore_5>100</RoleScore_5>
+        <RoleScore_4>35</RoleScore_4>
+        <RoleScore_7>5</RoleScore_7>
+        <RoleScore_9>5</RoleScore_9>
+        <RoleScore_10>50</RoleScore_10>
         <MainRole>0</MainRole>
         <Hit_NoMove>70</Hit_NoMove>
         <Hit_Foot>50</Hit_Foot>
@@ -37099,9 +37103,10 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>50</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
-        <RoleScore_4>80</RoleScore_4>
+        <RoleScore_4>35</RoleScore_4>
+        <RoleScore_7>5</RoleScore_7>
         <RoleScore_9>5</RoleScore_9>
         <RoleScore_10>50</RoleScore_10>
         <MainRole>1</MainRole>
@@ -37192,9 +37197,10 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>50</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
-        <RoleScore_4>80</RoleScore_4>
+        <RoleScore_4>35</RoleScore_4>
+        <RoleScore_7>5</RoleScore_7>
         <RoleScore_9>5</RoleScore_9>
         <RoleScore_10>50</RoleScore_10>
         <MainRole>1</MainRole>
@@ -37274,9 +37280,10 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>50</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
         <RoleScore_4>80</RoleScore_4>
+        <RoleScore_7>20</RoleScore_7>
         <RoleScore_9>5</RoleScore_9>
         <RoleScore_10>50</RoleScore_10>
         <MainRole>1</MainRole>
@@ -37363,9 +37370,10 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>50</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
         <RoleScore_4>80</RoleScore_4>
+        <RoleScore_7>20</RoleScore_7>
         <RoleScore_9>5</RoleScore_9>
         <RoleScore_10>50</RoleScore_10>
         <MainRole>1</MainRole>
@@ -49445,6 +49453,7 @@
         <RoleScore_1>80</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
         <RoleScore_4>80</RoleScore_4>
+        <RoleScore_7>5</RoleScore_7>
         <RoleScore_9>5</RoleScore_9>
         <RoleScore_10>50</RoleScore_10>
         <MainRole>0</MainRole>
@@ -49524,9 +49533,10 @@
         <FuelRate>100</FuelRate>
         <PtDataIdx>0</PtDataIdx>
         <RoleScore_0>10</RoleScore_0>
-        <RoleScore_1>80</RoleScore_1>
+        <RoleScore_1>40</RoleScore_1>
         <RoleScore_3>70</RoleScore_3>
-        <RoleScore_4>80</RoleScore_4>
+        <RoleScore_4>50</RoleScore_4>
+        <RoleScore_7>5</RoleScore_7>
         <RoleScore_9>5</RoleScore_9>
         <RoleScore_10>50</RoleScore_10>
         <MainRole>1</MainRole>
