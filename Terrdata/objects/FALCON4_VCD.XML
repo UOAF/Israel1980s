@@ -2833,19 +2833,19 @@
     <VCD Num="38">
         <CtIdx>161</CtIdx>
         <HitPoints>50</HitPoints>
-        <Flags>1073743872</Flags>
-        <Name>MiG-23ML</Name>
+        <Flags>2048</Flags>
+        <Name>MiG-23MF</Name>
         <NCTR>MG23</NCTR>
-        <RadarCs>1.148698</RadarCs>
-        <MaxWeight>41556</MaxWeight>
-        <EmptyWeight>21253</EmptyWeight>
-        <FuelWeight>7293</FuelWeight>
-        <FuelRate>97</FuelRate>
+        <RadarCs>1.795900</RadarCs>
+        <MaxWeight>39250</MaxWeight>
+        <EmptyWeight>22485</EmptyWeight>
+        <FuelWeight>10300</FuelWeight>
+        <FuelRate>79</FuelRate>
         <EngineSound>246</EngineSound>
         <MaxAlt>350</MaxAlt>
         <MinAlt>10</MinAlt>
         <CruiseAlt>250</CruiseAlt>
-        <MaxSpeed>1100</MaxSpeed>
+        <MaxSpeed>1350</MaxSpeed>
         <RadarIdx>6</RadarIdx>
         <NumberOfCrew>1</NumberOfCrew>
         <RackFlags>62</RackFlags>
@@ -2890,7 +2890,7 @@
         <WpnOrHpIdx_3>349</WpnOrHpIdx_3>
         <WpnOrHpIdx_4>56</WpnOrHpIdx_4>
         <WpnOrHpIdx_5>55</WpnOrHpIdx_5>
-        <WpnCount_0>20</WpnCount_0>
+        <WpnCount_0>26</WpnCount_0>
         <WpnCount_1>255</WpnCount_1>
         <WpnCount_2>255</WpnCount_2>
         <WpnCount_3>255</WpnCount_3>
