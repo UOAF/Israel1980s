@@ -1,4 +1,4 @@
-# Title: AA-7 Apex-A (R-24R)
+# Title: AA-7 Apex-A (R-23R)
 # Author: BMS
 # Revision: Missile Data Manager ver:1.2.3.0 Date: 5/21/2016 7:17:16 PM
 #-----------------------------------------------------
@@ -6,18 +6,19 @@
 #-----------------------------------------------------
 #L3C : complete overhaul (28/01/2015)
 #L3C : Drag adjustment (15-09-08)
+#NHawk FM Updates
 #-----------------------------------------------------
 #     INPUT DATA
 #-----------------------------------------------------
 #
 # Final Time (sec)
-45.000000
+35.000000
 # Pk (0.0-1.0)
 1.000000
 # Weight of missile (lbs)
-372.90
+354.0
 # Weight of propellant (lbs)
-149.70
+135.0
 # Motor Impulse (lb-sec)
 32922.90
 # Reference Area (ft*ft)
@@ -35,7 +36,7 @@
 # Beta min (deg)
 -16.0
 # Velocity min (mach)
-0.500000
+0.400000
 # Gimbal Angle Limit (deg)
 55.0
 # Gimbl Ang Rate Lim (deg/sec)
@@ -43,7 +44,7 @@
 # Field of View (deg)
 8.0
 # Guidance Delay (sec)
-1.80
+2.20
 # Lofting Bias (Gs)
 0.80
 # Proportional nav gain
@@ -236,8 +237,8 @@
 # ENGINE THRUST (LBS)
 #-----------------------------------------------------
 #
-        +0.000000        +0.000000     +5487.200000
-     +5487.200000        +0.000000
+        +0.000000        +0.000000     +4500.000000
+     +4500.000000        +0.000000
 #
 #-----------------------------------------------------
 #     Range Data
