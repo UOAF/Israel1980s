@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<DefaultPropertiesCollection LoadingOrder="0.5">
+
+	<!--
+		This file should be saved as
+		%ProgramData%\Tacview\Data\Database\Default Properties\Israel1980s DB Fixes.xml
+	-->
+	
+	<!-- AIRCRAFT -->
+	
+	<DefaultProperties Id="FixedWing.Mirage F1" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>Mirage F1</Name>
+			<Name>Dassault Mirage F1</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Mirage F1</ShortName>
+			<LongName>Mirage F1</LongName>
+			<FullName>Dassault Mirage F1</FullName>
+			<Shape>FixedWing.Mirage F1.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	
+	<DefaultProperties Id="FixedWing.KFIR C-7" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>KFIR C-7</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>KFIR C-7</ShortName>
+			<LongName>KFIR C-7</LongName>
+			<FullName>IAI KFIR C-7</FullName>
+			<Shape>FixedWing.Mirage 2000N.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.EC-707" Base="FixedWing.Military.Transport">
+		<Criteria>
+			<Name>EC707 Oryx</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>EC-707</ShortName>
+			<LongName>EC-707 Oryx</LongName>
+			<FullName>IAF EC-707 Oryx</FullName>
+			<Shape>FixedWing.B707-300B.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.J-6" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>J-6B</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>J-6</ShortName>
+			<LongName>J-6 (MiG-19)</LongName>
+			<FullName>J-6 (MiG-19) Farmer</FullName>
+			<Shape>FixedWing.MiG-19.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.J-7" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>J-7G</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>J-7</ShortName>
+			<LongName>J-7 (Mig-21)</LongName>
+			<FullName>J-7 (Mig-21) Fishcan</FullName>
+			<Shape>FixedWing.MiG-21F-13.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.MiG-17" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>MiG-17PFU</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>MiG-17</ShortName>
+			<LongName>MiG-17PM/PFU Fresco E</LongName>
+			<FullName>Mikoyan-Gurevich MiG-17PM/PFU Fresco E</FullName>
+			<Shape>FixedWing.MiG-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.Su-20" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>Su-20</Name>
+			<Name>Su-20 Fitter</Name>
+			<Name>Sukhoi Su-20 Fitter</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Su-20</ShortName>
+			<LongName>Su-20 Fitter</LongName>
+			<FullName>Sukhoi Su-20 Fitter</FullName>
+			<Shape>FixedWing.Su-17M.obj</Shape>		<!-- Fixed Tacview Model -->
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="FixedWing.Su-22" Base="FixedWing.Fighter.Jet">
+		<Criteria>
+			<Name>Su-22</Name>
+			<Name>Su-22 Fitter</Name>
+			<Name>Sukhoi Su-22 Fitter</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Su-22</ShortName>
+			<LongName>Su-22 Fitter</LongName>
+			<FullName>Sukhoi Su-22 Fitter</FullName>
+			<Shape>FixedWing.Su-17M.obj</Shape>		<!-- Fixed Tacview Model -->
+		</Properties>
+	</DefaultProperties>
+
+	<!-- AA MISSILES -->
+
+	<DefaultProperties Id="Missile.AA.R550Mk1" Base="Missile.AA.IR">
+		<Criteria>
+			<Name>R.550 Magic</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>R.550 Magic</ShortName>
+			<LongName>Matra R.550 Magic</LongName>
+			<FullName>Matra R.550 Magic</FullName>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R530D" Base="Missile.AA.Radar">
+		<Criteria>
+			<Name>S530D</Name>			<!-- DCS World Mirage 2000C -->
+			<Name>Super 530 D</Name>
+			<Name>Super 530D</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Super 530D</ShortName>
+			<LongName>Matra Super 530D</LongName>
+			<FullName>Matra Super 530D</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.RS-2US" Base="Missile.AA">
+		<Criteria>
+			<Name>RS-2US</Name>
+			<Name>K-5MS</Name>
+			<Name>AA-1 (R-55)</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-1</ShortName>
+			<LongName>AA-1 Alkali (RS-2US)</LongName>
+			<FullName>Kaliningrad RS-2US (AA-1 Alkali)</FullName>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-3R" Base="Missile.AA.R-3S">
+		<Criteria>
+			<Name>R-3R</Name>
+			<Name>K-13R</Name>
+			<Name>AA-2D</Name>
+			<Name>AA-2B (R-3R)</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-2B</ShortName>
+			<LongName>AA-2B Atoll (R-3R)</LongName>
+			<FullName>Vympel R-3R (AA-2B Atoll)</FullName>
+			<Shape>Missile.AIM-9M.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-13M" Base="Missile.AA.R-3S">
+		<Criteria>
+			<Name>R-13M</Name>
+			<Name>K-13M</Name>
+			<Name>AA-2C</Name>
+			<Name>AA-2C (R-13M)</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-2C</ShortName>
+			<LongName>AA-2C Atoll (R-13M)</LongName>
+			<FullName>Vympel R-13M (AA-2C Atoll)</FullName>
+			<Shape>Missile.AIM-9M.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-40RD" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>AA-6A (R-40R)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-6A</ShortName>
+			<LongName>AA-6A Acrid (R-40RD)</LongName>
+			<FullName>Vympel R-40RD (AA-6A Acrid)</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-40TD" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>AA-6B (R-40T)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-6B</ShortName>
+			<LongName>AA-6B Acrid (R-40TD)</LongName>
+			<FullName>Vympel R-40TD (AA-6B Acrid)</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-24R" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>R-24R</Name>
+			<Name>P_24R</Name>		<!-- DCS World -->
+			<Name>AA-7</Name>
+			<Name>Apex</Name>
+			<Name>AA-7A (R-23R)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-7A</ShortName>
+			<LongName>AA-7A Apex (R-24R)</LongName>
+			<FullName>Vympel R-24R (AA-7A Apex)</FullName>
+			<Shape>Missile.R-60.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-24T" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>R-24T</Name>
+			<Name>P_24T</Name>		<!-- DCS World -->
+			<Name>AA-7</Name>
+			<Name>Apex</Name>
+			<Name>AA-7B (R-23T)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-7B</ShortName>
+			<LongName>AA-7B Apex (R-24T)</LongName>
+			<FullName>Vympel R-24T (AA-7B Apex)</FullName>
+			<Shape>Missile.R-60.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-60" Base="Missile.AA.IR">
+		<Criteria>
+			<Name>R-60</Name>
+			<Name>AA-8</Name>
+			<Name>AA-8 Aphid</Name>
+			<Name>AA-8 Aphid-A</Name>
+			<Name>AA-8 (R-60)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-8</ShortName>
+			<LongName>AA-8 Aphid (R-60)</LongName>
+			<FullName>Molniya R-60 (AA-8 Aphid)</FullName>
+			<Shape>Missile.R-60.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-33" Base="Missile.AA.Radar">
+		<Criteria>
+			<Name>R-33</Name>
+			<Name>AA-9</Name>
+			<Name>AA-9 Amos</Name>
+			<Name>AA-9 (R-33)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-9</ShortName>
+			<LongName>AA-9 Amos (R-33)</LongName>
+			<FullName>Vympel R-33 (AA-9 Amos)</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-27R" Base="Missile.AA.R-27">
+		<Criteria>
+			<Name>R-27R</Name>
+			<Name>AA-10A</Name>
+			<Name>AA-10 Alamo-A</Name>
+			<Name>AA-10A (R-27R)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-10A</ShortName>
+			<LongName>AA-10A Alamo-A (R-27R)</LongName>
+			<FullName>Vympel R-27R (AA-10A Alamo-A)</FullName>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-27T" Base="Missile.AA.R-27">
+		<Criteria>
+			<Name>R-27T</Name>
+			<Name>AA-10B</Name>
+			<Name>AA-10 Alamo-B</Name>
+			<Name>AA-10B (R-27T)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-10B</ShortName>
+			<LongName>AA-10B Alamo-B (R-27T)</LongName>
+			<FullName>Vympel R-27T (AA-10B Alamo-B)</FullName>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- AG MISSILES -->
+
+	<DefaultProperties Id="Missile.AG.GBU-15" Base="Missile.AG.Radio">
+		<Criteria>
+			<Name>GBU-15(v)32/B /HE</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>GBU-15</ShortName>
+			<LongName>GBU-15(v)32/B /HE</LongName>
+			<FullName>GBU-15(v)32/B /HE</FullName>
+			<Shape>Core.Bomb.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- SAM RADARS -->
+
+	<DefaultProperties Id="AntiAircraft.SAM.MIM-23.AN/MPQ-46" Base="AntiAircraft.SAM.TrackingRadar">
+		<Criteria>
+			<Name>Hawk tr</Name>		<!-- DCS World 2.2 -->
+			<Name>AN/MPQ-46 RDR</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AN/MPQ-46 TR</ShortName>
+			<LongName>MIM-23 Hawk (AN/MPQ-46 TR)</LongName>
+			<FullName>MIM-23 Hawk (AN/MPQ-46 Tracking Radar)</FullName>
+			<EngagementRange>26000</EngagementRange>
+			<Shape>AntiAircraft.SAM.SA-6.1S91.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.MIM-23.AN/MPQ-50" Base="AntiAircraft.SAM.SearchRadar">
+		<Criteria>
+			<Name>Hawk sr</Name>		<!-- DCS World 2.2 -->
+			<Name>AN/MPQ-50 RDR</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AN/MPQ-50 SR</ShortName>
+			<LongName>MIM-23 Hawk (AN/MPQ-50 SR)</LongName>
+			<FullName>MIM-23 Hawk (AN/MPQ-50 Search Radar)</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.MIM-23.AN/MPQ-55" Base="AntiAircraft.SAM.SearchRadar">
+		<Criteria>
+			<Name>AN/MPQ-55 RDR</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AN/MPQ-55 SR</ShortName>
+			<LongName>MIM-23 Hawk (AN/MPQ-55 SR)</LongName>
+			<FullName>MIM-23 Hawk (AN/MPQ-55 Search Radar)</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-2.TR" Base="AntiAircraft.SAM.TrackingRadar">
+		<Criteria>
+			<Name>SNR-75</Name>
+			<Name>Fan Song</Name>		<!-- SuperBug -->
+			<Name>Fan Song E</Name>		<!-- BMS ITO80s -->
+			<Name>Fan Song F</Name>		<!-- BMS ITO80s -->
+			<Name>SA-2 TR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Fan Song TR</ShortName>
+			<LongName>SA-2 Fan Song TR</LongName>
+			<FullName>SA-2 Guideline (SNR-75 Fan Song E Tracking Radar)</FullName>
+			<EngagementRange>33000</EngagementRange>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-2.SR" Base="AntiAircraft.SAM.SearchRadar.Truck">
+		<Criteria>
+			<Name>Spoon Rest</Name>		<!-- BMS ITO80s -->
+			<Name>SA-2 SR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Spoon Rest SR</ShortName>
+			<LongName>SA-2 Spoon Rest SR</LongName>
+			<FullName>SA-2 Guideline (S-75 P-12 Spoon Rest Search Radar)</FullName>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-3.TR" Base="AntiAircraft.SAM.TrackingRadar">
+		<Criteria>
+			<Name>snr s-125 tr</Name>
+			<Name>Low Blow</Name>		<!-- BMS ITO80s -->
+			<Name>SA-3 TR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Low Blow TR</ShortName>
+			<LongName>SA-3 Low Blow TR</LongName>
+			<FullName>SA-3 Goa (S-125 Low Blow Tracking Radar)</FullName>
+			<EngagementRange>14000</EngagementRange>
+			<Shape>AntiAircraft.SAM.SA-3.SNR-125.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.P-15" Base="AntiAircraft.Radar">
+		<Criteria>
+			<Name>Flat Face</Name>		<!-- BMS Israel -->
+		</Criteria>
+		<Properties>
+			<ShortName>Flat Face SR</ShortName>
+			<LongName>P-15 Flat Face SR</LongName>
+			<FullName>P-15 Flat Face (1RL13)</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-4.TR" Base="AntiAircraft.SAM.SearchAndTrackingRadar">
+		<Criteria>
+			<Name>1S32</Name>
+			<Name>Pat Hand</Name>
+			<Name>SA-4 TR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Pat Hand TR</ShortName>
+			<LongName>SA-4 Pat Hand TR</LongName>
+			<FullName>SA-4 Ganef (1S32 Tracking Radar)</FullName>
+			<EngagementRange>34000</EngagementRange>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-4.SR" Base="AntiAircraft.SAM.SearchAndTrackingRadar">
+		<Criteria>
+			<Name>Long Track</Name>			<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Long Track SR</ShortName>
+			<LongName>SA-4 Long Track SR</LongName>
+			<FullName>SA-4 Ganef (Long Track SR)</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-5.5N62" Base="AntiAircraft.SAM.TrackingRadar">
+		<Criteria>
+			<Name>Square Pair</Name>		<!-- BMS Israel -->
+			<Name>5N62</Name>
+			<Name>SA-5 TR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Square Pair TR</ShortName>
+			<LongName>SA-5 Square Pair TR</LongName>
+			<FullName>SA-5 Gammon (5N62 Square Pair Tracking Radar)</FullName>
+			<EngagementRange>92000</EngagementRange>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-5.P-37" Base="AntiAircraft.SAM.SearchRadar">
+		<Criteria>
+			<Name>Bar Lock B</Name>
+			<Name>Barlock-B</Name>			<!-- BMS Israel -->
+			<Name>SA-5 SR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Barlock SR</ShortName>
+			<LongName>SA-5 Barlock SR</LongName>
+			<FullName>SA-5 Gammon (P-37 Bar Lock B Search Radar)</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-5.PRV-17" Base="AntiAircraft.SAM.SearchRadar">
+		<Criteria>
+			<Name>Odd Group</Name>			<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Odd Group SR</ShortName>
+			<LongName>SA-5 Odd Group SR</LongName>
+			<FullName>SA-5 Gammon (PRV-17 Odd Group Search Radar)</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-6.1S91" Base="AntiAircraft.SAM.SearchAndTrackingRadar">
+		<Criteria>
+			<Name>Straight Flush</Name>		<!-- BMS ITO80s -->
+			<Name>1S91</Name>
+			<Name>Kub 1S91 str</Name>
+			<Name>SA-6 STR</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Straight Flush TR</ShortName>
+			<LongName>SA-6 Straight Flush TR</LongName>
+			<FullName>SA-6 Gainful (Straight Flush Tracking Radar)</FullName>
+			<EngagementRange>20000</EngagementRange>
+			<Shape>AntiAircraft.SAM.SA-6.1S91.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.DogEar" Base="AntiAircraft.Radar">
+		<Criteria>
+			<Name>Dog Ear</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Dog Ear SR</ShortName>
+			<LongName>Dog Ear Search Radar</LongName>
+			<FullName>Dog Ear Search Radar</FullName>
+			<Shape>AntiAircraft.SAM.P-15.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- SAM LAUNCHERS -->
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-2.LN" Base="AntiAircraft.SAM.Launcher.Russian">
+		<Criteria>
+			<Name>SA-2</Name>			<!-- BMS -->
+			<Name>SA-2 Launcher</Name>	<!-- SuperBug -->
+			<Name>SA-2 LN</Name>
+			<Name>S-75M</Name>
+			<Name>SA-2 (S-75)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>SA-2</ShortName>
+			<LongName>SA-2 Launcher</LongName>
+			<FullName>SA-2 Guideline (S-75 Launcher)</FullName>
+			<Shape>AntiAircraft.SAM.SA-3.5P73.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-3.5P73" Base="AntiAircraft.SAM.Launcher.Russian">
+		<Criteria>
+			<Name>SA-3</Name>		<!-- BMS -->
+			<Name>5P73</Name>
+			<Name>5p73 s-125 ln</Name>
+			<Name>SA-3 LN</Name>
+			<Name>SA-3 (S-125)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>SA-3</ShortName>
+			<LongName>SA-3 Goa (LN)</LongName>
+			<FullName>SA-3 Goa (S-125 5P73 Launcher)</FullName>
+			<Shape>AntiAircraft.SAM.SA-3.5P73.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-5.Launcher" Base="AntiAircraft.SAM.Launcher.Russian">
+		<Criteria>
+			<Name>SA-5</Name>				<!-- BMS Israel -->
+			<Name>SA-5 LN</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-5</ShortName>
+			<LongName>SA-5 (LN)</LongName>
+			<FullName>SA-5 Gammon (Launcher)</FullName>
+			<Shape>AntiAircraft.SAM.SA-3.5P73.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-8.9K33" Base="AntiAircraft.SAM.Launcher.Russian">
+		<Criteria>
+			<Name>SA-8</Name>
+			<Name>SA-8 Gecko</Name>
+			<Name>Osa 9A33</Name>		<!-- DCS World 2.2 -->
+			<Name>SA-8 (9K33)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>SA-8</ShortName>
+			<LongName>SA-8 Gecko</LongName>
+			<FullName>SA-8 Gecko (9K33 Osa)</FullName>
+			<EngagementRange>5000</EngagementRange>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.SA-9.9K31" Base="AntiAircraft.SAM.Launcher.Russian">
+		<Criteria>
+			<Name>9P31</Name>
+			<Name>Strela-1 9P31</Name>
+			<Name>SA-9 (9K31)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>SA-9</ShortName>
+			<LongName>SA-9 Gaskin</LongName>
+			<FullName>SA-9 Gaskin (9K31 Strela-1)</FullName>
+			<EngagementRange>4500</EngagementRange>
+			<Shape>AntiAircraft.SAM.SA-13.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.APC.BMP-1KSh" Base="Vehicle.Military.APC">
+		<Criteria>
+			<Name>BMP-1KSh</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>BMP-1KSh</ShortName>
+			<LongName>BMP-1KSh HQ</LongName>
+			<FullName>BMP-1KSh Command Vehicle</FullName>
+			<EngagementRange>4200</EngagementRange>
+			<Shape>Vehicle.APC.BMP-2.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.MIM-23.M192" Base="AntiAircraft.SAM.Launcher">
+		<Criteria>
+			<Name>Hawk ln</Name>		<!-- DCS World 2.2 -->
+			<Name>MIM23 Hawk</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Hawk LN</ShortName>
+			<LongName>MIM-23 Hawk LN</LongName>
+			<FullName>MIM-23 Hawk (M192 Launcher)</FullName>
+			<Shape>AntiAircraft.SAM.SA-6.2P25.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Car.Humvee.Redeye" Base="Vehicle.Car.Humvee">
+		<Criteria>
+			<Name>HMMWV MNPD</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Humvee Redeye</ShortName>
+			<LongName>Humvee (FIM-43C Redeye)</LongName>
+			<FullName>Humvee (FIM-43C Redeye)</FullName>
+			<EngagementRange>4200</EngagementRange>
+			<Shape>Vehicle.Car.Humvee.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.SAM.FIM-43.Launcher" Base="AntiAircraft.SAM.Manpad">
+		<Criteria>
+			<Type/>
+			<Name>Redeye Squad</Name>	<!-- BMS ITO80s -->
+			<Name>HQ M16 Squad</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Redeye</ShortName>
+			<LongName>FIM-43C Redeye</LongName>
+			<FullName>FIM-43C Redeye</FullName>
+			<EngagementRange>4200</EngagementRange>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- SAM MISSILES -->
+
+	<DefaultProperties Id="Missile.SAM.SA-2" Base="Missile.SAM.Radar">
+		<Criteria>
+			<Name>SA-2 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-2 Missile</ShortName>
+			<Shape>Missile.Aster30.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-3" Base="Missile.SAM.Radar">
+		<Criteria>
+			<Name>SA-3 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-3 Missile</ShortName>
+			<Shape>Missile.Aster30.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-4" Base="Missile.SAM.Radar">
+		<Criteria>
+			<Name>SA-4 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-4 Missile</ShortName>
+			<Shape>Missile.Aster30.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-5" Base="Missile.SAM.Radar">
+		<Criteria>
+			<Name>SA-5 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-5 Missile</ShortName>
+			<Shape>Missile.Aster30.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-6" Base="Missile.SAM.Radar">
+		<Criteria>
+			<Name>SA-6 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-6 Missile</ShortName>
+			<Shape>Missile.Aster30.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-8" Base="Missile.SAM.Radar">
+		<Criteria>
+			<Name>SA-8 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-8 Missile</ShortName>
+			<Shape>Missile.9M330.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-7" Base="Missile.SAM.IR">
+		<Criteria>
+			<Name>SA-7 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-7 Missile</ShortName>
+			<Shape>Missile.9K38.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.SA-9" Base="Missile.SAM.IR">
+		<Criteria>
+			<Name>SA-9 Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>SA-9 Missile</ShortName>
+			<Shape>Missile.9M330.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.SAM.FIM43" Base="Missile.SAM.IR">
+		<Criteria>
+			<Name>FIM-43C Missile</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Redeye Missile</ShortName>
+			<LongName>FIM-43C Redeye Missile</LongName>
+			<FullName>FIM-43C Redeye Missile</FullName>
+			<Shape>Missile.9K38.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- AAA -->
+
+	<DefaultProperties Id="AntiAircraft.ZPU-2" Base="AntiAircraft.AAA">
+		<Criteria>
+			<Name>ZPU-2</Name>
+		</Criteria>
+		<Properties>
+			<EngagementRange>2000</EngagementRange>
+			<Shape>AntiAircraft.AAA.ZSU-23-2.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.ZU-23" Base="AntiAircraft.AAA">
+		<Criteria>
+			<Name>ZU-23</Name>
+		</Criteria>
+		<Properties>
+			<EngagementRange>2500</EngagementRange>
+			<Shape>AntiAircraft.AAA.ZSU-23-2.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.ZSU-23-4" Base="AntiAircraft.ZSU-57-2">
+		<Criteria>
+			<Name>Shilka</Name>
+			<Name>ZSU-23-4</Name>			<!-- BMS ITO80s -->
+			<Name>ZSU-23-4 Shilka</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>ZSU-23-4</ShortName>
+			<LongName>ZSU-23-4 Shilka</LongName>
+			<FullName>ZSU-23-4 Shilka</FullName>
+			<Shape>AntiAircraft.AAA.ZSU-23-4.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.KS-12" Base="AntiAircraft.AAA">
+		<Criteria>
+			<Name>KS-12</Name>
+			<Name>Type-72</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>KS-12</ShortName>
+			<LongName>KS-12</LongName>
+			<FullName>KS-12</FullName>
+			<EngagementRange>8500</EngagementRange>
+			<Shape>AntiAircraft.Flak.Flak 18.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.KS-19" Base="AntiAircraft.KS-12">
+		<Criteria>
+			<Name>KS-19</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>KS-19</ShortName>
+			<LongName>KS-19</LongName>
+			<FullName>KS-19</FullName>
+			<EngagementRange>9500</EngagementRange>
+			<Shape>AntiAircraft.Flak.Flak 18.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.S-60" Base="AntiAircraft.AAA">
+		<Criteria>
+			<Name>S-60</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>S-60</ShortName>
+			<LongName>S-60</LongName>
+			<FullName>S-60</FullName>
+			<EngagementRange>6300</EngagementRange>
+			<Shape>AntiAircraft.Flak.Flak 18.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="AntiAircraft.M1939" Base="AntiAircraft.AAA">
+		<Criteria>
+			<Name>M1939</Name>
+			<Name>M-1939</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>M1939</ShortName>
+			<LongName>M1939</LongName>
+			<FullName>M1939</FullName>
+			<EngagementRange>2600</EngagementRange>
+			<Shape>AntiAircraft.Flak.Flak 18.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- LAND VEHICLES -->
+
+	<DefaultProperties Id="Vehicle.APC.M901" Base="Vehicle.APC.M113">
+		<Criteria>
+			<Name>M901</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>M901</ShortName>
+			<LongName>M901 TOW</LongName>
+			<FullName>M901 TOW</FullName>
+			<Shape>Vehicle.APC.M113.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.APC.BTR-60" Base="Vehicle.Military.APC">
+		<Criteria>
+			<Name>BTR-60</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>BTR-60</ShortName>
+			<LongName>BTR-60</LongName>
+			<FullName>BTR-60</FullName>
+			<Shape>Vehicle.APC.BTR-70.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.APC.MDK-2M" Base="Vehicle.Military.APC">
+		<Criteria>
+			<Name>MDK-2M</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>MDK-2M</ShortName>
+			<LongName>MDK-2M</LongName>
+			<FullName>MDK-2M Engineering Vehicle</FullName>
+			<Shape>Vehicle.APC.EE-11.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.M977" Base="Vehicle.Military.Truck">
+		<Criteria>
+			<Name>M977 HEMMT</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>M977</ShortName>
+			<LongName>M977 HEMMT</LongName>
+			<FullName>M977 HEMMT EPP</FullName>
+			<Shape>Vehicle.Truck.Ural.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.M978" Base="Vehicle.Military.Truck">
+		<Criteria>
+			<Name>M978 HEMMT</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>M978</ShortName>
+			<LongName>M978 HEMMT</LongName>
+			<FullName>M978 HEMMT FUEL</FullName>
+			<Shape>Vehicle.Truck.Tanker.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.2T7M" Base="Vehicle.Truck.Ural">
+		<Criteria>
+			<Name>2T7M</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>2T7M</ShortName>
+			<LongName>2T7M SAM-Reloader</LongName>
+			<FullName>2T7M Launcher Reloader</FullName>
+			<Shape>Vehicle.Truck.Ural.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.KrAZ-6322" Base="Vehicle.Truck.Ural">
+		<Criteria>
+			<Name>KrAZ-6322</Name>
+			<Name>KrAz T 255B</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>KrAz T 255B</ShortName>
+			<LongName>KrAz T 255B</LongName>
+			<FullName>KrAz T 255B</FullName>
+			<Shape>Vehicle.Truck.Ural.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.Ural" Base="Vehicle.Military.Truck">
+		<Criteria>
+			<Name>KrAz F 255B</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>KrAz F 255B</ShortName>
+			<LongName>KrAz F 255B</LongName>
+			<FullName>KrAz F 255B</FullName>
+			<Shape>Vehicle.Truck.Tanker.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.ZIL-131" Base="Vehicle.Truck.Ural">
+		<Criteria>
+			<Name>ZIL-131</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>ZIL-131</ShortName>
+			<LongName>ZIL-131</LongName>
+			<FullName>ZIL-131</FullName>
+			<Shape>Vehicle.Truck.Kamaz.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Truck.ZIL-135" Base="Vehicle.Truck.Ural">
+		<Criteria>
+			<Name>ZIL-135</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>ZIL-135</ShortName>
+			<LongName>ZIL-135</LongName>
+			<FullName>ZIL-135</FullName>
+			<Shape>Vehicle.Truck.Kamaz.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Tank.Merkava" Base="Vehicle.Military.Tank">
+		<Criteria>
+			<Name>Merkava</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Merkava</ShortName>
+			<LongName>Merkava</LongName>
+			<FullName>Merkava</FullName>
+			<Shape>Vehicle.Tank.M1.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Tank.M48" Base="Vehicle.Military.Tank">
+		<Criteria>
+			<Name>M48A5</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>M48A5</ShortName>
+			<LongName>M48A5 Patton</LongName>
+			<FullName>M48A5 Patton</FullName>
+			<Shape>Vehicle.Tank.T-55.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Tank.M60" Base="Vehicle.Military.Tank">
+		<Criteria>
+			<Name>M60A3</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>M60A3</ShortName>
+			<LongName>M60A3 Patton</LongName>
+			<FullName>M60A3 Patton</FullName>
+			<Shape>Vehicle.Tank.T-62A.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Vehicle.Tank.PT-76" Base="Vehicle.Military.Tank">
+		<Criteria>
+			<Name>PT-76</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>PT-76</ShortName>
+			<LongName>PT-76</LongName>
+			<FullName>PT-76</FullName>
+			<Shape>Vehicle.Tank.T-34-76-1943.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<!-- SHIPS -->
+
+	<DefaultProperties Id="Watercraft.Schnellboot" Base="Watercraft.Corvette">
+		<Criteria>
+			<Name>Osa II CLS</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>OSA II</ShortName>
+			<LongName>OSA II Missile Boat</LongName>
+			<FullName>OSA II Missile Boat</FullName>
+			<Shape>Watercraft.Warship.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Watercraft.Newport" Base="Watercraft.Military">
+		<Criteria>
+			<Name>Newport CLS</Name>
+		</Criteria>
+		<Properties>
+			<ShortName>Newport CLS</ShortName>
+			<LongName>Newport Landing Craft</LongName>
+			<FullName>Newport Landing Craft</FullName>
+			<Shape>Watercraft.LST-1.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+</DefaultPropertiesCollection>
