@@ -109,6 +109,187 @@
 		</Properties>
 	</DefaultProperties>
 
+	<!-- AA MISSILES -->
+
+	<DefaultProperties Id="Missile.AA.R550Mk1" Base="Missile.AA.IR">
+		<Criteria>
+			<Name>R.550 Magic</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>R.550 Magic</ShortName>
+			<LongName>Matra R.550 Magic</LongName>
+			<FullName>Matra R.550 Magic</FullName>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R530D" Base="Missile.AA.Radar">
+		<Criteria>
+			<Name>S530D</Name>			<!-- DCS World Mirage 2000C -->
+			<Name>Super 530 D</Name>
+			<Name>Super 530D</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>Super 530D</ShortName>
+			<LongName>Matra Super 530D</LongName>
+			<FullName>Matra Super 530D</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.RS-2US" Base="Missile.AA">
+		<Criteria>
+			<Name>RS-2US</Name>
+			<Name>K-5MS</Name>
+			<Name>AA-1 (R-55)</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-1</ShortName>
+			<LongName>AA-1 Alkali (RS-2US)</LongName>
+			<FullName>Kaliningrad RS-2US (AA-1 Alkali)</FullName>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-3R" Base="Missile.AA.R-3S">
+		<Criteria>
+			<Name>R-3R</Name>
+			<Name>K-13R</Name>
+			<Name>AA-2D</Name>
+			<Name>AA-2B (R-3R)</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-2B</ShortName>
+			<LongName>AA-2B Atoll (R-3R)</LongName>
+			<FullName>Vympel R-3R (AA-2B Atoll)</FullName>
+			<Shape>Missile.AIM-9M.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-13M" Base="Missile.AA.R-3S">
+		<Criteria>
+			<Name>R-13M</Name>
+			<Name>K-13M</Name>
+			<Name>AA-2C</Name>
+			<Name>AA-2C (R-13M)</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-2C</ShortName>
+			<LongName>AA-2C Atoll (R-13M)</LongName>
+			<FullName>Vympel R-13M (AA-2C Atoll)</FullName>
+			<Shape>Missile.AIM-9M.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-40RD" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>AA-6A (R-40R)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-6A</ShortName>
+			<LongName>AA-6A Acrid (R-40RD)</LongName>
+			<FullName>Vympel R-40RD (AA-6A Acrid)</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-40TD" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>AA-6B (R-40T)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-6B</ShortName>
+			<LongName>AA-6B Acrid (R-40TD)</LongName>
+			<FullName>Vympel R-40TD (AA-6B Acrid)</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-24R" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>R-24R</Name>
+			<Name>P_24R</Name>		<!-- DCS World -->
+			<Name>AA-7</Name>
+			<Name>Apex</Name>
+			<Name>AA-7A (R-23R)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-7A</ShortName>
+			<LongName>AA-7A Apex (R-24R)</LongName>
+			<FullName>Vympel R-24R (AA-7A Apex)</FullName>
+			<Shape>Missile.R-60.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-24T" Base="Missile.AA.AIM-7">
+		<Criteria>
+			<Name>R-24T</Name>
+			<Name>P_24T</Name>		<!-- DCS World -->
+			<Name>AA-7</Name>
+			<Name>Apex</Name>
+			<Name>AA-7B (R-23T)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-7B</ShortName>
+			<LongName>AA-7B Apex (R-24T)</LongName>
+			<FullName>Vympel R-24T (AA-7B Apex)</FullName>
+			<Shape>Missile.R-60.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-60" Base="Missile.AA.IR">
+		<Criteria>
+			<Name>R-60</Name>
+			<Name>AA-8</Name>
+			<Name>AA-8 Aphid</Name>
+			<Name>AA-8 Aphid-A</Name>
+			<Name>AA-8 (R-60)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-8</ShortName>
+			<LongName>AA-8 Aphid (R-60)</LongName>
+			<FullName>Molniya R-60 (AA-8 Aphid)</FullName>
+			<Shape>Missile.R-60.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-33" Base="Missile.AA.Radar">
+		<Criteria>
+			<Name>R-33</Name>
+			<Name>AA-9</Name>
+			<Name>AA-9 Amos</Name>
+			<Name>AA-9 (R-33)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-9</ShortName>
+			<LongName>AA-9 Amos (R-33)</LongName>
+			<FullName>Vympel R-33 (AA-9 Amos)</FullName>
+			<Shape>Missile.R-33.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
+	<DefaultProperties Id="Missile.AA.R-27R" Base="Missile.AA.R-27">
+		<Criteria>
+			<Name>R-27R</Name>
+			<Name>AA-10A</Name>
+			<Name>AA-10 Alamo-A</Name>
+			<Name>AA-10A (R-27R)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-10A</ShortName>
+			<LongName>AA-10A Alamo-A (R-27R)</LongName>
+			<FullName>Vympel R-27R (AA-10A Alamo-A)</FullName>
+		</Properties>
+	</DefaultProperties>
+	<DefaultProperties Id="Missile.AA.R-27T" Base="Missile.AA.R-27">
+		<Criteria>
+			<Name>R-27T</Name>
+			<Name>AA-10B</Name>
+			<Name>AA-10 Alamo-B</Name>
+			<Name>AA-10B (R-27T)</Name>	<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AA-10B</ShortName>
+			<LongName>AA-10B Alamo-B (R-27T)</LongName>
+			<FullName>Vympel R-27T (AA-10B Alamo-B)</FullName>
+		</Properties>
+	</DefaultProperties>
+
 	<!-- AG MISSILES -->
 
 	<DefaultProperties Id="Missile.AG.GBU-15" Base="Missile.AG.Radio">
