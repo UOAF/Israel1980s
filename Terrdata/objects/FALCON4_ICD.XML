@@ -9,11 +9,11 @@
         <FlareChance>0.0</FlareChance>
     </ICD>
     <ICD Num="1">
-        <Name>AIM-9L/M</Name>
+        <Name>AIM-9L</Name>
         <DetectionRange>8.0</DetectionRange>
         <FOV>6.0</FOV>
         <GimbalLimit>80.0</GimbalLimit>
-        <GroundFactor>0.030</GroundFactor>
+        <GroundFactor>0.010</GroundFactor>
         <FlareChance>10.0</FlareChance>
     </ICD>
     <ICD Num="2">
@@ -49,12 +49,12 @@
         <FlareChance>40.0</FlareChance>
     </ICD>
     <ICD Num="6">
-        <Name>AA-3A</Name>
-        <DetectionRange>8.0</DetectionRange>
+        <Name>AA-7B</Name>
+        <DetectionRange>9.0</DetectionRange>
         <FOV>6.0</FOV>
-        <GimbalLimit>50.0</GimbalLimit>
+        <GimbalLimit>60.0</GimbalLimit>
         <GroundFactor>0.060</GroundFactor>
-        <FlareChance>40.0</FlareChance>
+        <FlareChance>50.0</FlareChance>
     </ICD>
     <ICD Num="7">
         <Name>AA-8</Name>

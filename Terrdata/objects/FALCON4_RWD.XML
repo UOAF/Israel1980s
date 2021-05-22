@@ -394,7 +394,7 @@
         <ScanAngleBottom>-30.0</ScanAngleBottom>
         <ScanAngleLeft>-180.0</ScanAngleLeft>
         <ScanAngleRight>180.0</ScanAngleRight>
-        <Flags>9</Flags>
+        <Flags>1</Flags>
     </RWD>
     <RWD Num="44">
         <Name>AN/ALR-69</Name>

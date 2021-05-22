@@ -19,14 +19,14 @@
 #-----------------------------------------------------
 # INPUT MASS AND GEOMETRIC PROPERTIES
 #-----------------------------------------------------
-         +21253.000000  # Empty Weight (lbs)
+         +22485.000000  # Empty Weight (lbs)
            +402.000000  # Reference Area
-          +7293.000000  # Internal Fuel
+          +10300.000000  # Internal Fuel
 #-----------------------------------------------------
 # ANGLE OF ATTACK AND SIDESLIP LIMITS
 #-----------------------------------------------------
-            +24.000000  # AOA Max
-            -10.000000  # AOA Min
+            +17.000000  # AOA Max
+            -5.000000  # AOA Min
             +20.000000  # Beta Max
             -20.000000  # Beta Min
              +8.500000  # Max G
