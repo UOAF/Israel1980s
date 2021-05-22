@@ -115,22 +115,22 @@
         <Flags>0</Flags>
     </RCD>
     <RCD Num="6">
-        <Name>Sapfir-23ML</Name>
+        <Name>Sapfir-23E</Name>
         <RwrSound>41</RwrSound>
         <RwrSymbol>43</RwrSymbol>
         <RadarDatIdx>6</RadarDatIdx>
         <HighAltLethality>0.55</HighAltLethality>
         <LowAltLethality>0.55</LowAltLethality>
-        <DetectionRange>26.9</DetectionRange>
-        <BeamWidth>4.6</BeamWidth>
-        <ScanWidth>120.0</ScanWidth>
-        <SweepRate>60.0</SweepRate>
-        <CoastTime>3.0</CoastTime>
-        <LookDownPenalty>0.250</LookDownPenalty>
-        <JammingPenalty>0.380</JammingPenalty>
+        <DetectionRange>20.0</DetectionRange>
+        <BeamWidth>2.5</BeamWidth>
+        <ScanWidth>104.0</ScanWidth>
+        <SweepRate>119.0</SweepRate>
+        <CoastTime>0.0</CoastTime>
+        <LookDownPenalty>0.358</LookDownPenalty>
+        <JammingPenalty>0.100</JammingPenalty>
         <NotchPenalty>0.350</NotchPenalty>
         <NotchSpeed>110.0</NotchSpeed>
-        <ChaffChance>25.0</ChaffChance>
+        <ChaffChance>4.0</ChaffChance>
         <Flags>0</Flags>
     </RCD>
     <RCD Num="7">
