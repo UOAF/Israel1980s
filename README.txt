@@ -1,4 +1,4 @@
-Israel 1980s, Version 1.0:
+Israel 1980s, Version 1.1:
 This theater is a mod of the existing Israel theater for Falcon BMS 4.35.
 
 
