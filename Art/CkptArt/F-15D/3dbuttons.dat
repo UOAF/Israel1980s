@@ -1,4 +1,4 @@
-// F-16CM-40 - Block 40 Type (WAR HUD)
+// F-16DM-40 - Block 40 Type (WAR HUD)
 // Last edited: 16/11/2019
 // <command name>   <x>   <y>   <z>   <size>   <snd>   <msbtn>   <wheel>
 // Panel order: left to right, top down
@@ -484,10 +484,10 @@ SimUFCOn                                                         0.57978 -1.2902
 SimUFCOff                                                        0.57978 -1.290231 -2.269752    30  310   2
 SimINSInc                                                        0.39990 -1.131027 -2.271349    35  125   1 w
 SimINSDec                                                        0.39990 -1.131027 -2.271349    35  125   2 w
-SimGPSOn                                                         0.65624 -1.293383 -2.260636    30  310   1
-SimGPSOff                                                        0.65624 -1.293383 -2.260636    30  310   2
-SimDLOn                                                          0.55124 -1.177935 -2.292408    30  310   1
-SimDLOff                                                         0.55124 -1.177935 -2.292408    30  310   2
+SimGPSOn                                                         0.47709 -1.201742 -2.293412    30  310   1 
+SimGPSOff                                                        0.47709 -1.201742 -2.293412    30  310   2 
+SimDLOn                                                          0.55056 -1.205072 -2.292408    30  310   1 
+SimDLOff                                                         0.55056 -1.205072 -2.292408    30  310   2 
 
 // Oxygen Regulator
 //unused: Oxy Emer/Test Up       0.806027   -1.588077   -2.195063    35    129    1

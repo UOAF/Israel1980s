@@ -129,7 +129,7 @@ SimStepIntercomVolumeUp                                          -0.31208 1.3546
 SimStepThreatVolumeDown                                          -2.08136 -0.267771 -2.202752    20  129   2 w
 SimStepThreatVolumeUp                                            -2.08136 -0.267771 -2.202752    20  129   1 w
 SimEpuToggle                                                     -0.54941 1.520543 -2.267847    30  129   1 
-SimJfsStart                                                      -0.37953 1.481295 -2.286586    20  115   1 
+SimJfsStartCycle                                                      -0.37953 1.481295 -2.286586    20  115   1 
 SimMalIndLights                                                  -1.65797 1.062723 -2.296127    20  115   1 8
 SimINSInc                                                        -0.74588 -1.301083 -2.297450    20  124   1 
 SimINSDec                                                        -0.74588 -1.301083 -2.297450    20  124   2 
