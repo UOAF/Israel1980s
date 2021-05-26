@@ -1,4 +1,4 @@
-# Title: F-4E Phantom
+# Title: F-4E IAF Phantom
 # Author: BMS
 # Revision: Flight Model Manager ver:1.7.3.50 Date: 09/15/18 5:43:47 AM
 #-----------------------------------------------------
@@ -1789,7 +1789,7 @@ IsLongBurnThreat 0
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 0 100 100 100 0 0 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100
+misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 0 0 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------
@@ -1849,34 +1849,34 @@ canDoGunStrafe 0
 #-----------------------------------------------------
 # Weapons
 #-----------------------------------------------------
-A2GHarmAlt 200
+A2GHarmAlt 20000
 A2GHarmMinAlt 1000
 A2GHarmMaxAlt 48000
-A2GAGMAlt 80
+A2GAGMAlt 8000
 A2GAGMMinAlt 6000
-A2GAGMMaxAlt 10000
-A2GGBUAlt 200
+A2GAGMMaxAlt 18000
+A2GGBUAlt 20000
 A2GGBUMinAlt 15000
 A2GGBUMaxAlt 24000
-A2GDumbHDAlt 15
+A2GDumbHDAlt 1500
 A2GDumbHDMinAlt 1200
 A2GDumbHDMaxAlt 2500
-A2GClusterAlt 140
+A2GClusterAlt 14000
 A2GClusterMinAlt 9000
 A2GClusterMaxAlt 19000
-A2GDumbLDAlt 160
+A2GDumbLDAlt 16000
 A2GDumbLDMinAlt 11000
 A2GDumbLDMaxAlt 13000
-A2GGunRocketAlt 35
+A2GGunRocketAlt 3500
 A2GGunRocketMinAlt 1500
 A2GGunRocketMaxAlt 5500
-A2GCameraAlt 120
+A2GCameraAlt 20000
 A2GCameraMinAlt 10000
 A2GCameraMaxAlt 14000
-A2GBombMissileAlt 130
+A2GBombMissileAlt 16000
 A2GBombMissileMinAlt 15000
 A2GBombMissileMaxAlt 25000
-A2GIAMBombAlt 200
+A2GIAMBombAlt 20000
 A2GIAMBombMinAlt 15000
 A2GIAMBombMaxAlt 25000
 maxRippleCount 99
@@ -1899,7 +1899,7 @@ rktPopupAlt 0
 #-----------------------------------------------------
 # ARMs
 #-----------------------------------------------------
-maxNumARMs 0
+maxNumARMs 2
 #-----------------------------------------------------
 # Camera View TopGun
 #-----------------------------------------------------
