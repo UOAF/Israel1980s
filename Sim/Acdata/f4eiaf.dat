@@ -1538,6 +1538,7 @@ avionicsMLUPFL 1
 avionicsDatalink 1
 avionicsDLCursorAsWaypoint 0
 avionicsDteIdmLabel 0
+avionicsEHSI 0
 avionicsHudLadderTapeType 2
 avionicsHudVAHTapeType 2
 avionicsHudDGFTDefaultMode 4
@@ -1556,6 +1557,9 @@ avionicsGhostHorizonAwareness 0
 avionicsEPAFRadarCues 0
 avionicsRadarJamChevrons 0
 avionicsColorMfd 0
+avionicsRadarVsMode 1
+avionicsRadarLrsMode 1
+avionicsRadarUlsMode 1
 avionicsGrayScaleGM 1
 avionicsActivateMFDBoot 2
 avionicsMMCUpgrade 1
