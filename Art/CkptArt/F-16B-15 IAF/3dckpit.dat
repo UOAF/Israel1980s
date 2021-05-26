@@ -53,10 +53,10 @@ needlecolor1 ffdddddd; // secondary needle color. redish
 dedcolor FF00FF9C; //  DED color
 
 // the LOD models to use.
-cockpitmodel 1960;
-cockpitmodel2 1024;
+cockpitmodel 1987;
+cockpitmodel2 1993;
 cockpithudmodel 4;
-cockpitcanopymodel 1978;
+cockpitcanopymodel 1952;
 cockpitrttcanopymodel 1482;
 cockpitwingsmodel 1879;
 cockpitmodel_empty 1802;
