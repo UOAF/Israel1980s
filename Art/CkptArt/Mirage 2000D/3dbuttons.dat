@@ -77,7 +77,7 @@ SimInteriorLightCW               -0.02978 -1.424985 -2.306403    55  124   1 w
 SimInteriorLightCCW              -0.02978 -1.424985 -2.306403    55  124   2 w
 SimDedBrightnessCW               0.07878 -1.155922 -2.306403    55  124   1 w
 SimDedBrightnessCCW              0.07878 -1.155922 -2.306403    55  124   2 w
-SimJfsStart                      0.23182 -1.196250 -2.310000    66  126   1 
+SimJfsStartCycle                 0.23182 -1.196250 -2.310000    66  126   1 
 SimLandingLightInc               -1.19315 1.542941 -2.226645    35  115   1 
 SimLandingLightDec               -1.19315 1.542941 -2.226645    35  115   2 
 SimLEFLock                       -0.69749 1.230356 -2.352991    35  115   2 

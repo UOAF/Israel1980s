@@ -68,6 +68,7 @@ cockpitwingsdfmodel 1742;
 cockpitmodel_empty 1802;
 cockpitcanopymodel_empty 1803;
 cockpitlegsmodel 2015;
+cockpitmodel3 3107;
 
 viewlimit_pan_left 170.0;
 viewlimit_pan_right 170.0;

@@ -1300,7 +1300,7 @@ animExhNozABMax 15.0
 animExhNozRate 50.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -1626,7 +1626,7 @@ avionicsBackupTacanOnMFD 1
 #-----------------------------------------------------
 avionicsIFFTransponderSettings 63
 avionicsIFFInterrogatorSettings 15
-avionicsIFFBackupM1M3 0
+avionicsIFFBackupM1M3 1
 #-----------------------------------------------------
 # Autopilot
 #-----------------------------------------------------

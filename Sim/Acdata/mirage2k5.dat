@@ -834,7 +834,7 @@ animExhNozABMax 15.0
 animExhNozRate 7.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -2.5
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -943,6 +943,7 @@ dragChuteDelay 3.0 #Falcas 07/08/2013
 #-----------------------------------------------------
 CDLDGFactor 0.090
 sinkRate 15
+BrakeAbsorptionFactor 1.0
 MLGWOWPercentage 0.90
 NLGWOWPercentage 0.50
 NWSRateUp 1.5

@@ -1262,7 +1262,7 @@ animExhNozABMax 14.0
 animExhNozRate 50.0
 PropEngineSwitchStates 5
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
@@ -1935,39 +1935,39 @@ TopGunCamera4 7  +43.00   +0.00   -9.00  -16.00 +180.00   +0.00  47.0 #Placed ne
 #-----------------------------------------------------
 Light1Position -21.50 -1.80 1.56 # Left Burner1 Falcas 06/13/2013
 Light1Color 0.99 0.76 0.52
-Light1Type 10
-Light1Radius 3.02
-Light1Attenuation 0.000
+Light10Type 10
+Light10Radius 20
+Light10Attenuation 0.010
 
 Light2Position -24.00 -1.80 1.56 # Left Burner2 Falcas 06/13/2013
 Light2Color 0.80 0.65 0.40
-Light2Type 10
-Light2Radius 3.07
-Light2Attenuation 0.200
+Light11Type 10
+Light11Radius 20
+Light11Attenuation 0.100
 
 Light3Position -29.00 -1.80 1.56 # Left Burner3 Falcas 06/13/2013
 Light3Color 0.80 0.65 0.40
-Light3Type 10
-Light3Radius 95
-Light3Attenuation 0.200
+Light12Type 10
+Light12Radius 20
+Light12Attenuation 0.200
 
 Light4Position -21.50 1.80 1.56 # Right Burner1 Falcas 06/13/2013
 Light4Color 0.99 0.76 0.52
-Light4Type 10
-Light4Radius 3.02
-Light4Attenuation 0.000
+Light10Type 10
+Light10Radius 20
+Light10Attenuation 0.010
 
 Light5Position -24.00 1.80 1.56 # Right Burner2 Falcas 06/13/2013
 Light5Color 0.80 0.65 0.40
-Light5Type 10
-Light5Radius 3.07
-Light5Attenuation 0.200
+Light11Type 10
+Light11Radius 20
+Light11Attenuation 0.100
 
 Light6Position -29.00 1.80 1.56 # Right Burner3 Falcas 06/13/2013
 Light6Color 0.80 0.65 0.40
-Light6Type 10
-Light6Radius 95
-Light6Attenuation 0.200
+Light12Type 10
+Light12Radius 20
+Light12Attenuation 0.200
 
 Light7Position -10.05 19.29 -0.10 # right wing
 Light7Color 0.00 0.40 0.20
