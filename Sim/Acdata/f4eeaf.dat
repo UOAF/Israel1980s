@@ -1,4 +1,4 @@
-# Title: F-4E Phantom
+# Title: F-4E EAF Phantom
 # Author: BMS
 # Revision: Flight Model Manager ver:1.7.4.63 Date: 1/19/2020 10:09:47 PM
 #-----------------------------------------------------
@@ -1812,7 +1812,7 @@ IsLongBurnThreat 0
 #-----------------------------------------------------
 # Missions
 #-----------------------------------------------------
-misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 0 100 100 100 100 100 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100
+misTypeCapability 41 100 100 100 100 100 0 100 100 100 100 100 100 0 100 100 100 100 0 0 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100
 #-----------------------------------------------------
 # TFR
 #-----------------------------------------------------
@@ -1876,11 +1876,11 @@ A2GHarmAlt 20000
 A2GHarmMinAlt 1000
 A2GHarmMaxAlt 48000
 A2GAGMAlt 8000
-A2GAGMMinAlt 15000
+A2GAGMMinAlt 6000
 A2GAGMMaxAlt 18000
 A2GGBUAlt 20000
 A2GGBUMinAlt 15000
-A2GGBUMaxAlt 22000
+A2GGBUMaxAlt 24000
 A2GDumbHDAlt 1500
 A2GDumbHDMinAlt 1200
 A2GDumbHDMaxAlt 2500
@@ -1893,16 +1893,16 @@ A2GDumbLDMaxAlt 13000
 A2GGunRocketAlt 3500
 A2GGunRocketMinAlt 1500
 A2GGunRocketMaxAlt 5500
-A2GCameraAlt 12000
+A2GCameraAlt 20000
 A2GCameraMinAlt 10000
 A2GCameraMaxAlt 14000
-A2GBombMissileAlt 20000
+A2GBombMissileAlt 16000
 A2GBombMissileMinAlt 15000
-A2GBombMissileMaxAlt 22000
+A2GBombMissileMaxAlt 25000
 A2GIAMBombAlt 20000
 A2GIAMBombMinAlt 15000
-A2GIAMBombMaxAlt 22000
-maxRippleCount 24
+A2GIAMBombMaxAlt 25000
+maxRippleCount 99
 maxLoadoutDrag 41 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 maxLoadoutWeight 41 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
 minNumFuelTanks 41 0 2 2 3 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 2 2 0 0 0 0 2 2 0 0 0 0

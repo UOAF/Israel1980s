@@ -182,7 +182,7 @@
     </ACD>
     <ACD Num="12">
         <CombatClass>0</CombatClass>
-        <AirframeDatIdx>95</AirframeDatIdx>
+        <AirframeDatIdx>183</AirframeDatIdx>
         <IrSignatureIdx>0</IrSignatureIdx>
         <SensorType_0>3</SensorType_0>
         <SensorType_1>1</SensorType_1>
@@ -2687,7 +2687,7 @@
     </ACD>
     <ACD Num="179">
         <CombatClass>0</CombatClass>
-        <AirframeDatIdx>175</AirframeDatIdx>
+        <AirframeDatIdx>95</AirframeDatIdx>
         <IrSignatureIdx>0</IrSignatureIdx>
         <SensorType_0>3</SensorType_0>
         <SensorType_1>1</SensorType_1>
