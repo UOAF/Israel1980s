@@ -1455,7 +1455,7 @@ animExhNozABMax 15.0
 animExhNozRate 5.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0 #Added Falcas
 ReverseThrustFactor 0.0 #Added Falcas
 minReverseThrustSpeed 0 #Added Falcas
@@ -1561,6 +1561,7 @@ dragChuteDelay 2.0 #Added Falcas
 #-----------------------------------------------------
 CDLDGFactor 0.060
 sinkRate 12
+BrakeAbsorptionFactor 1.3
 MLGWOWPercentage 0.90
 NLGWOWPercentage 0.50
 NWSRateUp 10.0 #Falcas 11/20/2014
@@ -2225,7 +2226,6 @@ SpotLight1OuterConeDeg 45.000 # outer cone angle in degrees
 #-----------------------------------------------------
 # Additionals that are not included in FMM.
 #-----------------------------------------------------
-BrakeAbsorptionFactor 2.0
 #
 # End of Additional
 #

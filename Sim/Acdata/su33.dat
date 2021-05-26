@@ -1391,7 +1391,7 @@ animExhNozABMax 15.0
 animExhNozRate 5.0
 PropEngineSwitchStates 0
 animEngineRPMMult 1000
-HeatBlurShift -7
+HeatBlurShift 4
 hasReverseThrust 0
 ReverseThrustFactor 0.0
 minReverseThrustSpeed 0
@@ -1494,6 +1494,7 @@ dragChuteDelay 2.0
 #-----------------------------------------------------
 CDLDGFactor 0.060
 sinkRate 24
+BrakeAbsorptionFactor 2.0
 MLGWOWPercentage 0.90
 NLGWOWPercentage 0.50
 NWSRateUp 10.0

@@ -2227,7 +2227,6 @@ SpotLight1OuterConeDeg 45.000 # outer cone angle in degrees
 #-----------------------------------------------------
 # Additionals that are not included in FMM.
 #-----------------------------------------------------
-BrakeAbsorptionFactor 2.0
 #
 # End of Additional
 #
