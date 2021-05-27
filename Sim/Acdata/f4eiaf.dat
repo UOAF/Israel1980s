@@ -1207,9 +1207,9 @@ aeropt LefIncludedinCL
 # Aircraft
 #-----------------------------------------------------
 typeAC 11
-isComplex 0
-irSignature 0
-visSignature 0
+isComplex 1
+irSignature 1.5
+visSignature 1.5
 #-----------------------------------------------------
 # Engine
 #-----------------------------------------------------
