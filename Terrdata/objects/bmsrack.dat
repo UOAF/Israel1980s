@@ -2331,6 +2331,8 @@ definegroup A4CL
 	addpylon
 		pylonsmsname AERO-7
 		pylonct 1105
+			addrack lau-117
+			addrack lau-88-right
 			addrack no-rack
 			addrack bru-42-right
 			addrack bru-41-right
