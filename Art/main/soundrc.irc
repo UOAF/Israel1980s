@@ -120,11 +120,11 @@
 [STREAMSOUND] CDECDFCE "sounds\ui\voice\cdecdfce.ogg" S_BIT_NORMAL
 [STREAMSOUND] CDECKFME "sounds\ui\voice\cdeckfme.ogg" S_BIT_NORMAL
 [STREAMSOUND] CDECSSE "sounds\ui\voice\cdecsse.ogg" S_BIT_NORMAL
-[STREAMSOUND] CMCLE "sounds\ui\voice\cmcle.ogg" S_BIT_NORMAL
-[STREAMSOUND] CMEE "sounds\ui\voice\cmee.ogg" S_BIT_NORMAL
-[STREAMSOUND] CMFF1E "sounds\ui\voice\cmff1e.ogg" S_BIT_NORMAL
-[STREAMSOUND] CMFF2E "sounds\ui\voice\cmff2e.ogg" S_BIT_NORMAL
-[STREAMSOUND] CMFF3E "sounds\ui\voice\cmff3e.ogg" S_BIT_NORMAL
+[STREAMSOUND] CMCLE "Add-On Israel1980s\sounds\ui\voice\cmcle.ogg" S_BIT_NORMAL
+[STREAMSOUND] CMEE "Add-On Israel1980s\sounds\ui\voice\cmee.ogg" S_BIT_NORMAL
+[STREAMSOUND] CMFF1E "Add-On Israel1980s\sounds\ui\voice\cmff1e.ogg" S_BIT_NORMAL
+[STREAMSOUND] CMFF2E "Add-On Israel1980s\sounds\ui\voice\cmff2e.ogg" S_BIT_NORMAL
+[STREAMSOUND] CMFF3E "Add-On Israel1980s\sounds\ui\voice\cmff3e.ogg" S_BIT_NORMAL
 [STREAMSOUND] CPD2E "sounds\ui\voice\cpd2e.ogg" S_BIT_NORMAL
 [STREAMSOUND] CPD3E "sounds\ui\voice\cpd3e.ogg" S_BIT_NORMAL
 [STREAMSOUND] CPD4E "sounds\ui\voice\cpd4e.ogg" S_BIT_NORMAL
