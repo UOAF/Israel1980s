@@ -16747,27 +16747,25 @@
         <ElementCount_6>3</ElementCount_6>
         <ElementCount_7>2</ElementCount_7>
         <ElementCount_8>2</ElementCount_8>
-        <ElementCount_9>3</ElementCount_9>
-        <ElementCount_10>2</ElementCount_10>
+        <ElementCount_9>2</ElementCount_9>
+        <ElementCount_10>3</ElementCount_10>
         <ElementCount_11>3</ElementCount_11>
         <ElementCount_12>3</ElementCount_12>
-        <ElementCount_13>3</ElementCount_13>
-        <ElementCount_14>2</ElementCount_14>
+        <ElementCount_13>2</ElementCount_13>
         <VehicleCtIdx_0>1</VehicleCtIdx_0>
         <VehicleCtIdx_1>1</VehicleCtIdx_1>
         <VehicleCtIdx_2>1</VehicleCtIdx_2>
-        <VehicleCtIdx_3>533</VehicleCtIdx_3>
+        <VehicleCtIdx_3>792</VehicleCtIdx_3>
         <VehicleCtIdx_4>544</VehicleCtIdx_4>
-        <VehicleCtIdx_5>37</VehicleCtIdx_5>
-        <VehicleCtIdx_6>37</VehicleCtIdx_6>
+        <VehicleCtIdx_5>835</VehicleCtIdx_5>
+        <VehicleCtIdx_6>835</VehicleCtIdx_6>
         <VehicleCtIdx_7>1</VehicleCtIdx_7>
         <VehicleCtIdx_8>1</VehicleCtIdx_8>
-        <VehicleCtIdx_9>535</VehicleCtIdx_9>
-        <VehicleCtIdx_10>1</VehicleCtIdx_10>
-        <VehicleCtIdx_11>37</VehicleCtIdx_11>
-        <VehicleCtIdx_12>547</VehicleCtIdx_12>
-        <VehicleCtIdx_13>37</VehicleCtIdx_13>
-        <VehicleCtIdx_14>544</VehicleCtIdx_14>
+        <VehicleCtIdx_9>1</VehicleCtIdx_9>
+        <VehicleCtIdx_10>835</VehicleCtIdx_10>
+        <VehicleCtIdx_11>835</VehicleCtIdx_11>
+        <VehicleCtIdx_12>835</VehicleCtIdx_12>
+        <VehicleCtIdx_13>544</VehicleCtIdx_13>
         <Flags>13</Flags>
         <Name>SP Guns</Name>
         <MoveType>2</MoveType>
