@@ -567,13 +567,4 @@
         <ScanAngleRight>180.0</ScanAngleRight>
         <Flags>5</Flags>
     </RWD>
-    <RWD Num="63">
-        <Name>f16/mig29</Name>
-        <DetectionRange>0.9</DetectionRange>
-        <ScanAngleTop>45.0</ScanAngleTop>
-        <ScanAngleBottom>-45.0</ScanAngleBottom>
-        <ScanAngleLeft>-180.0</ScanAngleLeft>
-        <ScanAngleRight>180.0</ScanAngleRight>
-        <Flags>5</Flags>
-    </RWD>
 </RWDRecords>

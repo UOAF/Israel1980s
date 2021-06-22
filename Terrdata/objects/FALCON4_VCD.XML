@@ -32870,7 +32870,7 @@
         <CtIdx>3942</CtIdx>
         <HitPoints>60</HitPoints>
         <Flags>1074595840</Flags>
-        <Name>F-16C-32EAF</Name>
+        <Name>F-16C-32 EAFAG</Name>
         <NCTR>F16</NCTR>
         <RadarCs>1.000000</RadarCs>
         <MaxWeight>42300</MaxWeight>
@@ -32882,7 +32882,7 @@
         <MinAlt>5</MinAlt>
         <CruiseAlt>220</CruiseAlt>
         <MaxSpeed>1020</MaxSpeed>
-        <RadarIdx>124</RadarIdx>
+        <RadarIdx>33</RadarIdx>
         <NumberOfCrew>1</NumberOfCrew>
         <RackFlags>4094</RackFlags>
         <VisibleFlags>4094</VisibleFlags>
