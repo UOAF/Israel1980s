@@ -7602,19 +7602,19 @@
         <VehicleCtIdx_0>3</VehicleCtIdx_0>
         <VehicleCtIdx_1>3</VehicleCtIdx_1>
         <VehicleCtIdx_2>3</VehicleCtIdx_2>
-        <VehicleCtIdx_3>753</VehicleCtIdx_3>
-        <VehicleCtIdx_4>30</VehicleCtIdx_4>
+        <VehicleCtIdx_3>3</VehicleCtIdx_3>
+        <VehicleCtIdx_4>3</VehicleCtIdx_4>
         <VehicleCtIdx_5>30</VehicleCtIdx_5>
         <VehicleCtIdx_6>30</VehicleCtIdx_6>
         <VehicleCtIdx_7>3</VehicleCtIdx_7>
         <VehicleCtIdx_8>3</VehicleCtIdx_8>
         <VehicleCtIdx_9>3</VehicleCtIdx_9>
-        <VehicleCtIdx_10>702</VehicleCtIdx_10>
+        <VehicleCtIdx_10>29</VehicleCtIdx_10>
         <VehicleCtIdx_11>29</VehicleCtIdx_11>
         <VehicleCtIdx_12>29</VehicleCtIdx_12>
         <VehicleCtIdx_13>29</VehicleCtIdx_13>
         <VehicleCtIdx_14>29</VehicleCtIdx_14>
-        <VehicleCtIdx_15>679</VehicleCtIdx_15>
+        <VehicleCtIdx_15>676</VehicleCtIdx_15>
         <Flags>12</Flags>
         <Name>Armored</Name>
         <MoveType>3</MoveType>
