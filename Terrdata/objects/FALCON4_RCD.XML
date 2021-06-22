@@ -2356,23 +2356,4 @@
         <ChaffChance>10.0</ChaffChance>
         <Flags>0</Flags>
     </RCD>
-    <RCD Num="124">
-        <Name>AN/AGP-68(V)4 Mig29</Name>
-        <RwrSound>102</RwrSound>
-        <RwrSymbol>46</RwrSymbol>
-        <RadarDatIdx>1</RadarDatIdx>
-        <HighAltLethality>0.60</HighAltLethality>
-        <LowAltLethality>0.60</LowAltLethality>
-        <DetectionRange>35.2</DetectionRange>
-        <BeamWidth>4.6</BeamWidth>
-        <ScanWidth>120.0</ScanWidth>
-        <SweepRate>60.0</SweepRate>
-        <CoastTime>4.0</CoastTime>
-        <LookDownPenalty>0.600</LookDownPenalty>
-        <JammingPenalty>0.480</JammingPenalty>
-        <NotchPenalty>0.450</NotchPenalty>
-        <NotchSpeed>90.5</NotchSpeed>
-        <ChaffChance>20.0</ChaffChance>
-        <Flags>1</Flags>
-    </RCD>
 </RCDRecords>
