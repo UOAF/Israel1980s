@@ -16675,10 +16675,10 @@
         <ElementCount_1>3</ElementCount_1>
         <ElementCount_2>3</ElementCount_2>
         <ElementCount_3>3</ElementCount_3>
-        <VehicleCtIdx_0>835</VehicleCtIdx_0>
-        <VehicleCtIdx_1>835</VehicleCtIdx_1>
-        <VehicleCtIdx_2>708</VehicleCtIdx_2>
-        <VehicleCtIdx_3>707</VehicleCtIdx_3>
+        <VehicleCtIdx_0>547</VehicleCtIdx_0>
+        <VehicleCtIdx_1>37</VehicleCtIdx_1>
+        <VehicleCtIdx_2>37</VehicleCtIdx_2>
+        <VehicleCtIdx_3>37</VehicleCtIdx_3>
         <Flags>13</Flags>
         <Name>Supply</Name>
         <MoveType>2</MoveType>
