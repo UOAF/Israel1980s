@@ -4620,7 +4620,7 @@
         <RoleScore_1>30</RoleScore_1>
         <RoleScore_3>30</RoleScore_3>
         <RoleScore_4>20</RoleScore_4>
-        <RoleScore_7>5</RoleScore_7>
+        <RoleScore_7>30</RoleScore_7>
         <MainRole>9</MainRole>
         <Hit_NoMove>40</Hit_NoMove>
         <Hit_Foot>55</Hit_Foot>
@@ -8076,7 +8076,7 @@
         <RoleScore_1>30</RoleScore_1>
         <RoleScore_3>30</RoleScore_3>
         <RoleScore_4>20</RoleScore_4>
-        <RoleScore_7>5</RoleScore_7>
+        <RoleScore_7>30</RoleScore_7>
         <MainRole>9</MainRole>
         <Hit_NoMove>40</Hit_NoMove>
         <Hit_Foot>55</Hit_Foot>
