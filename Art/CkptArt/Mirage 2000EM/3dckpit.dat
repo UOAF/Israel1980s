@@ -3,6 +3,8 @@
 // Last change May 17 2007
 // by Nanard
 
+// June 2020 RPM Needles calibrated
+
 // Boresight cross height
 boresighty 0.75;
 
@@ -37,6 +39,12 @@ hmsfont 13;
 // floodlightcolormod r g b where r g b are float between 0.0 to 1.0
 floodlightcolormod 0.4 1.0 0.4; // green
 
+// RPM needls	angle	rpm value Block 40
+rpm_needle	106.50	60
+rpm_needle	136.50	70
+rpm_needle	291.00	103
+rpm_needle	339.50 	110
+
 // various colours
 padlockbg ff7c4706; //padlock background
 padlockliftline ff5ee75e; //padlock liftline. green
@@ -48,10 +56,10 @@ needlecolor1 ffdddddd; // secondary needle color. redish
 dedcolor FF00FF9C; //  DED color
 
 // the LOD models to use.
-cockpitmodel 1852;
-cockpitmodel2 1857;
-cockpithudmodel 4;
-cockpitcanopymodel 1953;
+cockpitmodel 899;
+cockpitmodel2 914;
+cockpithudmodel 1698;
+cockpitcanopymodel 1699;
 cockpitrttcanopymodel 6;
 cockpitwingsmodel 1542;
 cockpitmodel_empty 1802;
