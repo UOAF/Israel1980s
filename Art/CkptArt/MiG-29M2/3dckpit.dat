@@ -37,13 +37,13 @@ rwrfont 11;
 hmsfont 13;
 
 // floodlightcolormod r g b where r g b are float between 0.0 to 1.0
-floodlightcolormod 0.9 0.6 0.2 // orange-white
+floodlightcolormod 0.4 1.0 0.4; // green
 
-// RPM needls	angle	rpm value Block 52+
-rpm_needle	123.50	60
-rpm_needle	173.00	70
-rpm_needle	315.50	97
-rpm_needle	339.50 	100
+// RPM needls	angle	rpm value Block 40
+rpm_needle	106.50	60
+rpm_needle	136.50	70
+rpm_needle	291.00	103
+rpm_needle	339.50 	110
 
 // various colours
 padlockbg ff7c4706; //padlock background
@@ -56,12 +56,12 @@ needlecolor1 ffdddddd; // secondary needle color. redish
 dedcolor FF00FF9C; //  DED color
 
 // the LOD models to use.
-cockpitmodel 941;
-cockpitmodel2 947;
-cockpithudmodel 4;
-cockpitcanopymodel 1037;
+cockpitmodel 899;
+cockpitmodel2 914;
+cockpithudmodel 1698;
+cockpitcanopymodel 1699;
 cockpitrttcanopymodel 6;
-cockpitwingsmodel 1772;
+cockpitwingsmodel 5090;
 cockpitmodel_empty 1802;
 cockpitcanopymodel_empty 1803;
 cockpitlegsmodel 2015;
@@ -84,19 +84,13 @@ hud_projector_glow_color 00006000;
 hud_projector_glow_size  1.0;
 SwitchMagCoilSnd 320;
 
-//Ejection seat adjust params
-seat_elevation_max       0.119f;
-seat_elevation_min      -0.119f;
-seat_elevation_angle    30.f;
-
 //Guided snap views
 
 //Center
 
 guidedview 0 0.000000 0.000000 0.000000 -0.000000 1.791412 0.000002 59.999996 0 23 9000 29 18000 1 27000 26 'HUD - up once'
 guidedview 1 0.000000 0.000000 0.000000 0.000000 -15.621903 0.000000 59.999996 0 0 9000 13 18000 2 27000 9 'straight forward'
-guidedview 2 0.000000 0.000000 0.000000 0.000000 -36.536102 0.000000 42.999962 0 1 9000 17 18000 52 27000 3 'MFDs - backup instruments'
-guidedview 52 0.000000 0.000000 0.000000 0.000000 -61.739338 -0.000000 46.000004 0 2 9000 17 27000 3 'Kneeboards'
+guidedview 2 0.000000 0.000000 0.000000 0.000000 -36.536102 0.000000 41.999962 0 1 9000 17 27000 3 'MFDs - backup instruments'
 guidedview 23 0.000000 0.000000 0.000000 -0.000000 28.439116 0.000002 59.999996 0 24 9000 36 18000 0 27000 32 'up twice'
 guidedview 24 0.000000 0.000000 0.000000 -0.000000 58.439114 0.000001 59.999996 0 25 9000 43 18000 23 27000 40 'up three times'
 guidedview 25 0.000000 0.000000 0.000000 0.000000 88.439110 -0.000000 59.999996 9000 49 18000 24 27000 46 'up four times'
@@ -162,9 +156,3 @@ guidedview 45 0.000000 0.043100 0.000000 134.999985 58.439114 0.000000 59.999996
 guidedview 49 0.000000 0.000000 0.000000 44.999996 88.439110 -0.000002 59.999996 0 25 9000 50 18000 43 27000 25 'right forward up four times'
 guidedview 50 0.000000 0.003814 0.000000 89.999992 88.439110 -0.000000 59.999996 0 49 9000 51 18000 44 27000 49 'right up four times'
 guidedview 51 0.000000 0.043100 0.000000 134.999985 88.439110 -0.000000 59.999996 0 50 9000 45 18000 45 27000 50 'right back up four times'
-
-
-// Custom Snap Views
-
-customview 0.000000 0.000000 0.000000 0.000000 -36.638332 0.000000 46.000004 "MFDs - backup instruments" 1;
-customview 0.000000 0.000000 0.000000 0.000000 -61.739338 0.000000 46.000004 "Kneeboards" 1;
