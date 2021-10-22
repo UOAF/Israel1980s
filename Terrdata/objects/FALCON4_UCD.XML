@@ -1502,22 +1502,8 @@
     </UCD>
     <UCD Num="19">
         <CtIdx>336</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>219</VehicleCtIdx_0>
         <VehicleCtIdx_1>219</VehicleCtIdx_1>
         <VehicleCtIdx_2>219</VehicleCtIdx_2>
@@ -1764,14 +1750,8 @@
     </UCD>
     <UCD Num="22">
         <CtIdx>306</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>185</VehicleCtIdx_0>
         <VehicleCtIdx_1>185</VehicleCtIdx_1>
         <VehicleCtIdx_2>185</VehicleCtIdx_2>
@@ -1934,7 +1914,6 @@
     <UCD Num="24">
         <CtIdx>307</CtIdx>
         <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
         <VehicleCtIdx_0>186</VehicleCtIdx_0>
         <VehicleCtIdx_1>186</VehicleCtIdx_1>
         <VehicleCtIdx_2>186</VehicleCtIdx_2>
@@ -2333,8 +2312,6 @@
         <CtIdx>304</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
-        <ElementCount_2>2</ElementCount_2>
-        <ElementCount_3>2</ElementCount_3>
         <VehicleCtIdx_0>183</VehicleCtIdx_0>
         <VehicleCtIdx_1>183</VehicleCtIdx_1>
         <VehicleCtIdx_2>183</VehicleCtIdx_2>
@@ -4423,8 +4400,6 @@
         <CtIdx>291</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
-        <ElementCount_2>2</ElementCount_2>
-        <ElementCount_3>2</ElementCount_3>
         <VehicleCtIdx_0>166</VehicleCtIdx_0>
         <VehicleCtIdx_1>166</VehicleCtIdx_1>
         <VehicleCtIdx_2>166</VehicleCtIdx_2>
@@ -19243,7 +19218,7 @@
         <VehicleCtIdx_6>707</VehicleCtIdx_6>
         <VehicleCtIdx_7>3610</VehicleCtIdx_7>
         <ElementFlags_3>1</ElementFlags_3>
-        <ElementFlags_5>10</ElementFlags_5>
+        <ElementFlags_5>2</ElementFlags_5>
         <ElementFlags_7>8</ElementFlags_7>
         <Flags>24</Flags>
         <Name>Air Defense</Name>
@@ -19892,7 +19867,7 @@
         <VehicleCtIdx_6>37</VehicleCtIdx_6>
         <VehicleCtIdx_7>3610</VehicleCtIdx_7>
         <ElementFlags_3>1</ElementFlags_3>
-        <ElementFlags_5>10</ElementFlags_5>
+        <ElementFlags_5>2</ElementFlags_5>
         <ElementFlags_7>8</ElementFlags_7>
         <Flags>29</Flags>
         <Name>Air Defense</Name>
@@ -24740,7 +24715,6 @@
         <CtIdx>3089</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
-        <ElementCount_3>2</ElementCount_3>
         <VehicleCtIdx_0>2425</VehicleCtIdx_0>
         <VehicleCtIdx_1>2425</VehicleCtIdx_1>
         <VehicleCtIdx_2>2425</VehicleCtIdx_2>
@@ -27651,7 +27625,6 @@
         <CtIdx>2294</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
-        <ElementCount_2>2</ElementCount_2>
         <VehicleCtIdx_0>2293</VehicleCtIdx_0>
         <VehicleCtIdx_1>2293</VehicleCtIdx_1>
         <VehicleCtIdx_2>2293</VehicleCtIdx_2>
@@ -29950,22 +29923,8 @@
     </UCD>
     <UCD Num="364">
         <CtIdx>2531</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2410</VehicleCtIdx_0>
         <VehicleCtIdx_1>2410</VehicleCtIdx_1>
         <VehicleCtIdx_2>2410</VehicleCtIdx_2>
@@ -31457,8 +31416,6 @@
         <CtIdx>2549</CtIdx>
         <ElementCount_0>2</ElementCount_0>
         <ElementCount_1>2</ElementCount_1>
-        <ElementCount_2>2</ElementCount_2>
-        <ElementCount_3>2</ElementCount_3>
         <VehicleCtIdx_0>2416</VehicleCtIdx_0>
         <VehicleCtIdx_1>2416</VehicleCtIdx_1>
         <VehicleCtIdx_2>2416</VehicleCtIdx_2>
@@ -31629,10 +31586,8 @@
     </UCD>
     <UCD Num="384">
         <CtIdx>2551</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2401</VehicleCtIdx_0>
         <VehicleCtIdx_1>2401</VehicleCtIdx_1>
         <VehicleCtIdx_2>2401</VehicleCtIdx_2>
@@ -31794,22 +31749,8 @@
     </UCD>
     <UCD Num="386">
         <CtIdx>2553</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>1048</VehicleCtIdx_0>
         <VehicleCtIdx_1>1048</VehicleCtIdx_1>
         <VehicleCtIdx_2>1048</VehicleCtIdx_2>
@@ -31988,22 +31929,8 @@
     </UCD>
     <UCD Num="388">
         <CtIdx>2555</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2395</VehicleCtIdx_0>
         <VehicleCtIdx_1>2395</VehicleCtIdx_1>
         <VehicleCtIdx_2>2395</VehicleCtIdx_2>
@@ -32511,22 +32438,8 @@
     </UCD>
     <UCD Num="394">
         <CtIdx>2561</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2398</VehicleCtIdx_0>
         <VehicleCtIdx_1>2398</VehicleCtIdx_1>
         <VehicleCtIdx_2>2398</VehicleCtIdx_2>
@@ -32862,10 +32775,8 @@
     </UCD>
     <UCD Num="398">
         <CtIdx>2565</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2402</VehicleCtIdx_0>
         <VehicleCtIdx_1>2402</VehicleCtIdx_1>
         <VehicleCtIdx_2>2402</VehicleCtIdx_2>
@@ -33280,7 +33191,7 @@
         <Dam_Nuclear>100</Dam_Nuclear>
         <Dam_Other>0</Dam_Other>
         <RadarVehicle>0</RadarVehicle>
-        <SquadronStoresIdx>402</SquadronStoresIdx>
+        <SquadronStoresIdx>403</SquadronStoresIdx>
         <UnitIcon>10066</UnitIcon>
     </UCD>
     <UCD Num="403">
@@ -33541,22 +33452,8 @@
     </UCD>
     <UCD Num="406">
         <CtIdx>2573</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2406</VehicleCtIdx_0>
         <VehicleCtIdx_1>2406</VehicleCtIdx_1>
         <VehicleCtIdx_2>2406</VehicleCtIdx_2>
@@ -33735,22 +33632,8 @@
     </UCD>
     <UCD Num="408">
         <CtIdx>2575</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2407</VehicleCtIdx_0>
         <VehicleCtIdx_1>2407</VehicleCtIdx_1>
         <VehicleCtIdx_2>2407</VehicleCtIdx_2>
@@ -33929,22 +33812,8 @@
     </UCD>
     <UCD Num="410">
         <CtIdx>2577</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2408</VehicleCtIdx_0>
         <VehicleCtIdx_1>2408</VehicleCtIdx_1>
         <VehicleCtIdx_2>2408</VehicleCtIdx_2>
@@ -35325,22 +35194,8 @@
     </UCD>
     <UCD Num="426">
         <CtIdx>2593</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2432</VehicleCtIdx_0>
         <VehicleCtIdx_1>2432</VehicleCtIdx_1>
         <VehicleCtIdx_2>2432</VehicleCtIdx_2>
@@ -38560,22 +38415,8 @@
     </UCD>
     <UCD Num="464">
         <CtIdx>2631</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2460</VehicleCtIdx_0>
         <VehicleCtIdx_1>2460</VehicleCtIdx_1>
         <VehicleCtIdx_2>2460</VehicleCtIdx_2>
@@ -43124,22 +42965,8 @@
     </UCD>
     <UCD Num="516">
         <CtIdx>2493</CtIdx>
-        <ElementCount_0>1</ElementCount_0>
-        <ElementCount_1>1</ElementCount_1>
-        <ElementCount_2>1</ElementCount_2>
-        <ElementCount_3>1</ElementCount_3>
-        <ElementCount_4>1</ElementCount_4>
-        <ElementCount_5>1</ElementCount_5>
-        <ElementCount_6>1</ElementCount_6>
-        <ElementCount_7>1</ElementCount_7>
-        <ElementCount_8>1</ElementCount_8>
-        <ElementCount_9>1</ElementCount_9>
-        <ElementCount_10>1</ElementCount_10>
-        <ElementCount_11>1</ElementCount_11>
-        <ElementCount_12>1</ElementCount_12>
-        <ElementCount_13>1</ElementCount_13>
-        <ElementCount_14>1</ElementCount_14>
-        <ElementCount_15>1</ElementCount_15>
+        <ElementCount_0>2</ElementCount_0>
+        <ElementCount_1>2</ElementCount_1>
         <VehicleCtIdx_0>2472</VehicleCtIdx_0>
         <VehicleCtIdx_1>2472</VehicleCtIdx_1>
         <VehicleCtIdx_2>2472</VehicleCtIdx_2>

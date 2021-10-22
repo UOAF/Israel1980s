@@ -1633,7 +1633,7 @@ hardpoint16Grp 0
 #-----------------------------------------------------
 # Sounds
 #-----------------------------------------------------
-sndExternalVol -2000
+sndExternalVol -1600
 sndSpdBrakeStart 141
 sndSpdBrakeLoop 140
 sndSpdBrakeEnd 139
