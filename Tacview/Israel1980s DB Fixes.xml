@@ -304,6 +304,18 @@
 		</Properties>
 	</DefaultProperties>
 
+	<DefaultProperties Id="Missile.AG.AGM-45" Base="Missile.AG">
+		<Criteria>
+			<Name>AGM-45 Shrike</Name>		<!-- BMS ITO80s -->
+		</Criteria>
+		<Properties>
+			<ShortName>AGM-45</ShortName>
+			<LongName>AGM-45 Shrike</LongName>
+			<FullName>AGM-45 Shrike</FullName>
+			<Shape>Missile.AIM-7M.obj</Shape>
+		</Properties>
+	</DefaultProperties>
+
 	<!-- SAM RADARS -->
 
 	<DefaultProperties Id="AntiAircraft.SAM.MIM-23.AN/MPQ-46" Base="AntiAircraft.SAM.TrackingRadar">
