@@ -12,10 +12,10 @@
     <RWD Num="1">
         <Name>AGM-45</Name>
         <DetectionRange>1.0</DetectionRange>
-        <ScanAngleTop>90.0</ScanAngleTop>
-        <ScanAngleBottom>-90.0</ScanAngleBottom>
-        <ScanAngleLeft>-180.0</ScanAngleLeft>
-        <ScanAngleRight>180.0</ScanAngleRight>
+        <ScanAngleTop>20.0</ScanAngleTop>
+        <ScanAngleBottom>-20.0</ScanAngleBottom>
+        <ScanAngleLeft>-20.0</ScanAngleLeft>
+        <ScanAngleRight>20.0</ScanAngleRight>
         <Flags>0</Flags>
     </RWD>
     <RWD Num="2">
