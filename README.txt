@@ -1,10 +1,10 @@
-Israel 1980s, Version 1.6:
+Israel 1980s, Version 1.7:
 This theater is a mod of the existing Israel theater for Falcon BMS 4.35.
 
 
 Theater Installation:
 
--Download and install the official Israel Theater Of Operations for BMS 4.35 at https://www.benchmarksims.org/forum/showthread.php?40653-Israel-Theater-Of-Operations-for-BMS-4-35 (currently version 1.05.3 for BMS 4.35 U2). This is required to use Israel 1980s;
+-Download and install the official Israel Theater Of Operations for BMS 4.35 at https://forum.falcon-bms.com/topic/19428/israel-theater-of-operations-for-bms-4-35 (currently version 1.05.4 for BMS 4.35 U3). This is required to use Israel 1980s;
 
 -Unzip "Add-On Israel1980s" into "Falcon BMS 4.35\Data\";
 
